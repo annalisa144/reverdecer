@@ -70,7 +70,7 @@ defaults:
       layout: "post"
 
 # Name of repository, for use with Staticman
-repository: "annalisagross/reverdecer"
+repository: "annalisa144/reverdecer"
 
 # Staticman comments (see staticman.yml for configuration).
 staticman:

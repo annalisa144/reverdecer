@@ -1,0 +1,16 @@
+current directory: /mnt/c/Users/annal/Documents/new_blog/reverdecer/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+/usr/bin/ruby2.4 -r ./siteconf20180623-481-i0o00i.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/annal/Documents/new_blog/reverdecer/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/annal/Documents/new_blog/reverdecer/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /mnt/c/Users/annal/Documents/new_blog/reverdecer/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20180623-481-1minpk4

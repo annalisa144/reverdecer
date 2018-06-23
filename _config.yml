@@ -1,15 +1,15 @@
-title: Reverdecer
+title: El Terreno Reverdecer
 description: Permaculture VanDwelling
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reverdecer.annalisagross.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    El Terreno Reverdecer
+author-name:    Anna Lisa Gross
 author-image:   profile.jpg
 author-job:     Permaculture VanDwelling in Mexico
 author-email:   # Add your email for contant form.
 author-twitter: annalisa144 # Add your twitter account
-about-author:   Anna Lisa &#38; Phillip live in their van with three dogs and two cats (and uninvited rodents and bugs) in the mountains of central Mexico. This land lives as we live&#58; thirsty, hungry, in myriad relationship. We look forward to your ideas and support on this permaculture adVanture.
+about-author:   Anna Lisa &#38; Phillip live in their van with three dogs and two cats (and uninvited rodents and bugs) in the mountains of central Mexico. This land lives as we live&#58; thirsty, hungry, in myriad relationship. We look forward to your ideas and support on this <a href="google.com">permaculture</a> adVanture.
 
 # Social settings
 social-twitter:   annalisa144
@@ -55,7 +55,7 @@ exclude:
   - Gemfile.lock
   - vendor
 
-future: true
+future: false
 
 defaults:
   -

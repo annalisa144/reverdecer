@@ -1,25 +1,26 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Reverdecer
+description: Permaculture VanDwelling
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://reverdecer.annalisagross.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    Anna Lisa Gross
+author-image:   profile.jpg
+author-job:     Writer and Farmer
+author-email:   # Add your email for contant form.
+author-twitter: annalisa144 # Add your twitter account
+about-author:   Re-green, Revive, Reanimate
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
-social-youtube:
+social-twitter:   annalisa144
+social-facebook:  annalisa.gross.5
+social-github:    annalisa144
+social-pinterest: 
+social-instagram: annalisamexico
+social-youtube:   indiana144
 social-vk:   
 social-linkedin:
+rss: ""
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
@@ -28,13 +29,15 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll/figure
 
 paginate: 7
 paginate_path: "/page/:num/"
@@ -51,3 +54,24 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      date: "2099-01-01 00:00:00 -0500"
+      image: ""
+      tags: ""
+      categories: ""
+      layout: "post"
+
+# Name of repository, for use with Staticman
+repository: "annalisagross/reverdecer-flexton"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "master"

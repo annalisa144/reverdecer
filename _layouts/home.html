@@ -61,6 +61,10 @@ layout: default
           <li class="c-social__item"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><div data-icon='ei-sc-linkedin' data-size='s'></div></a></li>
         {% else %}
         {% endif %}
+        {%- if site.rss -%}
+          <li class="c-social__item"><a href="{{ 'feed.xml' | relative_url }}" target="_blank"><div data-icon='ei-chart' data-size='s'>rss</div></a></li>
+        {% else %}
+        {%- endif -%}
       </ul>
     </div>
     <div class="c-copyright">

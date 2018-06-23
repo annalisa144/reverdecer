@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Showering
-image: 
 date: '2018-06-22 00:00:00'
+image: the_evolution_of_showering.jpg
 categories: permaculture water shower solar simple living mexico rv van
 layout: post
 ---

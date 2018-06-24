@@ -1,6 +1,6 @@
 ---
 title: What is permaculture?
-date: '2018-06-23 18:00:00'
+date: '2018-06-20 18:00:00'
 image: what_is_permaculture.jpg
 tags: mexico morelia michoacan permaculture trees gardens sustainable
 categories: permaculture terreno

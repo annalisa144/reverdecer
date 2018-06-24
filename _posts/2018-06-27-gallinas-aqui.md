@@ -1,6 +1,6 @@
 ---
 title: Gallinas aqui!
-date: '2018-06-27 23:00:00'
+date: '2018-06-24 11:00:00'
 image: gallinas-aqui.jpg
 categories: permaculture organic mexico farming poultry
 layout: post

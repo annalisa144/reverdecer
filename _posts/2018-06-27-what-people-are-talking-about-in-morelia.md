@@ -1,7 +1,7 @@
 ---
 title: What people are talking about in Morelia
 date: '2018-06-27 23:00:00'
-image: 01-mexico-celebrations-earthquake.adapt.885.1.jpg
+image: 01-mexico-celebrations-earthquake.adapt.885.1_.jpg
 tags: sports priorities violence elections border
 layout: post
 ---

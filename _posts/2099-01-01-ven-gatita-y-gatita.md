@@ -1,7 +1,7 @@
 ---
 title: Ven, gatita y gatita
 date: '2018-06-23 11:00:00'
-image: rat-trap.jpg
+image: rat-trap_.jpg
 categories: permaculture mexico vandwelling pests pets
 layout: post
 ---

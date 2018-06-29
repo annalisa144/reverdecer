@@ -2,7 +2,7 @@
 title: Root bound
 date: '2018-05-07 14:27:15'
 image: root-bound.jpg
-categories: plants
+categories: plants neighborhood
 layout: post
 ---
 

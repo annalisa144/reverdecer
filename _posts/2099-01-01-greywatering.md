@@ -1,14 +1,9 @@
 ---
 title: Greywatering
 date: '2018-06-21 00:00:00'
-<<<<<<< HEAD
-image: graywatering.jpg
-tags: permaculture reuse farm mexico conservation
-categories: water shelter plants
-=======
 image: graywatering_.jpg
-categories: permaculture reuse farm mexico conservation
->>>>>>> 9a30c0d1949f7ed570100704109223a06da980df
+tags: permaculture reuse farm mexico conservation
+categories: water plants
 layout: post
 ---
 

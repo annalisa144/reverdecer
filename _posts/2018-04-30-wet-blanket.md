@@ -1,8 +1,9 @@
 ---
+title: Wet Blanket
 date: '2018-04-30 14:52:00'
 image: wet-blanket.jpg
+categories: vandwelling water
 layout: post
-title: Wet Blanket
 ---
 
 Follow-up on laundry...our bedding is too big for bucket washing, so I've been hanging sheets and blankets out and spot cleaning. Which is a good use of time and water, it turns out, which I never would have chosen if we had a normal electric washing machine. My perspective on clean and cleaning is rather circumstantial, it turns out. More on that another time.

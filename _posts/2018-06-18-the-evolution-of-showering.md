@@ -25,6 +25,7 @@ Pros:
 * shower bags never fell down on us mid-shower
 * we weren't standing in mud while showering
 * we could send the water out to water trees, at least in theory (graywater is fine for trees, and esp our shower water since our only cleaning product is baking soda)
+
 Cons:
 * I couldn't reach the highest carrabeaner for hanging the shower bags
 * even the highest hanging spot meant the hose on our bags was at thigh-level, so we had to use one hand on the hose at all times (or if I was washing my hair I'd bend in half at the waist to get my hair below the water)

@@ -17,6 +17,9 @@ layout: home
       <span class="c-post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
       <span class="c-post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus:
         250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    {% if site.data.comments[post.slug] %}
+      <span class="c-post-words">&nbsp;&nbsp;&nbsp;—&nbsp;{{ site.data.comments[post.slug] | size }} comments</span>
+    {% endif %}
     </div>
   </article>
   {% endfor %}

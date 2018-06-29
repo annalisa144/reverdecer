@@ -2,6 +2,7 @@
 title: First video of living en El Terreno
 date: '2018-04-22 00:00:00'
 image: el-terreno_.jpg
+categories: vandwelling plants
 layout: post
 ---
 

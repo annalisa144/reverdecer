@@ -1,9 +1,14 @@
 ---
 title: Gallinas aqui!
 date: '2018-06-24 11:00:00'
+<<<<<<< HEAD
 image: gallinas-aqui.jpg
 tags: permaculture organic mexico farming poultry
 categories: chickens
+=======
+image: gallinas-aqui_.jpg
+categories: permaculture organic mexico farming poultry
+>>>>>>> 9a30c0d1949f7ed570100704109223a06da980df
 layout: post
 ---
 

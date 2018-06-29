@@ -1,7 +1,7 @@
 ---
 title: Picadura escorpion
 date: '2018-06-26 23:00:00'
-image: scorpion.jpg
+image: scorpion_.jpg
 tags: pests
 categories: pests
 layout: post

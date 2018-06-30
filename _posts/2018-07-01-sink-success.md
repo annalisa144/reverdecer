@@ -1,10 +1,10 @@
 ---
+title: Sink Success!
 date: '2018-07-01 23:00:00'
 image: sink_.jpg
 tags: vandwelling
 categories: water
 layout: post
-title: Sink Success!
 ---
 
 We're sinking to new heights of permaculture harmony, as close to the easy life as we've ever been here.
@@ -24,3 +24,4 @@ Now we have such luxury! Check out our kitchen "plumbing."
 
 And here's our bathroom sink.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XRiLU-zDVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Read more about tippy-taps.](http://www.tippytap.org/)

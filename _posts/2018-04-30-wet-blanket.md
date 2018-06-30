@@ -1,7 +1,7 @@
 ---
 title: Wet Blanket
 date: '2018-04-30 14:52:00'
-image: wet-blanket.jpg
+image: wet-blanket_.jpg
 categories: vandwelling water
 layout: post
 ---

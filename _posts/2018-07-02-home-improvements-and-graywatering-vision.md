@@ -1,7 +1,7 @@
 ---
 title: Home improvements and graywatering vision
 date: '2018-07-02 23:00:00'
-image: puptent.jpg
+image: puptent_.jpg
 tags: water vandwelling shower sink bathroom rv permaculture graywater dry toilet
 categories: water
 layout: post

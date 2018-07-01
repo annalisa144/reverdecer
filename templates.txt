@@ -1,1 +1,7 @@
 | [![](/images/_.jpg)](/images/.jpg) | [![](/images/_.jpg)](/images/.jpg) |
+
+
+
+{% figure caption:"**" %}
+[![](/images/_.jpg){:width="60%"}](/images/.jpg)
+{% endfigure %}

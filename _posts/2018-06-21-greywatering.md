@@ -18,7 +18,7 @@ What about pH? Soap, like baking soda, is alkaline, and we use a small amount fo
 
 That's the bathroom-ish system. In the kitchen we're washing dishes and produce, so some dishsoap and also  BacDyn/Microdyn disenfectant end up in our gardens. The disenfectant is important for anything we're going to eat fresh, killing bacteria. What does it do to our garden plants, then? I believe the active ingredient is collodial silver, and have no idea what that might do. Other produce disenfecting options are bleach (definitely bad for graywater) or vinegar (but perhaps not as effective). I've even read that grapeseed oil can help?
 {% figure caption:"*All but the cucumber came from our land so we didn't have to disenfect it!*" %}
-[![Salad](/images/salad_.jpg)](/images/salad.jpg)
+[![Salad](/images/salad_.jpg){:width="60%"}](/images/salad.jpg)
 {% endfigure %}
 Finally, we have a few buckets in our water system - since we don't have faucets to turn, we scoop from a bucket for dishwashing or quick baths, or use the footpump with bucket for washing our hands. And we have some buckets around to hold extra rain water since it's so valuable. The bottom of these buckets end up with some algae-ish growth after a few days. We've read that we can add bleach or apple cider vinegar to buckets of water to inhibit scum.
 

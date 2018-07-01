@@ -1,4 +1,16 @@
+--- regular image
 [![](/images/_.jpg)](/images/.jpg)
 
+--- smaller image
+[![](/images/_.jpg){:width="60%"}](/images/.jpg)
 
+--- 2 images in side-by-side table
 | [![](/images/_.jpg)](/images/.jpg) | [![](/images/_.jpg)](/images/.jpg) |
+
+--- caption
+{% figure caption:"**" %}
+[![](/images/_.jpg)](/images/.jpg)
+{% endfigure %}
+
+--- create thumbnails (in ubuntu)
+./create_thumbnails.sh

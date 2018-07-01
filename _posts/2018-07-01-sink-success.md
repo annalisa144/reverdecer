@@ -7,7 +7,7 @@ categories: water
 layout: post
 ---
 
-We're sinking to new heights of permaculture harmony, as close to the easy life as we've ever been here.
+We're sinking to new heights of [permaculture](https://reverdecer.annalisagross.com/2018/06/20/what-is-permaculture/) harmony, as close to the easy life as we've ever been here.
 We started with this sink system.
 
 [![](/images/sink_old_.jpg)](/images/sink_old.jpg)

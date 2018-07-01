@@ -1,6 +1,6 @@
 ---
 title: Home improvements and graywatering vision
-date: '2018-07-02 23:00:00'
+date: '2018-07-07 23:00:00'
 image: puptent_.jpg
 tags: water vandwelling shower sink bathroom rv permaculture graywater dry toilet
 categories: water
@@ -16,3 +16,5 @@ We've come a long way since we crawled in and out of a tent to use the toilet an
 [And our sinks are the best they've ever been!](http://reverdecer.annalisagross.com/2018/07/01/sink-success/)
 
 [![](/images/sink_.jpg)](/images/sink.jpg)
+
+Why all this reusing water? El Terreno is dry 2/3 of the year or more; the rain comes in the summer. We're trying to stretch that rainwater as far as we can because it's cleaner than the water we can have delivered, it's free, it's what this place is designed to drink, and it's part of [permaculture design](https://reverdecer.annalisagross.com/2018/06/20/what-is-permaculture/) to put resources to multiple uses.

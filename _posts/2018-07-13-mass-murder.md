@@ -1,9 +1,9 @@
 ---
 title: Mass murder
 date: '2018-07-13 23:00:00'
-image: scorpion_2_.jpg
+image: scorpion_2.jpg
 tags: pests bugs worms grubs garden
-categories: pests cats plants
+categories: pests cats dogs plants
 layout: post
 ---
 
@@ -16,7 +16,7 @@ Any tips on discouraging them? I can't dig amidst our carrots, radish, jicama an
 What we're dealing with is la gallina ciega (Phyllophaga spp.) So basically June bugs. Lots of tips online - [any of these work for you?](https://www.homeremedynation.com/how-to-get-rid-of-june-bugs-naturally-quickly/)
 
 Other things I routinely murder:
-* mosquitos
+* mosquitos - we do try to disuade them with essential oil and citronella torches
 * flies - we live next to a horse farm, there are so, so, so many moscas, on our food, on our faces, on our legs, on our dishes...
 [![](/images/moscas_.jpg){:width="60%"}](/images/moscas.jpg)
 * ants - they bite the dogs often (us too sometimes) and the burn last hours

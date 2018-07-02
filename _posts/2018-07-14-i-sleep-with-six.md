@@ -1,7 +1,7 @@
 ---
 title: I sleep with six
 date: '2018-07-14 02:00:00'
-image: cats.jpg
+image: cats_on_max_.jpg
 tags: cats dogs pests
 categories: cats dogs pests
 layout: post
@@ -23,3 +23,4 @@ A few minutes after I shot the second video the black kitten puked up a stomach-
 Oh and then one of us had stepped in someone's poop and smeared it right outside the van and Hannah jumped into bed with it on her feet and now Booker has some on his feet too and walked it onto me so the five good reasons to stay in bed all day have sent me out to clean a few times already this morning.
 
 Eh, who am I kidding, we all got back in bed on a drizzly morning. A cup of coffee, a good book, and these kittens, so tiny I really can't feel their weight on my lap, are too heavy to escape.
+[![](/images/cats_.jpg){:width="60%"}](/images/cats.jpg)

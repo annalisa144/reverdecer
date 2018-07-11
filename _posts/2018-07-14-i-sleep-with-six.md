@@ -24,3 +24,5 @@ Oh and then one of us had stepped in someone's poop and smeared it right outside
 
 Eh, who am I kidding, we all got back in bed on a drizzly morning. A cup of coffee, a good book, and these kittens, so tiny I really can't feel their weight on my lap, are too heavy to escape.
 [![](/images/cats_.jpg){:width="60%"}](/images/cats.jpg)
+
+Update, by the time I got back from Annual Conference the kittens seemed to have doubled in size! They're the perfect antidote to a gloomy day in the mud - until we step in their poop.

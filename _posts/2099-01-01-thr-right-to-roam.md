@@ -8,3 +8,4 @@ layout: post
 
 http://lakeshoremag.com/the-geneva-lake-shore-path/
 https://en.wikipedia.org/wiki/Freedom_to_roam
+https://99percentinvisible.org/episode/right-to-roam/

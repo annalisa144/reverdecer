@@ -1,8 +1,8 @@
 ---
 title: Mass murder
 date: '2018-07-13 23:00:00'
-image: scorpion_2.jpg
-tags: pests bugs worms grubs garden
+image: scorpion_2_.jpg
+tags: pests bugs worms grubs garden permacultura mexico
 categories: pests cats dogs plants
 layout: post
 ---

@@ -2,7 +2,7 @@
 title: Sink Success!
 date: '2018-07-01 23:00:00'
 image: sink_.jpg
-tags: vandwelling
+tags: vandwelling vanlife permacultura mexico
 categories: water
 layout: post
 ---
@@ -24,4 +24,8 @@ Now we have such luxury! Check out our kitchen "plumbing."
 
 And here's our bathroom sink.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XRiLU-zDVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-[Read more about tippy-taps.](http://www.tippytap.org/)
+We've run into some snags:
+* mold-type stuff growing in the jug which we never managed to clean out (so it went into the garden and Phillip adapted another jug, and we'll probably need to do that again every couple weeks, or start painting the jug)
+* water came out too slowly and I never felt like I got soap off my hands (so Phillip made the watering hole in the jug bigger)
+* the water simply trickles down the side of the jug, rather than onto our hands, as soon as the jug is less than 2/3 full (so we have to refill at least once a day)
+Still our water systems are so much smoother than ever before! [Read more about tippy-taps.](http://www.tippytap.org/)

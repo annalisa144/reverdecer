@@ -3,6 +3,7 @@ title: Then and Now
 date: '2018-07-03 23:00:00'
 image: then_and_now.jpg
 tags: neighborhood plants mexico morelia michoacan trees fire dry wet rain season
+  permacultura
 categories: neighborhood plants
 layout: post
 ---

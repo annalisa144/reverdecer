@@ -2,7 +2,7 @@
 title: Picadura escorpion
 date: '2018-06-26 23:00:00'
 image: scorpion_.jpg
-tags: pests
+tags: pests vanlife vanlifewithpets mexico
 categories: pests spanish neighborhood
 layout: post
 ---
@@ -28,4 +28,4 @@ When I encountered a scorpion on a rock the other day, I pre-emptively killed it
 /images/scorpion_2_.jpg)](/images/scorpion_2.jpg)
 {% endfigure %}
 
-I still don't think my country should pre-emptively kill people just in case they might become terrorists or other ridiculous, counterproductive violence like that. But I do have a tad more empathy for people who choose violence to protect those they love. And I pray I only face these choices in the form of scorpions, mosquitos, mice and [grubs](https://reverdecer.annalisagross.com/2018/06/24/gallinas-aqui/).
+I still don't think my country should pre-emptively kill people just in case they might become terrorists or other ridiculous, counterproductive violence like that. But I am gaining empathy for people who choose violence to protect those they love. And I pray I only face [these choices](https://reverdecer.annalisagross.com/2018/07/13/mass-murder/) in the form of scorpions, mosquitos, [mice](https://reverdecer.annalisagross.com/2018/06/23/ven-gatita-y-gatita/) and [grubs](https://reverdecer.annalisagross.com/2018/06/24/gallinas-aqui/).

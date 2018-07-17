@@ -2,6 +2,7 @@
 title: Chicken tractor
 date: '2018-05-07 14:52:05'
 image: chicken-tractor-1_.jpg
+tags: vanlife permacultura mexico
 categories: chickens dogs
 layout: post
 ---

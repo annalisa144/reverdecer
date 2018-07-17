@@ -3,7 +3,7 @@ title: What is permaculture?
 date: '2018-06-20 18:00:00'
 image: what_is_permaculture_.jpg
 tags: mexico morelia michoacan permaculture trees gardens sustainable
-categories: shelter plants
+categories: plants morelia
 layout: post
 ---
 
@@ -28,4 +28,4 @@ We intend to revive and reanimate ourselves, too, in our living here. So far we'
 
 You may have read my blog posts at http://www.annalisagross.com but Phillip built this blog just for our permaculture adVanture, and made it easy for you to comment and follow; we look forward to your ideas and support.
 
-Subscribe with this rss feed: http://reverdecer.annalisagross.com/feed.xml or if you follow me on twitter, instagram or this newsletter, you will be notified when we post.
+Subscribe with this rss feed: http://reverdecer.annalisagross.com/feed.xml or if you follow me on twitter, instagram or this newsletter, you might see when we post.

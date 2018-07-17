@@ -2,7 +2,7 @@
 title: Greywatering
 date: '2018-06-21 00:00:00'
 image: graywatering_.jpg
-tags: permaculture reuse farm mexico conservation
+tags: permaculture reuse farm mexico conservation permacultura offthegrid vanlife
 categories: water plants
 layout: post
 ---

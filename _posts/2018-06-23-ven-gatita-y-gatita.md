@@ -2,7 +2,7 @@
 title: Ven, gatita y gatita
 date: '2018-06-23 11:00:00'
 image: rat-trap_.jpg
-tags: permaculture mexico vandwelling pests pets
+tags: permaculture mexico vandwelling pests pets vanlifewithpets
 categories: vandwelling pests cats
 layout: post
 ---
@@ -13,7 +13,7 @@ First we thought we would adopt our uncle's cat, but that never happened. But we
 
 It drug that sticky trap at least 16 feet, and from the hair left behind we thought it might be a cat, but those teeth marks...possum.
 
-I was at [Mercado Independencia](http://michoacan.travel/es/lugares/mercado-independencia.html) with our neighbors, looking for chickens. We went across the street because we could see cages in a shop. Turns out they had no chickens, but right away 12-year-old Emilio pointed to the kittens and said, "You should get one!" Because I'd been complaining about shaking mouse poop out of my clothes.
+I was at [Mercado Independencia](http://michoacan.travel/es/lugares/mercado-independencia.html) with our neighbors, looking for chickens. We went across the street because we could see cages in a shop. Turns out they had no chickens, but right away 13-year-old Emilio pointed to the kittens and said, "You should get one!" Because I'd been complaining about shaking mouse poop out of my clothes.
 
 I think it was the sad sight of four kittens in a cage sized for a hamster, but I brought home two. I wanted the black one of course, since they are the eptimome of cat. But the gray one was so fiesty, clearly the most energetic and curious.  And shouldn't they have each other?
 

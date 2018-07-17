@@ -2,7 +2,7 @@
 title: Family trip
 date: '2018-07-09 23:00:00'
 image: booker-phillip.jpg
-tags: pets cats dogs vet medicine mexico
+tags: pets cats dogs vet medicine mexico vanlifewithpets
 categories: cats dogs morelia spanish
 layout: post
 ---

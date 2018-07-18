@@ -1,15 +1,19 @@
 ---
 title: The Right to Roam
-date: '2018-07-20 07:00:00'
-image: wet_panorama_.jpg
+date: '2018-07-22 07:00:00'
+image: monico_arias.jpg
 tags: hiking roaming walking mexico private public
 categories: neighborhood
 layout: post
 ---
 
-This is a right to roam country - at least that's the way the culture has been described to us.
+This is a right to roam country - at least that's the way the culture has been described to us. This is the view when we step out of our gate and look right; don't you want to roam here?
 
 If your land isn't fenced in, people, horses, cows, dogs and everything else is welcome to walk through it. In fact there are plenty of "parachuters" (squatters) living in our neighborhood. If we had to take public roads to visit our uncle at the university, for example, or buy coffee from Gaby, it would take 45 min on foot. But with the informal right to roam of Mexico we can do it in 25 min. (The time savings on a bike aren't as steep for me cause I end up walking my bike part of the rugged route.)
+
+{% figure caption:"**" %}
+[![](/images/_.jpg)](/images/.jpg)
+{% endfigure %}
 
 In Pennsylvania their was a gorgeous forest around our apartment and we rarely chose to drive to a state park to hike since we could just set out on foot with the dogs and keep it simple. But two hundred yards out our backdoor the land was no longer our landlord's. At first it was the neighbors', then some other neighbors', then the power company or another neighbor.... We lived in hunting territory so not only did the neighbor have guns, they might be shooting deer, pheasant, or whatever was in season so we wore bright colors and watched carefully for angry neighbors. Because Pennsylvania isn't a right to roam culture. (But there are generous camping rules in the abundant state forests.)
 
@@ -23,6 +27,6 @@ For an inspiring listen on how ramblers got the right to roam in the UK, [check 
 
 The informal, free nature of Mexican culture extends to dogs, which means many people walk their dogs without a leash and many dogs are left in the street all day. Especially when we're roaming with *our* dogs we're on alert and carry a stick and Phillip's water bottle (which can spray like a water gun). Usually yelling at los perros de calle is sufficient but we've used the other deterrents too. 
 
-{% figure caption:"*Climbing my least favorite colina - hill - coming home from the gas station, with [gas for the van.](https://reverdecer.annalisagross.com/2018-07-21-electricity/) Phillip has the stick, I have his water bottle.*" %}
+{% figure caption:"*Climbing my least favorite colina - hill - coming home from the gas station, with [gas for the van.](https://reverdecer.annalisagross.com/2018-07-21-electricity/) Phillip has the stick, I have his water bottle. Least favorite hill because vehicles barely fit and the downhill side is a cliff.*" %}
 [![](/images/colina_.jpg)](/images/colina.jpg)
 {% endfigure %}

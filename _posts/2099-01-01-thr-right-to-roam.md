@@ -1,12 +1,18 @@
 ---
 title: The Right to Roam
+<<<<<<< HEAD
 date: '2018-07-20 07:00:00'
 image: wet_panorama_.jpg
 tags: hiking roaming walking mexico private public
+=======
+date: '2018-07-17 23:00:00 -0500'
+image: http://localhost:4000/images/wet_panorama_.jpg
+>>>>>>> 92b1665d6a9224f81c494073dc48bf0ad2031fa3
 categories: neighborhood
 layout: post
 ---
 
+<<<<<<< HEAD
 This is a right to roam country - at least that's the way the culture has been described to us.
 
 If your land isn't fenced in, people, horses, cows, dogs and everything else is welcome to walk through it. In fact there are plenty of "parachuters" (squatters) living in our neighborhood. If we had to take public roads to visit our uncle at the university, for example, or buy coffee from Gaby, it would take 45 min on foot. But with the informal right to roam of Mexico we can do it in 25 min. (The time savings on a bike aren't as steep for me cause I end up walking my bike part of the rugged route.)
@@ -26,3 +32,8 @@ The informal, free nature of Mexican culture extends to dogs, which means many p
 {% figure caption:"*Climbing my least favorite colina - hill - coming home from the gas station, with [gas for the van.](https://reverdecer.annalisagross.com/2018-07-21-electricity/) Phillip has the stick, I have his water bottle.*" %}
 [![](/images/colina_.jpg)](/images/colina.jpg)
 {% endfigure %}
+=======
+http://lakeshoremag.com/the-geneva-lake-shore-path/
+https://en.wikipedia.org/wiki/Freedom_to_roam
+https://99percentinvisible.org/episode/right-to-roam/
+>>>>>>> 92b1665d6a9224f81c494073dc48bf0ad2031fa3

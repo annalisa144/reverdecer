@@ -1,10 +1,10 @@
 ---
+title: Stuff we have to do before breakfast
 date: '2018-07-18 23:00:00'
 image: kittens_kitchen_
 tags: cats dogs water mexico vandwelling rv life
 categories: cats dogs water
 layout: post
-title: Stuff we have to do before breakfast
 ---
 
 * wake up before dawn to Max puking (must've gotten into some cat food yesterday and he's allergic to chicken)
@@ -16,21 +16,43 @@ title: Stuff we have to do before breakfast
 * give up on Hannah and decide to try to sleep with the door open - there are already mosquitos and flies inside, so does it matter?
 * give in to the morning and get out of bed
 * carry Booker out since he's leaking a little pee
+* brush some dry grass and dirt off the bed and tuck the matress protector over the whole bed - blankets, pillows and all - so when the dogs come back in to nap their muddy paws don't get on the sheets
 * brush our teeth
 * find a toothbrush charger and finish brushing teeth
 * get filtered water for nasal irrigation
-* all that other hygeine stuff, refill tippy-tap jug to finish washing hands
-* refill cat food, dog food, chicken food, and a few water dishes
+* all that other hygeine stuff
+* refill [tippy-tap](https://reverdecer.annalisagross.com/2018/07/01/sink-success/) jug from rain bucket to finish washing hands
+* refill cat food
+* refill dog food
+* refill chicken food
+* refill five water dishes for all of those animals
 * change the ice packs in the cooler, which means taking half of the stuff out of the cooler and a few things out of the freezer
 * turn on the van cause we don't have enough sun to run the freezer off the solar panels
-* wash a few plates cause we had the neighbors over for dinner last night, used all six of our plates, and since they left well after dark we didn't both to wash up last night
+* breathe in disgusting fumes
+* wash a few plates cause we had the neighbors over for dinner last night, used all six of our plates, and since they left well after dark we didn't bother to wash up last night
 * refill a water bucket from rain tank to finish washing those dishes
 * heat water in a pot to make coffee in a pour-over
 * start cracking eggs onto the griddle - oh crap, one is rotten
 * finish cooking the eggs then feed them to all the cats and dogs
-* give Booker his medicine
-* pick some kale to add more nutrients to the pancakes
+* give Booker his medicine in some cheese
+* find some kefir to convince Booker to finish his medicine
+{% figure caption:"*Booker does like kefir*" %}
+[![](/images/booker-phillip_.jpg){:width="60%"}](/images/booker-phillip.jpg)
+{% endfigure %}
+* pick some kale to add more nutrients to the [pancakes](https://reverdecer.annalisagross.com/2018-07-17-pancakes/)
 * crack eggs into a dish carefully before using in pancake batter
 * keep pouring-over that coffee
 * offer Phillip a snack - he's starting to look woozy
-*
+* find Fly, try to catch Fly
+* drink a sip of coffee
+* try again to catch Fly
+* take about five things out of the freezer to get some blueberries for pancakes
+* catch Fly and give her eyedrops
+* drink a little coffee
+* turn on the griddle and start the pancakes
+* find a dry outfit for Booker since he's shivering and trying to climb me to get warm
+* get a dry outfit for Max, since he's hairless and needs it
+* follow Max into a corner since he hides from clothes
+* flip the pancakes
+* find the butter and maple syrup
+* chase flies off the pancake batter

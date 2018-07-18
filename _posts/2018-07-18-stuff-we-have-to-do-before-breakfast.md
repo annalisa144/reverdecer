@@ -42,7 +42,7 @@ layout: post
 {% figure caption:"*Booker does like kefir*" %}
 [![](/images/booker-phillip_.jpg){:width="20%"}](/images/booker-phillip.jpg)
 {% endfigure %}
-* pour kefir into several little dishes so all the cats and dogs can have some
+* pour kefir into several little dishes so all the cats and dogs can have some, [see how they like it](https://www.youtube.com/watch?v=52NGdAwpgl8)
 * pick some kale to add more nutrients to the [pancakes](https://reverdecer.annalisagross.com/2018-07-17-pancakes/)
 * crack eggs into a dish carefully before using in pancake batter
 * keep pouring-over that coffee

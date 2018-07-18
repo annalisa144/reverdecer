@@ -11,11 +11,11 @@ This is a right to roam country - at least that's the way the culture has been d
 
 If your land isn't fenced in, people, horses, cows, dogs and everything else is welcome to walk through it. In fact there are plenty of "parachuters" (squatters) living in our neighborhood. If we had to take public roads to visit our uncle at the university, for example, or buy coffee from Gaby, it would take 45 min on foot. But with the informal right to roam of Mexico we can do it in 25 min. (The time savings on a bike aren't as steep for me cause I end up walking my bike part of the rugged route.)
 
-{% figure caption:"**" %}
-[![](/images/_.jpg)](/images/.jpg)
+{% figure caption:"*And in the rain even Phillip has to walk his bike!*" %}
+[![](/images/muddyride_.jpg){:width="50%"}](/images/muddyride.jpg)
 {% endfigure %}
 
-In Pennsylvania their was a gorgeous forest around our apartment and we rarely chose to drive to a state park to hike since we could just set out on foot with the dogs and keep it simple. But two hundred yards out our backdoor the land was no longer our landlord's. At first it was the neighbors', then some other neighbors', then the power company or another neighbor.... We lived in hunting territory so not only did the neighbor have guns, they might be shooting deer, pheasant, or whatever was in season so we wore bright colors and watched carefully for angry neighbors. Because Pennsylvania isn't a right to roam culture. (But there are generous camping rules in the abundant state forests.)
+In Pennsylvania there was a gorgeous forest around our apartment and we rarely chose to drive to a state park to hike since we could just set out on foot with the dogs and keep it simple. But two hundred yards out our backdoor the land was no longer our landlord's. At first it was the neighbors', then some other neighbors', then the power company or another neighbor.... We lived in hunting territory so not only did the neighbor have guns, they might be shooting deer, pheasant, or whatever was in season so we wore bright colors and watched carefully for angry neighbors. Because Pennsylvania isn't a right to roam culture. (But there are generous camping rules in the abundant state forests.)
 
 In fact, the only place I've been in the US that seriously gives public use to private land is Lake Geneva, WI. Millionaires from Chicago build lakefront homes but have to share a couple feet of lake shore path with anyone who wants to take a walk. When I was there in 2011 with my friend Elizabeth we walked hours and miles of this path and enjoyed the welcoming signs and inviting landscaping at some houses, and noticed sharp rocks along the path at other houses.
 

@@ -1,9 +1,9 @@
 ---
 title: Electricity
-date: '2018-07-21 07:00:00'
+date: '2018-07-20 07:00:00'
 image: monico_arias2.jpg
 tags: vanlife solar energy panels mexico
-categories: vandwelling
+categories: vandwelling neighborhood
 layout: post
 ---
 
@@ -15,10 +15,14 @@ We're not driving the van (it's holding up a shade cloth and we just don't want 
 
 Phillip is researching options: new panel, different inverter - even a different freezer? Probably the first two soon and leave this freezer in Mexico (it takes up so much space and when we have to cram all our belongings back in here...) and get a new one in the US eventually.
 
-Occasionally we use solar power to grind coffee beans, heat water, humidify the van or use our immersion blender making *chocolate*. Phillip was careful to research what we could plug in and use with this set-up and other than the freezer it's all worked out. It is annoying that we can only use electricity in the van, so occasionally cooking takes place both crouched in the van and also in the outdoor kitchen (e.g., grinding coffee).
+Occasionally we use solar power to grind coffee beans, heat water, humidify the van or use our immersion blender making *chocolate*. We have internet now that mostly works (Phillip will have to explain all that) and the router and antenna are easy to solar power even on a cloudy day.
+
+Phillip was careful to research what we could plug in and use with this set-up and other than the freezer it's all worked out. It is annoying that we can only use electricity in the van, so occasionally cooking takes place both crouched in the van and also in the outdoor kitchen (e.g., grinding coffee).
 
 Oh, one more appliance - the little fan Phillip got out of an old computer that helps dry out our toilet. That's on an extension cord - the toilet is as far from the van as possible!
 
 The only things I miss are our food processor and instant pot. Eventually we'll build an adobe oven and that will make it possible to bake *well* again. We do keep baking:-) And someday a solar oven will allow us to cook dry beans. For now we're buying canned.
 
-We might end up with electricity through the power lines - they're already there, and our uncle has to pay a fee because the lines are up. But an official electrician will need to come out and install it onto this property according to specific specifications, and we're not interested in taking that on. We'd rather keep learning how to live off-grid. But seriously, if someone brings power onto this property we'll have the freezer out of the van in about 4 minutes and breathe easier (less van fumes, too).
+We might end up with electricity through the power lines - they're already there (see photo above) and our uncle has to pay a rural electric fee each month just cause the lines are there.
+
+But an official electrician will need to come out and install it onto this property according to specific specifications, and we're not interested in taking that on. We'd rather keep learning how to live off-grid. But seriously, if someone brings power onto this property we'll have the freezer out of the van in about 4 minutes and breathe easier (less van fumes, too).

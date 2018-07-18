@@ -1,6 +1,6 @@
 ---
 title: The Right to Roam
-date: '2018-07-17 23:00:00'
+date: '2018-07-17 23:00:00 -0500'
 image: http://localhost:4000/images/wet_panorama_.jpg
 categories: neighborhood
 layout: post

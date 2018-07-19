@@ -25,6 +25,7 @@ layout: post
 * get filtered water for nasal irrigation
 * all that other hygeine stuff
 * refill [tippy-tap](https://reverdecer.annalisagross.com/2018/07/01/sink-success/) jug from rain bucket to finish washing hands
+* refill the [solar shower bags](http://reverdecer.annalisagross.com/2018/06/22/the-evolution-of-showering/) from water tank and put where the sun will warm them if it peaks out from the clouds
 * wring out the handtowel from last night's rain and "dry" hands
 * refill cat food in the shed (out of Max's reach)
 * refill dog food
@@ -38,6 +39,8 @@ layout: post
 * breathe in disgusting fumes
 * wash a few plates cause we had the neighbors over for dinner last night, which means we used all six of our plates, and since they left well after dark we didn't bother to wash up last night
 * refill a water bucket from rain tank to finish washing those dishes
+* backflush the drinking water filter with clean water
+* fill the drinking water filter with rainwater from the tank
 * heat water in a pot to make coffee in a pour-over
 * start cracking eggs onto the griddle - oh crap, one is rotten
 * finish cooking the eggs then feed them to all the cats and dogs

@@ -41,13 +41,17 @@ layout: post
 * heat water in a pot to make coffee in a pour-over
 * start cracking eggs onto the griddle - oh crap, one is rotten
 * finish cooking the eggs then feed them to all the cats and dogs
+* refill bucket from rain tank again to wash hands after egg incident
 * give Booker his medicine in some cheese
 * find some kefir to convince Booker to finish his medicine
 {% figure caption:"*Booker does like kefir*" %}
 [![](/images/booker-phillip_.jpg){:width="20%"}](/images/booker-phillip.jpg)
 {% endfigure %}
-* pour kefir into several little dishes so all the cats and dogs can have some, [see how they like it](https://www.youtube.com/watch?v=52NGdAwpgl8)
-* pick some kale to add more nutrients to the [pancakes](https://reverdecer.annalisagross.com/2018-07-17-pancakes/)
+* pour kefir into several little dishes so all the cats and dogs can have some
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52NGdAwpgl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* pick some kale to add more nutrients to the [pancakes](https://reverdecer.annalisagross.com/2018/07/17/pancakes/)
 * crack eggs into a dish carefully before using in pancake batter
 * keep pouring-over that coffee
 * offer Phillip a snack - he's starting to look woozy
@@ -68,6 +72,6 @@ layout: post
 [![](/images/moscas_.jpg){:width="30%"}](/images/moscas.jpg)
 {% endfigure %}
 Still, now we're smiling with empty plates and a great view.
-{% figure caption:"*[check out our pancake recipe](https://reverdecer.annalisagross.com/2018-07-17-pancakes/)*" %}
+{% figure caption:"*[check out our pancake recipe](https://reverdecer.annalisagross.com/2018/07/17/pancakes/)*" %}
 [![](/images/pancake_.jpg){:width="60%"}](/images/pancake.jpg)
 {% endfigure %}

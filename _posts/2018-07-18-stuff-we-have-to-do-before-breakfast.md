@@ -2,7 +2,7 @@
 title: Stuff we have to do before breakfast
 date: '2018-07-18 23:00:00'
 image: kittens_kitchen_.jpg
-tags: cats dogs water mexico vandwelling rv life
+tags: cats dogs water mexico vandwelling rv life vanlifewithpets
 categories: cats dogs water
 layout: post
 ---
@@ -25,10 +25,14 @@ layout: post
 * get filtered water for nasal irrigation
 * all that other hygeine stuff
 * refill [tippy-tap](https://reverdecer.annalisagross.com/2018/07/01/sink-success/) jug from rain bucket to finish washing hands
+* wring out the handtowel from last night's rain and "dry" hands
 * refill cat food in the shed (out of Max's reach)
 * refill dog food
-* refill chicken food
-* refill five water dishes for all of those animals
+* put the pet beds out in the sun since it's too cold in the shade still
+* feed chickens
+* catch and return chicken that escaped during feeding
+* give chickens fresh water
+* fill five water dishes for cats and dogs
 * change the ice packs in the cooler, which means taking half of the stuff out of the cooler and a few things out of the freezer
 * turn on the van cause we don't have enough sun to run the freezer off the solar panels
 * breathe in disgusting fumes
@@ -63,7 +67,7 @@ layout: post
 {% figure caption:"*without frequent bleach cleanings we find this*" %}
 [![](/images/moscas_.jpg){:width="30%"}](/images/moscas.jpg)
 {% endfigure %}
-* but eventually we're smiling with empty plates and a great view
+Still, now we're smiling with empty plates and a great view.
 {% figure caption:"*[check out our pancake recipe](https://reverdecer.annalisagross.com/2018-07-17-pancakes/)*" %}
 [![](/images/pancake_.jpg){:width="60%"}](/images/pancake.jpg)
 {% endfigure %}

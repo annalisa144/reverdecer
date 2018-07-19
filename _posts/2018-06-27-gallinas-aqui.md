@@ -7,7 +7,7 @@ categories: chickens food
 layout: post
 ---
 
-We got chickens! Phillip built the chicken tractor weeks ago. While Max enjoyed it, we did want chickens to abide within.
+We got chickens! Phillip built the [chicken tractor](https://reverdecer.annalisagross.com/2018/05/07/chicken-tractor/) weeks ago. While Max enjoyed it, we did want chickens to abide within.
 
 We'd been warned to buy young chickens, or else we'd end up with 2+ year-old hens, running out of eggs. Still we didn't want to pay to feed chickens for a few months before getting any eggs out of it. But after months of casual looking we could only find adolescents, 5-weeks-old. In three or more months we'll see some eggs.
 

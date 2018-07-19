@@ -1,13 +1,13 @@
 ---
 title: Sun salutations
 date: '2018-07-22 06:00:00'
-image: https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport#/media/File:Sculpture_in_Terminal_3_of_Indira_Gandhi_International_Airport_at_Delhi_depicting_the_Surya_Namaskara_asanas.jpg
+image: sun_salutations.jpg
 tags: yoga romance
 categories: spanish
 layout: post
 ---
 
-Monday is our official anniversary and we'll do 108 sun salutations, a tradition to mark the changing of a season. We've only been married two years but life before Phillip is hazy. There's never been a "normal" period in our short romance. All the more reason to stretch and breathe as we settle into this new season together.
+Monday is our official anniversary and we'll do 108[ sun salutations](By Bharatahs - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62898029), a tradition to mark the changing of a season. We've only been married two years but life before Phillip is hazy. There's never been a "normal" period in our short romance. All the more reason to stretch and breathe as we settle into this new season together.
 
 Having this yoga plan is getting us practicing. *Wait, aren't you sitting around in Mexico's sunshine all day doing yoga and eating mangoes?" you might be wondering.* 
 

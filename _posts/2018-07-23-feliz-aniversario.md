@@ -1,18 +1,19 @@
 ---
 title: Feliz aniversario
 date: '2018-07-21 06:00:00'
+image: romance_.jpg
 tags: vanlife romance
 categories: morelia
 layout: post
 ---
 
-A couple weeks ago our uncle asked when our anniversary is. We looked at each other and easily answer "July 23" as we realized that's this month. I said, "We're not sentimental."
+A couple weeks ago our uncle asked when our anniversary is. We looked at each other and easily answered "July 23" as we realized that's this month. I said, "We're not sentimental."
 
-But when I got back from a walk Phillip asked, "Guess what we can do for our anniversary?" Turns out a pet-friendly B&B in downtown Morelia can be as cheap as $24/night. It's on.
+But when I got back from a walk Phillip asked, "Guess what we can do for our anniversary?" Turns out a pet-friendly B&B in downtown Morelia can be as cheap as $24/night. He'd already booked it. Romantic!
 
-We're going today so we can walk Madero with the dogs tomorrow, [a Morelia bike/walk-friendly tradition since 2010.](http://experienciamorelia.mx/en/bicycle-friendly-sunday/) Probably the only time we can all wander this main drag carefree since the local dogs will be on leashes and the loud, stinky vehicles are banished.
+We're going today so we can walk Madero with the dogs tomorrow, [a Morelia bike/walk-friendly Sunday tradition since 2010.](http://experienciamorelia.mx/en/bicycle-friendly-sunday/) Probably the only time we can all wander this main drag carefree since the local dogs will be on leashes and the loud, stinky vehicles are banished.
 
-Leaving the dogs in the B&B while we go for dinner tonight doesn't seem like an option (have you heard Booker and Hannah cry for us?) so we'll find an outdoor cafe and a table for five. Not really, two chairs and one water bowl will work.
+Leaving the dogs in the B&B while we go for dinner tonight doesn't seem like an option (have you heard Booker and Hannah cry for us?) so we'll find an outdoor cafe and a table for five. Not really, two chairs and one water bowl will work. Or someone can go get tacos while the other uses all the hot water.
 
 Phillip was careful to request a room with a private, rather than shared, shower. We won't take this luxury for granted.
 

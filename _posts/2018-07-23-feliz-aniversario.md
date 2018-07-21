@@ -17,4 +17,4 @@ Leaving the dogs in the B&B while we go for dinner tonight doesn't seem like an 
 
 Phillip was careful to request a room with a private, rather than shared, shower. We won't take this luxury for granted.
 
-For unsentimental people we have a lot planned for our anniversary this year. On the actual day, Monday, [we're going to get sore.](http://reverdecer.annalisagross.com/2018/07/22/sun-salutations/)
+For unsentimental people we have a lot planned for our anniversary this year. On the actual day, Monday, [we're going to get sore.](http://reverdecer.annalisagross.com/2018/07/21/sun-salutations/)

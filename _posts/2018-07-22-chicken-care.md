@@ -13,6 +13,11 @@ Especially since [we went "away" for our anniversary](http://reverdecer.annalisa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/34CqpmUNugY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+It worked - they ate well during our 24-hour vacation.
+[![](/images/_.jpg){:width="60%"}](/images/.jpg)
+
+The water system needs another overhaul, unfortunately.
+
 We can't trust the cats to take care of the chickens; they want to take care of them in another way. Since we use a [chicken tractor](https://reverdecer.annalisagross.com/2018/05/07/chicken-tractor/) (moving their house daily) seed is left behind on the ground and songbirds enjoy the feast. Fly's gonna catch one soon -she came close last week and looked like a flying squirrel as she attacked.
 
 Our dogs aren't a problem.

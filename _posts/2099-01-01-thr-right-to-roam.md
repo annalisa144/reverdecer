@@ -27,6 +27,6 @@ For an inspiring listen on how ramblers got the right to roam in the UK, [check 
 
 The informal, free nature of Mexican culture extends to dogs, which means many people walk their dogs without a leash and many dogs are left in the street all day. Especially when we're roaming with *our* dogs we're on alert and carry a stick and Phillip's water bottle (which can spray like a water gun). Usually yelling at los perros de calle is sufficient but we've used the other deterrents too. 
 
-{% figure caption:"*Climbing my least favorite colina - hill - coming home from the gas station, with [gas for the van.](https://reverdecer.annalisagross.com/2018-07-21-electricity/) Phillip has the stick, I have his water bottle. Least favorite hill because vehicles barely fit and the downhill side is a cliff.*" %}
+{% figure caption:"*Climbing my least favorite colina - hill - coming home from the gas station, with [gas for the van.](https://reverdecer.annalisagross.com/2018/07/20/electricity/) Phillip has the stick, I have his water bottle. Least favorite hill because vehicles barely fit and the downhill side is a cliff.*" %}
 [![](/images/colina_.jpg)](/images/colina.jpg)
 {% endfigure %}

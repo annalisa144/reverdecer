@@ -22,7 +22,7 @@ Occasionally we use solar power to grind coffee beans, heat water, humidify the 
 
 Phillip was careful to research what we could plug in and use with this set-up and other than the freezer it's all worked out. It is annoying that we can only use electricity in the van, so occasionally cooking takes place both crouched in the van and also in the outdoor kitchen (e.g., grinding coffee).
 
-Oh, one more appliance - the little fan Phillip got out of an old computer that helps dry out our toilet. That's on an extension cord - the toilet is as far from the van as possible!
+Oh, two more appliances - first the ceiling vent fan that keeps us cool on hot days. Last the little fan Phillip got out of an old computer that helps dry out our toilet. That's on an extension cord - the toilet is as far from the van as possible!
 
 The only things I miss are our food processor and instant pot. Eventually we'll build an adobe oven and that will make it possible to bake *well* again. We do keep baking:-) And someday a solar oven will allow us to cook dry beans. For now we're buying canned.
 

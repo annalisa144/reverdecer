@@ -8,7 +8,7 @@ layout: post
 ---
 
 We're on shower system 3.0. We've stuck with the same solar shower bags throughout our first two months living en El Terreno; it's the shower "stall" we're evolving.
-[Our bags](https://amazon.com/Advanced-Elements-Gallon-Summer-Shower/dp/B000J2KX88/ref=sr_1_fkmr0_2?ie=UTF8&qid=1529374433&sr=8-2-fkmr0&keywords=solar+shower+bag+2.5+gal) are right for us: 2.5 gal each means a short shower, but we're usually so cold we're rushing anyway. Most shower bags available online are bigger, but that would make them harder to lift - the water just comes out by gravity so it has to be higher than us. I need to scoop water out of a bucket if I want to fully rinse my hair, but otherwise our bags are the right size.
+[Our bags](https://amzn.to/2uMP6nF) are right for us: 2.5 gal each means a short shower, but we're usually so cold we're rushing anyway. Most shower bags available online are bigger, but that would make them harder to lift - the water just comes out by gravity so it has to be higher than us. I need to scoop water out of a bucket if I want to fully rinse my hair, but otherwise our bags are the right size.
 
 Unfortunately one of our bags started leaking at the cap by the second week (the threads just won't line up right) so we have to lay it out cap-side up, which means it doesn't get as warm. And within a day most of the water still leaks out.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh6vQ7_YxbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

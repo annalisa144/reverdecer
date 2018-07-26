@@ -14,7 +14,7 @@ Especially since [we went "away" for our anniversary](https://reverdecer.annalis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/34CqpmUNugY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It worked - they ate well during our 24-hour vacation.
-{% figure caption:"*Not a smoke stack, a feeding tube.*" %}
+{% figure caption:"*Not a smoke stack, a feeding tube. Check out the stormy sky and how sloped El Terreno is!*" %}
 [![](/images/chicken_tractor_.jpg){:width="60%"}](/images/chicken_tractor.jpg)
 {% endfigure %}
 

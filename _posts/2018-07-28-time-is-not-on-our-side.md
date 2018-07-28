@@ -28,7 +28,7 @@ We left the vet at 12:15
 * we'd planned to do some grocery shopping, meet up with our uncle for an exchange of goods and services, then spend the rest of the day en El Terreno
 * it was really hot and all the animals were stressed and panting. The dogs would at least drink in the truck but not the cats. We decided we better go home so they could relax, then come back out.
 {% figure caption:"*The cats hate roadtrips more and more each time.*" %}
-[![](/images/cats_truck_.jpg)](/images/cats_truck.jpg)
+[![](/images/cats_truck_.jpg){:width="60%"}](/images/cats_truck.jpg)
 {% endfigure %}
 
 Got home by 1
@@ -70,7 +70,7 @@ At 8:30pm, as the sun drifted beyond the horizon, I finished dinner prep while P
 
 Now at 10:30 I'm finishing this blog post and Phillip has finished setting up the new inverter. All the dogs are asleep against my body. The kittens are hanging out in the net attacking anyone who moves underneath. We're exhausted, from the roads and the animal stress and navigating a world with minimal language skills.
 {% figure caption:"*Why did we invite a tiger into our van?*" %}
-[![](/images/gris_net_.jpg)](/images/gris_net.jpg)
+[![](/images/gris_net_.jpg){:width="60%"}](/images/gris_net.jpg)
 {% endfigure %}
 
 And I never did the laundry, harvested beans or squash, didn't weed most of the beds, only watered 25% of the garden. We didn't work on swails or shower or [dig a new hole for the toilet](https://reverdecer.annalisagross.com/2018/04/20/pup-tent/) or even wash the supper dishes.

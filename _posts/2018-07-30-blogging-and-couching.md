@@ -15,7 +15,8 @@ layout: post
 * is the only writing I'm doing these days, which I'm suprised and bummed about - but at least the public nature of blogging helps me get *some* words down!
 
 This is what it often looks like when I'm writing a blog post
-| [![](/images/blogging_.jpg)](/images/blogging.jpg) | [![](/images/blogging2_.jpg)](/images/blogging2.jpg) |
+
+| [![](/images/blogging_.jpg){:width="80%"}](/images/blogging.jpg) | [![](/images/blogging2_.jpg)](/images/blogging2.jpg) |
 
 Phillip's fixing some code and the dogs are keeping the blankets warm.
 

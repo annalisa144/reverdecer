@@ -13,7 +13,7 @@ Today (Friday) we needed to take all five critters to the vet for vaccines. [Thi
 
 We got up at 7
 * brushed teeth and all that basic hygeine
-* Phillip made coffee for us
+* Phillip [made coffee for us](http://reverdecer.annalisagross.com/2018/07/31/how-to-make-coffee-off-grid/)
 * I read a cookbook about grilling to learn any secrets for making desserts in a grill (get a bigger grill, which we aren't going to do) while Phillip ate his eggs and fed the chickens
 * I changed the kefir and filled some water buckets and washed dishes
 

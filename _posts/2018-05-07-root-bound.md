@@ -19,7 +19,7 @@ What a natural response, to keep growing and growing in ways and places that are
 
 ![Tree transplants](/images/tree-transplants.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YVfIjLCvPis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YVfIjLCvPis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This land was farmed for corn, year after year. Unhealthy in any climate or region, this took a toll on this terreno, contributing to erosion and general low vitality. Some plots in our neighborhood have houses, some are empty fields left to succession plants and grazing. Lots of thorn bushes.
 ![Ecological succession](http://greenforecast.com/wp-content/uploads/2012/12/95198-036-2619E3FA1-1540x648_c.jpg)

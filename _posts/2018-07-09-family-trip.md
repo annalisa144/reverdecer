@@ -8,7 +8,7 @@ layout: post
 ---
 
 Sometimes we all need to pile into the truck and go to the vet. Vacunas por los gatos y perros.  Wish us luck!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QIgVDwBQ19A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QIgVDwBQ19A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Thanks to my uncle and his partner we found the best vet in town, probably best vet in a much larger region. Alfredo is patient, tries to speak English with us, and knows veterinary medicine from traditional to new-fangled.
 

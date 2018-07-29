@@ -11,7 +11,7 @@ Phillip designed longer-lasting feeding and watering systems for the chickens. W
 
 Especially since [we went "away" for our anniversary](https://reverdecer.annalisagross.com/2018/07/21/feliz-aniversario/)!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/34CqpmUNugY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/34CqpmUNugY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It worked - they ate well during our 24-hour vacation.
 {% figure caption:"*Not a smoke stack, a feeding tube. Check out the stormy sky and how sloped El Terreno is!*" %}
@@ -23,4 +23,4 @@ The water system needs another overhaul, unfortunately.
 We can't trust the cats to take care of the chickens; they want to take care of them in another way. Since we use a [chicken tractor](https://reverdecer.annalisagross.com/2018/05/07/chicken-tractor/) (moving their house daily) seed is left behind on the ground and songbirds enjoy the feast. Fly's gonna catch one soon -she came close last week and looked like a flying squirrel as she attacked.
 
 Our dogs aren't a problem.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q70U9GH3kbg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q70U9GH3kbg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

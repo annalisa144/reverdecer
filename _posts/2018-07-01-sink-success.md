@@ -20,10 +20,10 @@ We washed hands, dishes, rinsed our toothbrushes, etc, into that tub and then du
 But it was gross to wash our hands into the dishtub, even though we rinsed it before washing dishes. And the tub took up the only table space we had.
 
 Now we have such luxury! Check out our kitchen "plumbing."
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lF-MDYSZsiM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lF-MDYSZsiM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 And here's our bathroom sink.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6XRiLU-zDVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6XRiLU-zDVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 We've run into some snags:
 * mold-type stuff growing in the jug which we never managed to clean out (so it went into the garden and Phillip adapted another jug, and we'll probably need to do that again every couple weeks, or start painting the jug)
 * water came out too slowly and I never felt like I got soap off my hands (so Phillip made the watering hole in the jug bigger)

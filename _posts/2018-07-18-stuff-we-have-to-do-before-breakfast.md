@@ -52,7 +52,7 @@ layout: post
 {% endfigure %}
 * pour kefir into several little dishes so all the cats and dogs can have some
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/52NGdAwpgl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/52NGdAwpgl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * pick some kale to add more nutrients to the [pancakes](https://reverdecer.annalisagross.com/2018/07/17/pancakes/)
 * crack eggs into a dish carefully before using in pancake batter

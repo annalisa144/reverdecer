@@ -12,7 +12,7 @@ El Terreno is pretty in pink.
 This land is slowly returning to "normal" after decades of conventional, exhausting farming. For 20 years my uncle has planted trees and encouraged healing. Fires are a risk in this semi-arid locale so a strip has been cut around the perimeter, protecting the trees from spreading fires.
 
 The center just grows wild, and when we arrived we found a bit of pretty pink grass:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7bB6Yr_5Nv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7bB6Yr_5Nv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
 
@@ -34,7 +34,7 @@ Next it went white.
 
 
 Now it's pink again:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-EqfOuOxgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4-EqfOuOxgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 One more pretty pink sight - these flowers seem to be gone for the season, but were one of the earliest blooms this spring:

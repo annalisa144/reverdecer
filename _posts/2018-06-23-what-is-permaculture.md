@@ -22,7 +22,7 @@ Permaculture gets spellcheck's red lines, but it's an ancient idea. The intercon
 My uncle bought this land 20 years ago and has planted 50 trees so far. When we arrived, the only human-ish totem on the landscape was the 10,000 liter water tank (filled occasionally by truck and not at all potable).
 
 Here's a video from day one:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3j0590vL0CI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3j0590vL0CI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 We intend to revive and reanimate ourselves, too, in our living here. So far we've been daunted by establishing adequate shelter in this extreme climate, wearied by the rough roads and language barrier and taxed by dogs. Still, spending all day outside and using our whole bodies and minds is healing.
 

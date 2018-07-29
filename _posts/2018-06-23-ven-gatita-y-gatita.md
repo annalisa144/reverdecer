@@ -28,6 +28,6 @@ The kittens hid under the floor for two days. We would shine our phones' lights 
 Should we try to catch them and bring them into the van? But cats need to feel safe in their space. We waited. 
 
 Day 3 the kittens emerged and took over the whole homestead. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GTYsw2y4Tsw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GTYsw2y4Tsw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 They climb everything, eat the dogs' food, sleep in our bed. More cute cat videos to come.

@@ -35,4 +35,4 @@ Perhaps Emilio recounted our pleasant exchange to his mother because when she ne
 
 So we've met half the neighbors on one side, two more sets of next-door neighbors to go. Thanks Torce! Cause it is challenging to meet neighbors when the only shared space is the road, no one has front porches or any living space near the road, and somehow I have the impression that showing up with a plate of cookies would be totally weird. But we are really weird, so I just might try.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6xuMiP85KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d6xuMiP85KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

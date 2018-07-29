@@ -9,7 +9,7 @@ layout: post
 ---
 
 We've come a long way since we crawled in and out of a tent to use the toilet and showered beside the van! Check out the home improvements in process:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i_BkL_2GB6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i_BkL_2GB6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [The shower is done!](https://reverdecer.annalisagross.com/2018/06/22/the-evolution-of-showering/)

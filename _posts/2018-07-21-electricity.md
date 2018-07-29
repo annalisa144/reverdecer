@@ -1,7 +1,7 @@
 ---
 title: Electricity
 date: '2018-07-20 07:00:00'
-image: monico_arias2.jpg
+image: monico_arias2text.jpg
 tags: vanlife solar energy panels mexico
 categories: vandwelling neighborhood
 layout: post

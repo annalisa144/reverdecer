@@ -1,8 +1,8 @@
 ---
 title: Blogging and couching
 date: '2018-07-30 06:00:00'
-image: blogging_.jpg
-tags: writing mexico vanlife
+image: couch_.jpg
+tags: writing mexico vanlife vanlifewithpets
 categories: vandwelling cats dogs
 layout: post
 ---
@@ -10,7 +10,7 @@ layout: post
 **Blogging about our [permaculture adVanture](https://reverdecer.annalisagross.com/2018/06/20/what-is-permaculture/)**
 * shares a few laughs, groans, and insight
 * connects us to loved ones who make time to read
-* offers a way for you to engage what we're doing with suggestions, comments, questions - [even to mildly support us financially!](
+* offers a way for you to engage what we're doing with suggestions, comments, questions - [even to mildly support us financially--for free!](https://reverdecer.annalisagross.com/2018/07/29/unadvertising/)
 * invites us to take a step back from our life and reflect on it
 * is the only writing I'm doing these days, which I'm suprised and bummed about - but at least the public nature of blogging helps me get *some* words down!
 

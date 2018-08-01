@@ -1,7 +1,7 @@
 ---
 title: First aid in the field
 date: '2018-08-01 15:00:00'
-image: http://localhost:4000/images/buckets.jpg
+image: buckets_.jpg
 tags: vanlife vandwelling graywater
 categories: water
 layout: post
@@ -15,3 +15,5 @@ Which bucket should I use?
 
 | [![](/images/laundry_.jpg)](/images/laundry.jpg) | [![](/images/sink_bucket_.jpg)](/images/sink_bucket.jpg) | [![](/images/garden_bucket_.jpg)](/images/garden_bucket.jpg) |
 | *laundry buckets: wash or rinse* | *sink buckets: hands and dishes* | *garden buckets: mulch and compost* |
+
+Comment to vote.

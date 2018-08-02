@@ -43,9 +43,9 @@ Stir occasionally and keep heat low enough that it doesn't boil over.
 When there are no more chunks of chocolate, add vanilla, sugar, etc. Stir again, then blend. If you're making it the "traditional" way you'd blend by pouring back and forth between two vessels. If you're making it the "modern traditional" way you'd blend with a [molinillo](https://thespruceeats.com/authentic-mexican-hot-chocolate-4148366).
 [![](/images/molinillo_.jpg){:width="50%"}](/images/molinillo.jpg)
 
-Doesn't it seem like something we'd do? Nope, we're using an immersion blender:
-1. We left our molinillo in IN by mistake and I don't want to buy something that we can retrieve the next time we're stateside.
-2. We can use an immersion blender on solar power and it's fun!
+Doesn't that seem like something we'd use? Nope, we're using an immersion blender:
+1. We left our molinillo in IN by mistake and I don't want to buy something that we can retrieve.
+2. We can use an immersion blender on solar power!
 
 But be careful if you use this method, especially if, like us, you have limited kitchen equipment and your saucepan is too small to blend in. Pulse.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HI66CKAa8Ho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ image: brave_shields.png
 layout: post
 ---
 
-Every day there are headlines about websites collecting [information about you](https://en.wikipedia.org/wiki/Google_Analytics#Privacy), using it to [manipulate your behavior](https://en.wikipedia.org/wiki/Cambridge_Analytica), and losing it to even [less savory characters](https://en.wikipedia.org/wiki/Equifax#May%E2%80%93July_2017_data_breach).  With this in mind we built this site with absolutly no tracking or data collection. So how can we pay the bills without harvesting your data and showing you annoying ads? Here are some ways you can support this blog and our projects.
+Every day there are headlines about websites collecting [information about you](https://en.wikipedia.org/wiki/Google_Analytics#Privacy), using it to [manipulate your behavior](https://en.wikipedia.org/wiki/Cambridge_Analytica), and losing it to even [less savory characters](https://en.wikipedia.org/wiki/Equifax#May%E2%80%93July_2017_data_breach).  With this in mind we built this site with absolutly no tracking or data collection (even figured out how to embed youtube videos without tracking). How can we pay our tech bills without harvesting your data and showing you annoying ads? Here are some ways you can support this blog and our projects.
 
 # Buy something on [Amazon](https://amzn.to/2uMP6nF):
 Before you start an Amazon shopping  session, click on our of our affiliate links, and we'll get a little kick-back.  For example click the link for the [solar shower  bags](https://amzn.to/2uMP6nF).  This doesn't cost you anything extra. You don't even have to buy the bags, just use the link to get to Amazon.

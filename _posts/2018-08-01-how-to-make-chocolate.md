@@ -13,9 +13,9 @@ But we don't drink it the way the Maya did: in water with cornmeal, chili and NO
 
 I found a [couple posts online](https://allrecipes.com/recipe/216166/xocolatl-aztec-chocolate/) attempting the "authentic" drink but they call for unsweetened cocoa powder, which is totally inauthentic (would have been ground cocao beans). And of course, [no one really likes the drink!](http://meltingmug.blogspot.com/2013/03/recipe-xocolatl-original-hot-chocolate.html)
 
-And even [one that includes cornmeal](https://theothersideofthetortilla.com/tag/chocolate-para-mesa/) - so it's more *atole* than *chocolate.* We'll let you know how that goes when I'm feeling ambitious. That's more work than we ever put into a drink.
+I found [a recipe that includes cornmeal](https://theothersideofthetortilla.com/tag/chocolate-para-mesa/) - so it's considered more *atole* than *chocolate.* We'll let you know how that goes when I'm feeling ambitious. That's more work than I ever put into a drink.
 
-Today, "authentic" Mexican hot chocolate is made with water or milk and *chocolate para mesa*. Table chocolate comes in a hexagonal bar, but don't eat it like you'd eat a chocolate bar!
+Today, "authentic" Mexican hot chocolate is made with water or milk and *chocolate para mesa*. Table chocolate comes in a hexagonal bar, but don't eat it like you'd eat a chocolate bar, it would be disappointing.
 
 The main brands contain (in order of amount): sugar, chocolate or chocolate liquor (melted), vegetable oil, preservatives, emulsifiers, cinnamon or fake cinnamon, etc. Not only does it taste kinda lousy, the ingredients are pretty gross. (e.g. [Abuelita](https://en.wikipedia.org/wiki/Abuelita))
 

@@ -73,6 +73,6 @@ Now at 10:30 I'm finishing this blog post and Phillip has finished setting up th
 [![](/images/gris_net_.jpg){:width="60%"}](/images/gris_net.jpg)
 {% endfigure %}
 
-And I never did the laundry, harvested beans or squash, didn't weed most of the beds, only watered 25% of the garden. We didn't work on swails or shower or [dig a new hole for the toilet](https://reverdecer.annalisagross.com/2018/04/20/pup-tent/) or even wash the supper dishes.
+And I never did the laundry, harvested beans or squash, didn't weed most of the beds, only watered 25% of the garden. We didn't work on swales or shower or [dig a new hole for the toilet](https://reverdecer.annalisagross.com/2018/04/20/pup-tent/) or even wash the supper dishes.
 
 Time to check the chickens once more and find some comfort-dessert. See you tomorrow, El Terreno.

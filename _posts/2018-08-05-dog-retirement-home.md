@@ -16,6 +16,7 @@ Somehow I thought that if we moved to Mexico without any official "jobs," living
 But I have all the same thoughts and annoyances and worries and disappointments as I've had anywhere else. I am glad I don't have late-night meetings, but otherwise I feel just as behind and frustrated as any other chapter in my life.
 
 I was bemoaning this to some friends and telling them that part of the reason we came to Mexico is that we have these three elderly dogs who can't potty when it's cold out and hate being away from us. Here the winter is mild and we hang out at home most of the time. We keep the van door open all day so they can nap wherever they want, potty whenever they want, and follow us wherever we go.
+
 [![](/images/wind_.jpg){:width="60%"}](/images/.jpg)
 
 We may not have achieved some [permaculture perfection](https://reverdecer.annalisagross.com/2018/08/04/great-expectations/), but (as my friends pointed out) we have an excellent dog retirement home.

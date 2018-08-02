@@ -22,7 +22,6 @@ The main brands contain (in order of amount): sugar, chocolate or chocolate liqu
 We've found better:
 
 | [![](/images/unsweet_chocolate_.jpg)](/images/unsweet_chocolate.jpg) | [![](/images/fancy_chocolate_.jpg)](/images/fancy_chocolate.jpg) |
-
 | One of [Patzcuaro's](https://es.wikipedia.org/wiki/Pátzcuaro) countless charms is this totally unsweetened chocolate para mesa. | From the cutesy historic [Calle Real where the staff wear 1840s costumes](https://callereal.mx/), all the chocolate para mesa is sweetened, but no other ingredients are listed. |
 
 | [![](/images/chocolate_ingredients_.jpg){:width="75%"}](/images/chocolate_ingredients.jpg) |  [![](/images/chocolate_instructions_.jpg){:width="80%"}](/images/chocolate_instructions.jpg) |
@@ -52,6 +51,7 @@ But be careful if you use this method, especially if, like us, you have limited 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HI66CKAa8Ho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *Chocolate para mesa* is grainy compared to what we eat and drink in the US, so blending not only froths the drink, it helps the overall texture. Still (especially if you use extra chocolate like us) you get dregs, so drink with a spoon. And don't be afraid to use a finger.
+
 [![](/images/dregs_.jpg){:width="50%"}](/images/dregs.jpg)
 
 One final suggestion: this drink has plenty of calories and caffeine so consider drinking it mid-day rather than bedtime. We like it as a late-afternoon pick-up (when it's too late for coffee, which has even more caffeine).

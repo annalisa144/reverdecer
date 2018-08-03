@@ -12,7 +12,9 @@ How did we end up living in a van? We decided to live in a travel trailer, and b
 [![](/images/prowler_trailer_.jpg){:width="60%"}](/images/prowler_trailer.jpg)
 
 
-We learned we didn't like moving the trailer from place to place. Packing safely and getting hitched up was a chore, and driving the whole set was stressful. We didn't want to travel with our travel trailer. So we downsized to the van.
+We learned we didn't like moving the trailer from place to place. Packing safely and getting hitched up was a chore, and driving the whole set was stressful. We didn't want to travel with our travel trailer. We took a couple memorable road trips while we figured that out, but somehow I've deleted the photos. You can see some in [this cheesy vacation video](https://youtube.com/watch?v=AYUnFSFkwec)) though!
+
+After two years we downsized to the van.
 
 [![](/images/vent_.jpg){:width="60%"}](/images/vent.jpg)
 

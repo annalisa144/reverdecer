@@ -14,10 +14,10 @@ Today (Friday) we needed to take all five critters to the vet for vaccines. [Thi
 We got up at 7
 * brushed teeth and all that basic hygeine
 * Phillip [made coffee for us](http://reverdecer.annalisagross.com/2018/07/31/how-to-make-coffee-off-grid/)
-* I read a cookbook about grilling to learn any secrets for making desserts in a grill (get a bigger grill, which we aren't going to do) while Phillip ate his eggs and fed the chickens
-* I changed the kefir and filled some water buckets and washed dishes
+* I read a cookbook about grilling to learn any secrets for making desserts in [our grill](http://reverdecer.annalisagross.com/2018/08/08/our-grill/) (get a bigger grill, which we aren't going to do) while Phillip ate his eggs and fed the chickens
+* I changed the kefir and [filled some water buckets and washed dishes](https://reverdecer.annalisagross.com/2018/07/01/sink-success/)
 
-We found all the animals and got them in the truck and left for the vet by 9:30
+We found all the animals and got them in the truck and [left for the vet by 9:30](https://reverdecer.annalisagross.com/2018/07/09/family-trip/)
 * got there around 10:15. They open at 10 so we wanted to be first in line, but traffic was heavy and we didn't manage that
 * dogs got their shots first
 * then swapped for cats
@@ -26,7 +26,7 @@ We found all the animals and got them in the truck and left for the vet by 9:30
 
 We left the vet at 12:15
 * we'd planned to do some grocery shopping, meet up with our uncle for an exchange of goods and services, then spend the rest of the day en El Terreno
-* it was really hot and all the animals were stressed and panting. The dogs would at least drink in the truck but not the cats. We decided we better go home so they could relax, then come back out.
+* it was really hot and all the animals were stressed and panting. The dogs would at least drink in the truck but not the cats. We decided we better go home so they could relax, then head back out.
 {% figure caption:"*The cats hate roadtrips more and more each time.*" %}
 [![](/images/cats_truck_.jpg){:width="60%"}](/images/cats_truck.jpg)
 {% endfigure %}
@@ -40,7 +40,7 @@ Hoping to meet our uncle on his way to lunch, we left at 2:45 but we were too la
 * did a round of grocery shopping at one store while waiting for vet to re-open (they close from 2ish to 4:30ish for lunch)
 * filled up the gas tank for over $2000pesos (slightly painful cause it's $100 - gas is one of the few things more expensive in Mexico than US and this truck guzzels). The woman attendant washes our windshield. We give her a couple big coins because she's efficient, polite and the first woman who has pumped our gas here.
 * went to vet at 4, hoping they'd be back from lunch. Nope.
-* went to chicken supply store across the street looking for a better watering system then what we have. Nope. But they gave us directions to two other places, which we barely understood at the time and definitely won't be able to remember when we try to find them.
+* went to chicken supply store across the street looking for a [better watering system then what we have](https://reverdecer.annalisagross.com/2018/07/25/chicken-care/). Nope. But they gave us directions to two other places, which we barely understood at the time and definitely won't be able to remember when we try to find them.
 * went to a tire store around the corner to check out new truck tires since ours are so dry-rotted I'm afraid we're going to crash, esp on the [scary hill](https://reverdecer.annalisagross.com/2018/07/22/the-right-to-roam/)
 *To be clear, this is the 5th tire place we've checked. Sometimes the price is painfully high. Sometimes they don't have the size we need. Sometimes they have the size we need one visit, but not the next visit when we return with time and cash in hand. Plus our neighbors' friend sells tires and we're supposed to be getting introduced to make a deal, but it never happens.*
 * They have the tires and they're relatively cheap! Like, each tire costs a tank of gas.
@@ -54,12 +54,12 @@ At 4:30 I take the poop to the vet
 
 At 5:45 we left the tire shop with two good tires and two terrible tires and headed for Costco to finish our grocery shopping
 * dropped off Max's prescription and got great news (really cheap and he can take for up to 6 weeks in a stretch to help with upset stomach) and bad news (they only have tablets, not liquid, and only in a stronger dose than he needs so we have to cut them in half)
-* found a blender! This is my new toy, because I've been longing to make pesto from our many wild and domesticated greens, along with nut butters/nut flours, mole, etc. We left our food processor in the US since [it can't run from our solar panels](https://reverdecer.annalisagross.com/2018/07/20/electricity/) but this blender should work.
+* found a blender! This is my new toy, because I've been longing to make pesto from our many wild and domesticated greens, along with nut butters/nut flours, mole, [etc.](https://reverdecer.annalisagross.com/2018/08/09/how-to-make-squash-pancakes/) We left our food processor in the US since [it can't run from our solar panels](https://reverdecer.annalisagross.com/2018/07/20/electricity/) but this blender should work.
 * got all the free samples that looked appealing, and dutifully bought two items that we hadn't intended to because they tasted so good, all the while practicing Spanish:-)
 * hoping to get all the groceries we'd need so we wouldn't have to venture beyond the neighborhood for days to come, we happily accepted the helper's help to get our cart to the truck, unload, and take the cart away (sometime I'll write a blog post about the ways Mexico is more civilized than the US)
 
 Left Costco at 7pm
-* which meant we'd either have to rush straight to my uncle's work (still need to exchange goods and services) while our berries and fish thaw and the dogs pee/puke in the van OR we'd go home, unload, let the dogs out of the van, and miss seeing my uncle
+* which meant we'd either have to rush straight to my uncle's work (still need to exchange goods and services) while our berries and fish thaw in the truck and the dogs pee/puke in the van OR we'd go home, unload, let the dogs out of the van, and miss seeing my uncle
 * compromised, which means we went home and while I unloaded and fed the dogs, Phillip biked to UNAM to meet Stan and exchange things
 * I harvested red kale, dionasaur kale, mizuna lettuce, spinach, cilantro, purslane, soursop, radish tops and bottoms, lamb's quarter, amaranth and green onion for salad
 * I cut up the big piece of Costco salmon into serving-size chunks to freeze, and drowned one piece in crushed red pepper for our salads
@@ -73,6 +73,6 @@ Now at 10:30 I'm finishing this blog post and Phillip has finished setting up th
 [![](/images/gris_net_.jpg){:width="60%"}](/images/gris_net.jpg)
 {% endfigure %}
 
-And I never did the laundry, harvested beans or squash, didn't weed most of the beds, only watered 25% of the garden. We didn't work on swales or shower or [dig a new hole for the toilet](https://reverdecer.annalisagross.com/2018/04/20/pup-tent/) or even wash the supper dishes.
+And I never did the laundry, harvested beans or squash, didn't weed most of the beds, only watered 25% of the garden. We didn't work on [swales](https://reverdecer.annalisagross.com/2018/08/03/swales/) or [shower](https://reverdecer.annalisagross.com/2018/06/22/the-evolution-of-showering/) or [dig a new hole for the toilet](https://reverdecer.annalisagross.com/2018/04/20/pup-tent/) or even wash the supper dishes.
 
 Time to check the chickens once more and find some comfort-dessert. See you tomorrow, El Terreno.

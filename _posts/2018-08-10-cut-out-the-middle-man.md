@@ -3,7 +3,7 @@ title: Cut out the middle man!
 date: '2018-08-10 06:00:00'
 image: middle_wrist_.jpg
 tags: vanlife vanlifewithpets mexico
-categories: vandwelling cats dogs
+categories: vandwelling cats dogs pests
 layout: post
 ---
 
@@ -17,11 +17,10 @@ We are using a mosquito repellant that works pretty well...when we can get it to
 
 [![](/images/mosquito_coil_.jpg){:width="60%"}](/images/mosquito_coil.jpg)
 
-[It's this style](https://www.amazon.com/gp/product/B07C869L83/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07C869L83&linkId=b774371b18247db12f46a7a1831d2b0f), but much cheaper when we buy them at Waldo's a dollar store chain in Mexico. Of course, they don't burn very well...
+[It's this style](https://www.amazon.com/gp/product/B07C869L83/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07C869L83&linkId=b774371b18247db12f46a7a1831d2b0f), but much cheaper when we buy them at Waldo's a dollar store chain in Mexico. Of course, they won't stay lit.
 
 Luckily we have this metal plate left behind from taking seats out of the van, so we have a relatively safe place for fire in the van. And we have a fire extinguisher, too!
 
 I really want to cut out the middle man (me). I'm covered in mosquito bites and cat scratches - why can't the cats just scratch the mosquitos and everyone leave me alone?
 
-Anyone have experience with [mosquito repelling bracelets](
-https://www.amazon.com/gp/product/B01IB9W9RS/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IB9W9RS&linkId=49ab62f973912459bec26e95bef0c601)? I'm unwilling to spray anything stinky on me or the van, it's worse than mosquito bites.
+Anyone have experience with [mosquito repelling bracelets](https://www.amazon.com/gp/product/B01IB9W9RS/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IB9W9RS&linkId=49ab62f973912459bec26e95bef0c601)? I'm unwilling to spray anything stinky on me or the van, it's worse than mosquito bites.

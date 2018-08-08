@@ -30,4 +30,4 @@ Final example: when some of my garden beds were smothered in gravel I knew I nee
 Our neighbors (the horse farm) live on the same hillside we do, but they leveled their plot with gravel. I started garden beds along our shared wall because it's a beautiful spot with the only two "old" trees on the land (over 20 years). The first big rain after I'd planted showed me the error of my ways - gravel washed from their artificially higher ground through the chain link fence onto the garden beds. With Phillip's advice I dug some trenches, and the beds have been gravel-free since.
 [![](/images/trench_text_.jpg)](/images/trench_text.jpg)
 
-It did mess with the aesthetics of my arcs and curves celebrating the trees, bamboo, and how human bodies move when weeding , but the gravel's in a better place now.
+It did mess with the aesthetics of my arcs and curves celebrating the trees, bamboo, and how human bodies move when weeding, but the gravel's in a better place now.

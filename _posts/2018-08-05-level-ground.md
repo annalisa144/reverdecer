@@ -19,6 +19,8 @@ In Iowa a swale might be a straight line, but here it curves. If I walk across E
 
 [![](/images/swale_square_.jpg){:width="60%"}](/images/swale_square.jpg)
 
+[How's that swale doing in the rainy season?](http://reverdecer.annalisagross.com/2018/08/14/swale-success/)
+
 We're doing mini-landshaping around some plants and trees---a small C-shaped berm on the downhill side of trees and plants to slow and sink water. That would be an easy Sunday afternoon project in your yard or garden.
 
 Final example: when some of my garden beds were smothered in gravel I knew I needed to act.

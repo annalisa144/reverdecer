@@ -7,7 +7,7 @@ categories: vandwelling cats dogs chickens
 layout: post
 ---
 
-How did we end up living in a van? We decided to live in a travel trailer, and bought a 1999 full-size GMC to pull the 18' travel trailer.
+How did we end up living in a **van**? Well, first we decided to live in a **travel trailer**, and needed a big vehicle to pull the trailer. We bought a 1999 full-size GMC **van** to pull the 18' travel trailer.
 
 [![](/images/prowler_trailer_.jpg){:width="60%"}](/images/prowler_trailer.jpg)
 
@@ -40,7 +40,7 @@ This winter will be too cold to live in a van off-grid. My fantasy of driving to
 
 They hate truck trips; they don't want to live on the road with us. 
 
-The more we cultivate life en El Terreno, the more we're rooted on this spot with cats and chickens, the more satisfying our time here becomes. We realized we've set a new record: we didn't leave the land for 5 days. Didn't open the gate! I'm a homebody; I wasn't missing being in the city, on the roads, in a vehicle. We have plenty of space to move here - I still haven't stepped into all the nooks and crannies of this >2 acre plot.
+The more we cultivate life en El Terreno, the more we're rooted on this spot with cats and chickens, the more satisfying our time here becomes. We realized we've set a new record: we didn't leave the land for 5 days. Didn't open the gate! I'm a homebody; I wasn't missing being in the city, on the roads, in a vehicle. We have plenty of space to move here - I still haven't stepped into all the nooks and crannies of this 1.5 acre plot.
 
 Yet, surprisingly, I find myself feeling *stuck* when I realize we can't just drive to the beach for a weekend. I don't miss being on the road, cramming all our stuff back into the van to drive to the next campground and move tubs out of the way so we can crawl into bed. I love our rustic kitchen and digging in the dirt. But the freedom to just *go* - is that what I'm missing?
 

@@ -27,7 +27,7 @@ We actually bought the first bag for Max. Between neuropathy, chronically stiff 
 
 But other days he surprises us and wants to GO! Like this day, when we carried him only occasionally.
 
-[![](/images/_.jpg){:width="60%"}](/images/.jpg)
+[![](/images/anna_carry_grey_dogs_.jpg){:width="60%"}](/images/anna_carry_grey_dogs.jpg)
 
 So we bought the bag for Max but have used it more for Booker, who gets excited when he sees me pick up the bag. Sometimes I just put him in so he can snuggle and I can get a little work done. I've learned cooking, washing dishes and gardening do not work with Booker in the bag.
 
@@ -38,3 +38,7 @@ Booker's heart disease is progressing (mitral valve regurgitation) so these days
 When we hike with our uncle's dog Puki we have to take more breaks. Ironic, yes? Puki is 1-year-old and ridiculously strong. But he's black and the sun absolutely affects him more. In the early morning he noticeably doesn't stop as much.
 
 [![](/images/puki_rabbit_.jpg){:width="60%"}](/images/puki_rabbit.jpg)
+
+Take more breaks than you might need to be sure your dogs are taking care of themselves.
+
+[![](/images/anna_grey_dogs_field_.jpg){:width="60%"}](/images/anna_grey_dogs_field.jpg)

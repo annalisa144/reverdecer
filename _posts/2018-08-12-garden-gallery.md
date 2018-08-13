@@ -30,3 +30,7 @@ The cats think garden beds are the best litter boxes, with all that loose soil. 
 We're eating nearly ten wild plants on a regular basis, most of which we can eat in the US too. But watch out for glossy nightshade! I think there are safe ways to eat it but we're not trying.
 
 | [![](/images/wild_greens_.jpg)](/images/wild_greens.jpg) | [![](/images/poison_nightshade_.jpg)](/images/poison_nightshade.jpg) | <br>
+
+A pretty flower doesn't mean we welcome the plant, like this bindweed. I wonder if it can survive the grasshoppers?
+
+| [![](/images/bindweed_.jpg){:width="70%"}](/images/bindweed.jpg) | !](/images/grasshopper.jpg) | <br>

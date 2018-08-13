@@ -34,7 +34,7 @@ Sadly, though they have a litter box, the kittens usually poop in our gardens be
 
 But I will show you how ugly our closest gardens look now.
 
-[![](/images/ugly_garden2_.jpg){:width="60%"}](/images/ugly_garden2.jpg)
+[![](/images/ugly_garden2_.jpg)](/images/ugly_garden2.jpg)
 
 The cats still don't venture far from the homestead so we shouldn't have tapeworms down the hill. Yet.
 

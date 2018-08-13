@@ -11,6 +11,10 @@ We love hiking but our old dogs can't keep up.
 
 But we put hiking on the activity calendar at this [dog retirement home](https://reverdecer.annalisagross.com/2018/08/05/dog-retirement-home/).
 
+See what we see on hikes!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K0gsOxdYuWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 We have a couple carrying bags and they make a big difference. Booker is only 7 kilos/15 pounds but carrying him takes boths hands and gets tiring. Putting his weight in this bag helps a lot. Plus when he walks we stick our water bottles in it.
 
 [We bought our first bag on Amazon for $13](https://www.amazon.com/gp/product/B073WZJCKQ/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B073WZJCKQ&linkId=ee102aa602c4cda4badaa382ae4f1e84) so if our dogs hated it we wouldn't be too frustrated.

@@ -27,4 +27,6 @@ The cats think garden beds are the best litter boxes, with all that loose soil. 
 
 | [![](/images/gris_garden_.jpg)](/images/gris_garden.jpg) | [![](/images/ugly_garden_.jpg)](/images/ugly_garden.jpg) | <br>
 
-| [![](/images/_.jpg)](/images/.jpg) | [![](/images/_.jpg)](/images/.jpg) | <br>
+We're eating nearly ten wild plants on a regular basis, most of which we can eat in the US too. But watch out for glossy nightshade! I think there are safe ways to eat it but we're not trying.
+
+| [![](/images/wild_greens_.jpg)](/images/wild_greens.jpg) | [![](/images/poison_nightshade_.jpg)](/images/poison_nightshade.jpg) | <br>

@@ -1,8 +1,8 @@
 ---
 title: Higher ground
-date: '2018-08-15 06:00:00'
+date: '2018-09-03 06:00:00'
 image: view_from_hill_.jpg
-tags: morelia michoacan mexico hike hiking
+tags: morelia michoacan mexico hike hiking trek happy trails tails
 categories: neighborhood morelia
 layout: post
 ---
@@ -18,7 +18,7 @@ There are higher points to reach and since we have great [freedom to roam here](
 
 Check out some of the flowers we met!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tzR3HPbyle4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D6BTaqkRv60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 We weren't that far from home, but it's nearly impossible to see El Terreno. Click and zoom to try - see my notes?
 [![](/images/view_from_hill_with_notes_.jpg)](/images/view_from_hill_with_notes.jpg)

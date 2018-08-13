@@ -40,4 +40,8 @@ The cats still don't venture far from the homestead so we shouldn't have tapewor
 
 Yes, we got medicine and treated the kittens. So far the dogs don't have anything crawling out of their butts, and we can be confident in that because we wipe their butts on a regular basis since they don't, and we don't like poop smears in bed.
 
+We researched disposable sheets. I imagined the paper kind that doctors and massage therapists use. But queen-size? [Turns out there's a fancy version that parents of college students designed](https://beantownbedding.com) when they learned their kids didn't wash their sheets all semester. We wondered if getting a weekly box of disposable sheets is convenient enough for lazy college students, or if those boxes just pile up?
+
+Regardless, they're $30 a set which is more expensive than cheap boxstore sheets, which (esp if 100% cotton) are also disposable/biodegradable.  Then we read [how much water is wasted to make them](https://fastcompany.com/3051939/no-need-to-launder-these-disposable-sheets-when-you-can-greenwash-them-instead), so please don't give them to us for Christmas:-)
+
 I am afraid I'll swallow a worm in my sleep, since we all know cats like to walk and lay on faces in the night. But apparently I won't get infested unless I swallow a flea carrying tapeworms? What a strange world.

@@ -33,4 +33,4 @@ We're eating nearly ten wild plants on a regular basis, most of which we can eat
 
 A pretty flower doesn't mean we welcome the plant, like this bindweed. I wonder if it can survive the grasshoppers?
 
-| [![](/images/bindweed_.jpg){:width="70%"}](/images/bindweed.jpg) | !](/images/grasshopper.jpg) | <br>
+| [![](/images/bindweed_.jpg){:width="45%"}](/images/bindweed.jpg) | ![](/images/grasshopper.jpg) | <br>

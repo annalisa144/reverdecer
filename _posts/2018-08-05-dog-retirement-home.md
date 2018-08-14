@@ -1,10 +1,10 @@
 ---
+title: Dog retirement home
 date: '2018-08-05 06:00:00'
 image: dogs_kitchen_.jpg
 tags: vanlifewithpets permaculture permacultura mexico
 categories: vandwelling dogs
 layout: post
-title: Dog retirement home
 ---
 
 Do you ever feel like you're not doing enough? Look at the clock and realize you've only made it through half your to-do list? Stay up too late to finish a project, or to finally unwind after working all day?
@@ -20,3 +20,7 @@ I was bemoaning this to some friends and telling them that part of the reason we
 [![](/images/wind_.jpg){:width="60%"}](/images/.jpg)
 
 We may not have achieved some [permaculture perfection](https://reverdecer.annalisagross.com/2018/08/04/great-expectations/), but (as my friends pointed out) we have an excellent dog retirement home.
+
+Hannah is the youngster, age 10. One stroke but she recovered and she's tough.
+Booker, age 13 - any day will be his last with mitral valve regurgitation and other health problems.
+Max, age 14 - happier here than PA but still a cranky old man with gastritis, neuropathy, mostly blind, etc.

@@ -38,6 +38,7 @@ layout: post
 * turn on the van cause we don't have enough sun to run the freezer off the solar panels
 * breathe in disgusting fumes
 * wash a few plates cause we had the neighbors over for dinner last night, which means we used all six of our plates, and since they left well after dark we didn't bother to wash up last night
+* [oh but we need fresh water for washing dishes, which means dumping out the dishtub into the watering pitcher, which means water some gardens](http://reverdecer.annalisagross.com/2018/08/15/why-does-it-take-so-stinkin-long-to-wash-the-dishes-around-here/)
 * refill a water bucket from rain tank to finish washing those dishes
 * backflush the drinking water filter with clean water
 * fill the drinking water filter with rainwater from the tank

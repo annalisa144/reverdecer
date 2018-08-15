@@ -2,6 +2,8 @@
 title: Why does it take so stinkin' long to wash the dishes around here?
 date: '2018-08-15 06:00:00'
 image: dinner3_.jpg
+tags: vanlife permacultura permaculture mexico camping rv offgrid
+categories: vandwelling water
 layout: post
 ---
 
@@ -9,7 +11,7 @@ layout: post
 
 [![](/images/sink_bucket_.jpg){:width="50%"}](/images/sink_bucket.jpg)
 
-Because we have to get water from the rain tank and bring it by bucket to the sink.  If there aren't many dishes (and they're not too greasy) one bucket is enough. otherwise, multiple trips to the rain barrel.
+We get water from the rain tank and bring it by bucket to the sink.  If there aren't many dishes (and they're not too greasy) one big bucket (bigger than this brown one)  is enough. otherwise, multiple trips to the rain barrel.
 
 Takes even longer to "drain" the sink since we send the graywater into our watering pitcher and use it in the gardens or on trees.
 
@@ -23,10 +25,10 @@ Takes even longer to "drain" the sink since we send the graywater into our water
 
 It could be worse - rainwater is clean enough that we don't have to filter it before washing dishes. Our filter is too slow to keep up with drinking, cooking and washing.
 
-It could be better (and worse) if we had more dishes! We moved here with the bare minimum, and the biggest drag was that we broke a couple mugs in our [rustic kitchen](https://reverdecer.annalisagross.com/2018/06/30/rustico/) and were down to just two. Which meant washing between every drink. Or covering a mug with some kind of lid (there are flies EVERYWHERE) and reusing a mug. But I don't like to use a mug with coffee dregs for tea, and vice versa.
+It could be better (and worse) if we had more dishes! We moved here with the bare minimum. But we broke a couple mugs in our [rustic kitchen and were down to just two](https://reverdecer.annalisagross.com/2018/06/30/rustico/). Which meant washing between every drink. Or covering a mug with some kind of lid (there are flies EVERYWHERE) and reusing a mug. But I don't like to use a mug with coffee dregs for tea, and vice versa.
 
 Usually we don't finish dinner until after dark, and washing dishes in the dark is annoying (and often only partially effective). Which means [before having morning tea or coffee, gotta wash the dishes. Which probably means, gotta water some gardens and fetch some water.](https://reverdecer.annalisagross.com/2018/07/18/stuff-we-have-to-do-before-breakfast/) Grr.
 
-Every time we'd have the neighbors over we'd ask them to bring mugs. Finally we bought more dishes in [Capula,](https://en.wikipedia.org/wiki/Capula) where they're pretty and cheap.
+Every time we'd have the neighbors over we'd ask them to bring mugs. Finally we bought more dishes in [Capula,](https://en.wikipedia.org/wiki/Capula) where they're pretty and cheap. Ready for a dinner party!
 
 |  [![](/images/new_mugs_.jpg){:width="90%"}](/images/new_mugs.jpg)  |  [![](/images/mugs_.jpg)](/images/mugs.jpg)  |

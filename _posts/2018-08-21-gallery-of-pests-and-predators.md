@@ -7,19 +7,21 @@ layout: post
 
 Our garden's most UNwanted pests (I think - please correct what I got wrong):
 
-| [![](/images/aphids_.jpg)](/images/aphids.jpg) | [![](/images/ants_.jpg)](/images/ants.jpg) | [![](/images/bugs_.jpg)](/images/bugs.jpg) |
+| [![](/images/pests/aphids_.jpg)](/images/pests/aphids.jpg) | [![](/images/pests/ants_.jpg)](/images/pests/ants.jpg) | [![](/images/pests/bugs_.jpg)](/images/pests/bugs.jpg) |
+|  aphids  |    fire ants or other stinging ants  |  assortment of bugs on our rain tank - who do you see?  |
 
 
-| [![](/images/millipede_snail_.jpg)](/images/millipede_snail.jpg) | [![](/images/grubs_.jpg)](/images/grubs.jpg) | [![](/images/caterpillar_.jpg)](/images/caterpillar.jpg) |
+| [![](/images/pests/millipede_snail_.jpg)](/images/pests/millipede_snail.jpg) | [![](/images/pests/grubs_.jpg)](/images/pests/grubs.jpg) | [![](/images/pests/caterpillar_.jpg)](/images/pests/caterpillar.jpg) |
+|  millipede and tiny snail  |  gallinas ciegas  |  some caterpillar? looks menacing  |
 
 
-| [![](/images/leaf_.jpg)](/images/leaf.jpg) | [![](/images/grasshopper_.jpg)](/images/grasshopper.jpg) | [![](/images/bug_shell_.jpg)](/images/bug_shell.jpg) |
+|  [![](/images/pests/moth_.jpg)](/images/pests/moth.jpg)  | [![](/images/pests/grasshopper_.jpg)](/images/pests/grasshopper.jpg) | [![](/images/pests/bug_shell_.jpg)](/images/pests/bug_shell.jpg) |
+|  this moth doesn't look beneficial  |  grasshopper  |  what was this bug?  |
 
 
-| [![](/images/parasite_.jpg)](/images/parasite.jpg) | [![](/images/bindweed_grasshopper_.jpg)](/images/.bindweed_grasshopperjpg) | [![](/images/gravel_.jpg)](/images/gravel.jpg) |
+| [![](/images/pests/parasite_.jpg)](/images/pests/parasite.jpg) | [![](/images/pests/bindweed_grasshopper_.jpg)](/images/pests/.bindweed_grasshopperjpg) | [![](/images/pests/gravel_.jpg)](/images/pests/gravel.jpg) |
+|  mistletoe-type parasite, a pest in trees and bushes, not garden  |  bindweed and grasshopper  |  [gravel drowning](https://reverdecer.annalisagross.com/2018/08/06/level-ground/)  |
 
 
-| [![](/images/flies_.jpg)](/images/flies.jpg) | [![](/images/tapeworm_.jpg)](/images/tapeworm.jpg) | [![](/images/moth_.jpg)](/images/moth.jpg) |
-
-
-| [![](/images/dogs_.jpg)](/images/dogs.jpg) | [![](/images/gris_.jpg)](/images/gris.jpg) | [![](/images/scorpion_.jpg)](/images/scorpion.jpg) |
+| [![](/images/pests/dogs_.jpg)](/images/pests/dogs.jpg) | [![](/images/pests/gris_.jpg)](/images/pests/gris.jpg) |  [![](/images/pests/tapeworm_.jpg)](/images/pests/tapeworm.jpg) |
+|  any of the dogs can hurt the garden but Puki and Luna are the heaviest  |  Gris treats the gardens as a litter box  |  and leaves tapeworms  |

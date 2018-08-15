@@ -1,6 +1,6 @@
 ---
 title: How to get dogs to take medicine
-date: '2018-08-15 06:00:00'
+date: '2018-08-17 06:00:00'
 layout: post
 ---
 

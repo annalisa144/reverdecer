@@ -1,6 +1,6 @@
 ---
 title: Bikes of burden
-date: '2018-08-18 06:00:00'
+date: '2018-08-23 06:00:00'
 image: escalara2_.jpg
 tags: gobybike bikeastrans mexico sustainability sostenibilidad
 categories: morelia

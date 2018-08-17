@@ -45,3 +45,7 @@ We researched disposable sheets. I imagined the paper kind that doctors and mass
 Regardless, they're $30 a set which is more expensive than cheap boxstore sheets, which (esp if 100% cotton) are also disposable/biodegradable.  Then we read [how much water is wasted to make them](https://fastcompany.com/3051939/no-need-to-launder-these-disposable-sheets-when-you-can-greenwash-them-instead), so please don't give them to us for Christmas:-)
 
 I am afraid I'll swallow a worm in my sleep, since we all know cats like to walk and lay on faces in the night. But apparently I won't get infested unless I swallow a flea carrying tapeworms? What a strange world.
+
+If you do want to see a tapeworm (in dirt, no poop) it's the first image in this video:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EHHyPy6H47M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -1,6 +1,7 @@
 ---
 title: Slow and steady, easy does it
 date: '2018-08-16 06:00:00'
+image: yoga_gris_.jpg
 tags: yoga mexico pets dogs cats permaculture garden
 categories: vandwelling
 layout: post

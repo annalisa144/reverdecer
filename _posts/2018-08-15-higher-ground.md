@@ -1,6 +1,6 @@
 ---
 title: Higher ground
-date: '2018-09-03 06:00:00'
+date: '2018-08-24 06:00:00'
 image: view_from_hill_.jpg
 tags: morelia michoacan mexico hike hiking trek happy trails tails
 categories: neighborhood morelia

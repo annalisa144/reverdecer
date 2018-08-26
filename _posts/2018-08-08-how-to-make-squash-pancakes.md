@@ -13,7 +13,7 @@ These days we're eating squash pancakes, which means we get vegetables and comfo
 
 | [![](/images/squash_.jpg){:width="65%"}](/images/squash.jpg) | [![](/images/squash2_.jpg){:width="60%"}](/images/squash2.jpg) |
 
-Add cooked, pureed squash to all sorts of things - bread, soup, apple crisp....just wait til we try it in brownies! You might prefer peeling and seeding the squash but we don't bother - you might notice tiny pieces of seeds but they blend in well with oats, nuts, chia seeds and other healthy pancake options.
+Add cooked, pureed squash to all sorts of things - bread, soup, [apple crisp](http://reverdecer.annalisagross.com/2018/08/27/how-to-make-apple-crisp-in-a-grill/)....just wait til we try it in brownies! You might prefer peeling and seeding the squash but we don't bother - you might notice tiny pieces of seeds but they blend in well with oats, nuts, chia seeds and other healthy pancake options. That is, when we're using young squash (think summer squashes like zucchini). If we're using butternut, acorn or another hard skin squash, we'd at least partially peel it.
 
 Beat together:
 * 1 to 2 eggs (use 2 if you use more squash to hold the whole thing together)

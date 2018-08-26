@@ -1,6 +1,6 @@
 ---
 title: Bike paths
-date: '2018-08-29 06:00:00'
+date: '2018-08-26 06:00:00'
 image: bike_path3_.jpg
 tags: bike bikes bikeride bikepath bikelane mexico cycling cycle
 categories: neighborhood morelia

@@ -1,6 +1,6 @@
 ---
 title: Who is the cutest pest in the garden?
-date: '2018-09-05 06:00:00'
+date: '2018-08-28 06:00:00'
 image: grasshopper.jpg
 tags: "#vanlifemexico #sustainabilidade #sustainability #vanlife #offgrid #mexico
   #permacultura #permaculture #garden #farm #eatyourweeds #wildedibles #michoacan
@@ -10,6 +10,11 @@ tags: "#vanlifemexico #sustainabilidade #sustainability #vanlife #offgrid #mexic
 categories: pests plants dogs
 layout: post
 ---
+
+**Turtle?**
+*Is it some form of ladybug (and therefore welcome) or some bad tortoise bug?*
+
+[![](/images/turtle_beetle_.jpg){:width="60%"}](/images/turtle_beetle.jpg)
 
 **Snail?**
 

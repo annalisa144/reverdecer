@@ -1,6 +1,6 @@
 ---
 title: La colina de la muerte
-date: '2018-08-28 06:00:00'
+date: '2018-08-30 06:00:00'
 image: colina_.jpg
 tags: vanlife offroad vanlifemexico
 categories: neighborhood morelia vandwelling

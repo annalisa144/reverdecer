@@ -31,7 +31,7 @@ toward UNAM (where my uncle teaches) and then travel up the hill to a hardware s
 
 [![](/images/pvcbike_.jpg){:width="60%"}](/images/pvcbike.jpg)
 
-And we use this bike path to go to [Presa de Cointzeo], which means uphill for most of the 8km until a big downhill to the lake.
+And we use this bike path to go to [Presa de Cointzeo](http://reverdecer.annalisagross.com/2018/08/30/presa-de-cointzio/), which means uphill for most of the 8km until a big downhill to the lake.
 
 [![](/images/bike_path2_.jpg){:width="60%"}](/images/bike_path2.jpg)
 

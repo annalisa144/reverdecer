@@ -1,6 +1,8 @@
 ---
 title: Brick city
-date: '2018-08-31 06:00:00'
+date: '2018-09-11 06:00:00'
+image: brick_city.jpg
+categories: neighborhood
 layout: post
 ---
 
@@ -10,5 +12,11 @@ We were tentative at first, thinking we might be trespassing in some little vill
 
 Then we realized the houses were actually bricks drying with tarps. And then we saw the chimneys were brick kilns.
 
-bricks
-bricks2
+
+ [![](/images/kiln_.jpg)](/images/kiln.jpg)  
+ 
+ We saw a couple trucks moving slowly, loading bricks. And we saw several old trucks that might just be good for radios and sleeping cabs. And then an old truck good for....
+
+[![](/images/dead_truck_.jpg)](/images/dead_truck.jpg)
+
+brick_sales.jpg

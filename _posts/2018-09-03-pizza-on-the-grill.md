@@ -1,6 +1,8 @@
 ---
 title: Pizza on the grill
-date: '2018-09-03 06:00:00'
+date: '2018-09-11 06:00:00'
+tags: vanlife camping food camp rv vandwelling grill best homemade pizza crust
+categories: food
 layout: post
 ---
 

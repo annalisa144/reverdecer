@@ -13,7 +13,11 @@ There are few bike lanes or paths in Morelia. In the city center there are a cou
 
 But they're short and have never been on my way to anywhere.
 
-There's a long bike path near El Terreno which gets plenty of use, by walkers, bikers, dogs - occasionally horses, 4-wheelers and even cars. Seriously, I watched someone in a compact car use an unofficial access ramp (roadbank) to take the bike lane as a left-turn lane into their neighborhood. They weren't on it more than 200m but that included a steep hill (so if I'd been on my way home already I might not have seen them as I biked down that hill). Tried to grab my phone to get a picture but didn't manage.
+There's a long bike path near El Terreno which gets plenty of use, by walkers, bikers, dogs - occasionally horses, 4-wheelers and even cars. Seriously, I watched someone in a compact car use an unofficial access ramp (roadbank) to take the bike lane as a left-turn lane into a business.
+
+[![](/images/bike_path_cars_.jpg){:width="60%"}](/images/bike_path_cars.jpg)
+
+(Access is near the car in this photo - not the driver who made this reckless move.) S/he wasn't on it more than 200m but that included a steep hill (so if I'd been on my way home already I might not have seen them as I biked down that hill).
 
 [![](/images/bike_path_.jpg){:width="60%"}](/images/bike_path.jpg)
 

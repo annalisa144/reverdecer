@@ -7,7 +7,7 @@ categories: dogs Morelia
 layout: post
 ---
 
-We crossed the border with three senior dogs and acquired two kittens in Morelia. We have been to the vet at least 12x in four months. Sometimes we show up with all five animals and they don't curse us (or they do in Spanish and we don't understand).
+We crossed the border with three senior dogs and acquired two kittens in Morelia. We have been to the vet at least 12x in four months. Sometimes we show up with all five animals and they don't curse us (or they do in Spanish and we don't understand). And often the bill is $100, but never more.
 
 We told Dr. Alfredo all about our dogs' illnesses (gastritis, detached retina, cataracts, heart disease, tumors, growths, stroke, nodules, epilepsy, etc.) and he was curious and calm.
 

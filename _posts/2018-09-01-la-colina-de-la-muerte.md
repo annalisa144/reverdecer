@@ -15,4 +15,6 @@ But if we ever get stuck, if the transmission goes out (which is does), if a tir
 
 The other day someone had filled in some potholes and left behind dog food bags filled with rocks to protect the roadwork. So we got an obstacle course, too.
 
+[![](/images/colina_work_.jpg)](/images/colina_work.jpg)
+
 I want to communicate the terror through video, but haven't found a way to do that yet. I'll let you know when I do!

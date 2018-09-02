@@ -2,6 +2,8 @@
 title: Muddy ride
 date: '2018-08-25 06:00:00'
 image: muddy_bike_.jpg
+tags: cycling bicycling mexico mountains mud rain
+categories: neighborhood mexico
 layout: post
 ---
 
@@ -13,6 +15,10 @@ We left our road/hybrid bikes in the US and got some mountain bikes out of a dum
 
 I can't imagine biking here on a road bike - I walk this mountain bike frequently, especially in the rainy season.
 
-Phillip taught me a cool trick; when we have to cross a stream he throws his bike across in front of him and leaps behind it (holding on to the frame the whole time). I practiced on flat ground and haven't tried it over water yet.
+[![](/images/bike_mexico_.jpg)](/images/bike_mexico.jpg)
 
-I won't miss the potholes or *topes* but I'm glad to know what these [bikes of burden](https://reverdecer.annalisagross.com/2018/08/23/beasts-and-bikes-of-burden/) can handle.
+Phillip taught me a cool trick; when we have to cross a stream he throws his bike across in front of him and leaps behind it (holding on to the frame the whole time). I practiced on flat ground with little success and haven't tried it over water yet.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TAgn5fhL5xo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Post-Mexico I won't miss the potholes or *topes* but I'm glad to know what these [bikes of burden](https://reverdecer.annalisagross.com/2018/08/23/beasts-and-bikes-of-burden/) can handle.

@@ -1,6 +1,6 @@
 ---
 title: Blogging and couching
-date: '2018-07-30 06:00:00'
+date: '2018-07-31 06:00:00'
 image: couch_.jpg
 tags: writing mexico vanlife vanlifewithpets
 categories: vandwelling cats dogs

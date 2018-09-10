@@ -1,6 +1,7 @@
 ---
 title: How to make brownies in a grill
-date: '2018-09-20 06:00:00'
+date: '2018-09-21 06:00:00'
+tags: camping dessert grill bake cook
 categories: food
 layout: post
 ---

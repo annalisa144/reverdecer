@@ -1,7 +1,8 @@
 ---
-date: '2018-09-19 06:00:00'
-layout: post
 title: Door-to-door sales
+date: '2018-09-25 06:00:00'
+categories: neighborhood morelia
+layout: post
 ---
 
 We're proud of [what we haul by bike](https://reverdecer.annalisagross.com/2018/08/23/beasts-and-bikes-of-burden/), but truck burdens are impressive, too.

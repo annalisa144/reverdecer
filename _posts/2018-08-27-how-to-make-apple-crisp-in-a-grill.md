@@ -44,3 +44,5 @@ Then bake until the apples are soft - or whatever texture you like.
 If you're not going to eat it all in two days we recommend freezing it - it thaws perfectly. The squash will go bad first, so at least put in a fridge after a day or two, but freezing will keep it fresh best.
 
 Heat it up before you eat it and add milk, yogurt, kefir or ice cream.
+
+[![](/images/apple_crisp2_.jpg)](/images/apple_crisp2.jpg)

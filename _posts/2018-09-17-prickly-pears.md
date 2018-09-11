@@ -17,7 +17,7 @@ There was a small prickly pear cactus in El Terreno when we came, and with a lit
 
 I decided to bring home a pad from a particularly hearty, healthy looking cactus to propigate a new one. They're all over roadsides, so it was easy to pick one. I picked the pad as carefully as possible, but couldn't avoid all the thorns.
 
-[![](/images/cactus_pricks_.jpg){:width="60%"}](/images/cactus_pricks.jpg)
+[![](/images/cactuspricks_.jpg){:width="60%"}](/images/cactuspricks.jpg)
 
 These cacti are determined. Check out how well our transplant is doing now!
 

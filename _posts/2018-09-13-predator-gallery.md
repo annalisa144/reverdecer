@@ -45,11 +45,11 @@ Do the bugs think aliens have landed in the garden? The jugs and bottles help wi
 
 Recognize these bugs? They wash off the roof in heavy rain onto our barrel. And this caterpillar...will it become a pest or a predator?
 
-| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/caterpillar.jpg) | <br>
+| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/predators/caterpillar.jpg) | <br>
 
 The large predators en El Terreno are my favorite.
 
-| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/gris_mouse2.jpg) | <br>
+| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/predators/gris_mouse2.jpg) | <br>
 
 We share the grasshopper bounty with the chickens, but soon might try eating them ourselves. With lime, chili and salt.
 

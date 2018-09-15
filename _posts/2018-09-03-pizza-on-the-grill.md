@@ -7,7 +7,7 @@ categories: food
 layout: post
 ---
 
-Phillip perfected pizze on the grill when we were still in PA and had a full-size and fully-functioning oven - it tastes so much better on the grill!
+Phillip perfected pizza on the grill when we were still in PA and had a full-size and fully-functioning oven - it tastes so much better on the grill!
 
 It's seriously convenient, too, because I make a big batch of dough and we freeze it in balls (with a couple in the cooler) so when we want to eat pizza we just roll out dough, deal with toppings, and grill.
 

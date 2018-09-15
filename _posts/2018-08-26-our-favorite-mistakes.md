@@ -1,12 +1,12 @@
 ---
 title: Our favorite mistakes
-date: '2018-09-16 06:00:00'
+date: '2018-09-19 06:00:00'
 image: baking_mistake_.jpg
-categories: food
+categories: food spanish water
 layout: post
 ---
 
-Here's a gallery of mistakes we've made:
+Here's an abbreviated gallery of mistakes we've made:
 
 First time we went to Costco we ended up with a box of sugar packets, rather than a box of sugar. We could blame it on not reading the Spanish carefully, but truly, I made the same mistake in the US years ago!
 
@@ -19,6 +19,7 @@ When we first arrived en El Terreno [we expected to get robbed a lot](https://re
 
 [![](/images/ruined_.jpg){:width="20%"}](/images/ruined.jpg)
 
+Well...we did have one tub of books and gear under there - stuff we were keeping in "storage" outside the van. These tubs have proven themselves rainproof. We never considered whether they were pond-proof, since we didn't plan to have them underwater.
 
 [![](/images/tp_ruin2_.jpg){:width="20%"}](/images/tp_ruin2.jpg)
 

@@ -19,7 +19,7 @@ I search for [eggs, worms and insects](https://reverdecer.annalisagross.com/2018
 
 I think these are the helpful bugs - do you know?
 
-| [![](/images/predators/cool_bugs_.jpg)](/images/predators/cool_bugs.jpg) | [![](/images/predators/good_bug2_.jpg){:width="85%"}](/images/good_bug2.jpg) | <br>
+| [![](/images/predators/cool_bugs_.jpg)](/images/predators/cool_bugs.jpg) | [![](/images/predators/good_bug2_.jpg){:width="85%"}](/images/predators/good_bug2.jpg) | <br>
 
 We have a ton of these on our mallow, and they might be lightning bug, margined leatherwing beetle, assasin bug, milkweed bug...any thoughts?
 
@@ -45,11 +45,11 @@ Do the bugs think aliens have landed in the garden? The jugs and bottles help wi
 
 Recognize these bugs? They wash off the roof in heavy rain onto our barrel. And this caterpillar...will it become a pest or a predator?
 
-| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/predators/caterpillar.jpg) | <br>
+| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/caterpillar.jpg) | <br>
 
 The large predators en El Terreno are my favorite.
 
-| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/predators/gris_mouse2.jpg) | <br>
+| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/gris_mouse2.jpg) | <br>
 
 We share the grasshopper bounty with the chickens, but soon might try eating them ourselves. With lime, chili and salt.
 

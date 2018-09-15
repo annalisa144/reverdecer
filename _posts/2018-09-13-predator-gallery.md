@@ -29,27 +29,27 @@ We have a ton of these on our mallow, and they might be lightning bug, margined 
 
 These are the only two frogs I've seen en El Terreno, but they're great predators. 
 
-| [![](/images/predators/green_frog_.jpg)](/images/predators/green_frog.jpg) | [![](/images/predators/tree_frog_.jpg){:width="70%"}](/images/tree_frog.jpg) | <br>
+| [![](/images/predators/green_frog_.jpg)](/images/predators/green_frog.jpg) | [![](/images/predators/tree_frog_.jpg){:width="70%"}](/images/predators/tree_frog.jpg) | <br>
 
 What are these?
 
-| [![](/images/predators/good_bug3_.jpg){:width="95%"}](/images/predators/good_bug3.jpg) | [![](/images/predators/bizarre_bug_.jpg)](/images/bizarre_bug.jpg) | <br>
+| [![](/images/predators/good_bug3_.jpg){:width="95%"}](/images/predators/good_bug3.jpg) | [![](/images/predators/bizarre_bug_.jpg)](/images/predators/bizarre_bug.jpg) | <br>
 
 Happy to see ladybugs. And that green bug might be good?
 
-| [![](/images/predators/ladybug_.jpg)](/images/predators/ladybug.jpg) | [![](/images/predators/green_bug_.jpg){:width="95%"}](/images/green_bug.jpg) | <br>
+| [![](/images/predators/ladybug_.jpg)](/images/predators/ladybug.jpg) | [![](/images/predators/green_bug_.jpg){:width="95%"}](/images/predators/green_bug.jpg) | <br>
 
 Do the bugs think aliens have landed in the garden? The jugs and bottles help with the pests, a little. I scoured websites to identify this moth/butterfly, but never found a match.
 
-| [![](/images/predators/garden_aliens_.jpg)](/images/predators/garden_aliens.jpg) | [![](/images/predators/moth_.jpg){:width="95%"}](/images/moth.jpg) | <br>
+| [![](/images/predators/garden_aliens_.jpg)](/images/predators/garden_aliens.jpg) | [![](/images/predators/moth_.jpg){:width="95%"}](/images/predators/moth.jpg) | <br>
 
 Recognize these bugs? They wash off the roof in heavy rain onto our barrel. And this caterpillar...will it become a pest or a predator?
 
-| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/caterpillar.jpg) | <br>
+| [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/predators/caterpillar.jpg) | <br>
 
 The large predators en El Terreno are my favorite.
 
-| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/gris_mouse2.jpg) | <br>
+| [![](/images/predators/chicken_yard_.jpg){:width="90%"}](/images/predators/chicken_yard.jpg) | [![](/images/predators/gris_mouse2_.jpg)](/images/predators/gris_mouse2.jpg) | <br>
 
 We share the grasshopper bounty with the chickens, but soon might try eating them ourselves. With lime, chili and salt.
 

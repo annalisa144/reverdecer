@@ -1,8 +1,8 @@
 ---
 title: Viva la Independencia!
 date: '2018-09-15 06:00:00'
-image: marcha_del_silencio.jpg
-tags: political rally march politics mexican revolution
+image: marcha_del_silencio_.jpg
+tags: political rally march politics mexican revolution marcha independencia grito
 categories: spanish morelia
 layout: post
 ---

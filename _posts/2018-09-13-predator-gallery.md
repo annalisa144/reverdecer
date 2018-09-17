@@ -13,13 +13,15 @@ Grasshoppers, *chochos* are turning all leaves into lace. (Did you ever notice t
 | [![](/images/predators/beans_eaten_.jpg)](/images/predators/beans_eaten.jpg) | [![](/images/pests/leaf_.jpg){:width="67%"}](/images/pests/leaf.jpg) | <br>
 
 
-I search for [eggs, worms and insects](https://reverdecer.annalisagross.com/2018/08/22/gallery-of-pests-and-predators/) throughout the gardens every couple days, but can't keep up. I'm grateful to the predators, the beneficial bugs and other garden helpers, whose appetites favor squash beetles to squash blossoms.
+I search for [eggs, worms and insects](https://reverdecer.annalisagross.com/2018/08/22/gallery-of-pests-and-predators/) throughout the gardens every couple days, but can't keep up. I'm grateful to the predators, the beneficial bugs and other garden helpers, whose appetites favor squash beetles to squash blossoms. And these pollinators: wasps and bees.
 
 | [![](/images/predators/good_bug_.jpg)](/images/predators/good_bug.jpg) | [![](/images/predators/bees_.jpg){:width="84%"}](/images/predators/bees.jpg) | <br>
 
-I think these are the helpful bugs - do you know?
 
-| [![](/images/predators/cool_bugs_.jpg)](/images/predators/cool_bugs.jpg) | [![](/images/predators/good_bug2_.jpg){:width="85%"}](/images/predators/good_bug2.jpg) | <br>
+I think the shiny ones are Mexican beetles (zygogramma genus), which can be pests or predators depending on the subspecies of beetle and kinds of plants you want to grow. And the second is a type of assasin bug? 
+
+| [![](/images/predators/mexican_beetles_.jpg)](/images/predators/mexican_beetles.jpg) | [![](/images/predators/good_bug2_.jpg){:width="85%"}](/images/predators/good_bug2.jpg) | <br>
+
 
 We have a ton of these on our mallow, and they might be lightning bug, margined leatherwing beetle, assasin bug, milkweed bug...any thoughts?
 
@@ -31,19 +33,19 @@ These are the only two frogs I've seen en El Terreno, but they're great predator
 
 | [![](/images/predators/green_frog_.jpg)](/images/predators/green_frog.jpg) | [![](/images/predators/tree_frog_.jpg){:width="70%"}](/images/predators/tree_frog.jpg) | <br>
 
-What are these?
+The first is some species of calopteron winged beetle and probably a beneficial predator. The green bug?
 
-| [![](/images/predators/good_bug3_.jpg){:width="95%"}](/images/predators/good_bug3.jpg) | [![](/images/predators/bizarre_bug_.jpg)](/images/predators/bizarre_bug.jpg) | <br>
+| [![](/images/predators/good_bug3_.jpg){:width="95%"}](/images/predators/good_bug3.jpg) | [![](/images/predators/green_bug_.jpg){:width="95%"}](/images/predators/green_bug.jpg) | <br>
 
-Happy to see ladybugs. And that green bug might be good?
+Happy to see ladybugs and a young lady beetle.
 
-| [![](/images/predators/ladybug_.jpg)](/images/predators/ladybug.jpg) | [![](/images/predators/green_bug_.jpg){:width="95%"}](/images/predators/green_bug.jpg) | <br>
+| [![](/images/predators/ladybug_.jpg)](/images/predators/ladybug.jpg) |  [![](/images/predators/bizarre_bug_.jpg)](/images/predators/bizarre_bug.jpg) | <br>
 
 Do the bugs think aliens have landed in the garden? The jugs and bottles help with the pests, a little. I scoured websites to identify this moth/butterfly, but never found a match.
 
 | [![](/images/predators/garden_aliens_.jpg)](/images/predators/garden_aliens.jpg) | [![](/images/predators/moth_.jpg){:width="95%"}](/images/predators/moth.jpg) | <br>
 
-Recognize these bugs? They wash off the roof in heavy rain onto our barrel. And this caterpillar...will it become a pest or a predator?
+Recognize these bugs? They wash off the roof in heavy rain onto our barrel. And this caterpillar...will it become a pest or a predator? I think a tent caterpillar
 
 | [![](/images/predators/bugs_.jpg)](/images/predators/bugs.jpg) | [![](/images/predators/caterpillar_.jpg){:width="95%"}](/images/predators/caterpillar.jpg) | <br>
 

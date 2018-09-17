@@ -24,15 +24,20 @@ When we first arrived en El Terreno [we expected to get robbed a lot](https://re
 
 Well...we did have one tub of books and gear under there - stuff we were keeping in "storage" outside the van. These tubs have proven themselves rainproof. We never considered whether they were pond-proof, since we didn't plan to have them underwater.
 
+Not only did everything get soaked, it sat in water getting stinky like a swamp. We lay each item out, rinsed and rinsed, sunned and sunned, and salvaged most of the gear a handful of books.
+
+
+
+We're glad to have a roof over the outhouse since it rains so much these days. Somehow our toilet paper got soaked anyway (maybe from the ground up?) and we used one roll (sustainability and all) but it was yellowish with gray flecks of mildew, and I tossed the 2nd wet roll out. We can afford some new tp.
+
 [![](/images/tp_ruin2_.jpg){:width="60%"}](/images/tp_ruin2.jpg)
 
-
-Not only did everything get soaked, it sat in water getting stinky like a swamp. We lay each item out, rinsed and rinsed, sunned and sunned, and salvaged most of the gear a handful of books.
+Guess what else rain has ruined?
 
 
 The first time we made a [solar dehydrator](https://reverdecer.annalisagross.com/2018/08/19/solar-dehydrator-1st-attempt/) we went full simple. It lasted about six rounds of drying, because by then it had been rained on three times and couldn't hold shape any longer.
 
-| [![](/images/_.jpg)](/images/.jpg) | [![](/images/_.jpg)](/images/.jpg) | solar dehydrator
+| [![](/images/dry_box2_.jpg)](/images/dry_box2.jpg) | [![](/images/dehydrator_done_.jpg)](/images/dehydrator_done.jpg) |
 
 
 Our new one is much sturdier and working well. We'll post about it another day.

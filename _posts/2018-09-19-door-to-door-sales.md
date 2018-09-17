@@ -1,6 +1,6 @@
 ---
 title: Door-to-door sales
-date: '2018-09-25 06:00:00'
+date: '2018-10-29 06:00:00'
 categories: neighborhood morelia
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 title: Terminal bloom
-date: '2018-09-20 06:00:00'
+date: '2018-10-20 06:00:00'
 image: agave.jpg
 tags: desert succulent
 categories: plants

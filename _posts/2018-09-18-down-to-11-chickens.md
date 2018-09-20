@@ -29,7 +29,7 @@ Our shed won't pass USDA inspection, as Gris uses the litter box mid-carve.
 
 We thought we'd toss it on the grill that night, but the internet says to let it rest (brine is good too) for at least 48 hours due to rigor mortis and other chemical changes in the muscle. What next?
 
-We've lost four hens to dogs. Roosters probably aren't smaller than hens, so the dogs must go for the slightly smaller females. Bummer. We have no use for three roosters and will probably butcher one and give one away. Too bad the dogs don't share our vision.
+We've lost three hens to dogs and one to other chickens. Roosters probably aren't smaller than hens, so the dogs must go for the slightly smaller females. Bummer. We have no use for three roosters and will probably butcher one and give one away. Too bad the dogs don't share our vision.
 
 Still, the chickens have [many reasons](https://reverdecer.annalisagross.com/2018/09/13/predator-gallery/) to celebrate.
 

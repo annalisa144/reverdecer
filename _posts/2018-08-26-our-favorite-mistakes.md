@@ -9,7 +9,7 @@ layout: post
 
 Here's an abbreviated gallery of mistakes we've made:
 
-We've been baking in [our grill](https://reverdecer.annalisagross.com/2018/08/08/our-grill/) and it doesn't really work. Takes forever even if we use the smallest containers we have. When we don't have room to fit containers inside (they can't get too close to the flame) I've put some on top, and once, when moving a pyrex bowl to the side, it shattered. Must've been too cold on the grill's sidetable (can't imagine how that can be cold, but clearly it was). We've lost more dishes to the concrete floor, but thanks to Capula we have enough.
+We've been baking in [our grill](https://reverdecer.annalisagross.com/2018/08/08/our-grill/) and it doesn't really work. Takes forever even if we use the smallest containers we have. When we don't have room to fit containers inside (they can't get too close to the flame) I've put some on top, and once, when moving a pyrex bowl to the side, it shattered. Must've been too cold on the grill's side table (can't imagine how that can be cold, but clearly it was). We've lost more dishes to the concrete floor, but thanks to Capula we have enough.
 
 First time we went to Costco we ended up with a box of sugar packets, rather than a box of sugar. We could blame it on not reading the Spanish carefully, but truly, I made the same mistake in the US years ago!
 
@@ -26,9 +26,12 @@ Well...we did have one tub of books and gear under there - stuff we were keeping
 
 Not only did everything get soaked, it sat in water getting stinky like a swamp. We lay each item out, rinsed and rinsed, sunned and sunned, and salvaged most of the gear a handful of books.
 
+But sunning the books put them in rain's way, so we spread them throughout the [kitchen](https://reverdecer.annalisagross.com/2018/06/30/rustico/) where we constantly tripped over these reminders of our idiocy.
+
+After weeks of hoping the problems would resolve themselves, the pages would unstick, the smell would dissipate, I got too grouchy about the mess and we found the handful of books that can still be read, and I'm mulching trees with the rest.
 
 
-We're glad to have a roof over the outhouse since it rains so much these days. Somehow our toilet paper got soaked anyway (maybe from the ground up?) and we used one roll (sustainability and all) but it was yellowish with gray flecks of mildew, and I tossed the 2nd wet roll out. We can afford some new tp.
+We're glad to have a roof over the outhouse since it rains so much these days. Somehow our toilet paper got soaked anyway (maybe from the ground up?) and we used one roll (sustainability and all) but it was yellowish with gray flecks of mildew, and I tossed the 2nd wet roll out. We can afford some new tp. Now we have a Costco pack with individually-plastic-wrapped rolls, which is truly wasteful...and handy en El Terreno.
 
 [![](/images/tp_ruin2_.jpg){:width="60%"}](/images/tp_ruin2.jpg)
 

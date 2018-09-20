@@ -47,3 +47,5 @@ My new method involves flame.
 The skin is safe to peel by hand now, but the flavor doesn't improve with fire. We tried making cocktails with the fruit, but the huge seeds are distracting. (I need dental work and Phillip has to be careful about intestinal blockage; we're practicing for later years!)
 
 The pads are the best part, sauteed or steamed. I'll try burning those thorns next!
+
+[![](/images/prickly_pear_cosmo_.jpg){:width="60%"}](/images/prickly_pear_cosmo.jpg)

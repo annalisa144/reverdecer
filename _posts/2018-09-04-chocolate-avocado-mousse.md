@@ -34,3 +34,5 @@ We experimented with freezing one jar, and its flavor was less-avocado than what
 [![](/images/avocado_mousse_thaw_.jpg){:width="60%"}](/images/avocado_mousse_thaw.jpg)
 
 As you can see, after thawing a little moisture separated, but we stirred it in and it was fabulous.
+
+Couple things we've tried: cacao nibs and leaving in an avocado pit (packed with nutrients) and found the texture of either distracting.

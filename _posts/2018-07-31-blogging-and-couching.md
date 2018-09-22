@@ -22,3 +22,5 @@ Phillip's fixing some code and the dogs are keeping the blankets warm.
 
 Phillip adapted our bed to become a couch when we want to read, use a laptop, knit. We get to sit side-by-side in the rain now, rather than hiding in our camp chairs. We tend not to eat on the couch, since there are too many bugs and pets all over us.
 ![](/images/platewalking.gif)
+
+Soon we'll have better photos to share on our blog. I contemplated buying a [camera](https://www.amazon.com/gp/product/B01DOKHSH0/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01DOKHSH0&linkId=bd412156fe3d820dbfccf439253cebff0), since my phone's camera is frustrating. But for a fraction of the cost, we're going to try new [lenses for my phone's camera](https://www.amazon.com/gp/product/B0179JX8GC/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0179JX8GC&linkId=98aa393dc6948fa7138190aa642753d9) - anyone tried this kind of product?

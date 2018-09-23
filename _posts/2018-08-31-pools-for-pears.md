@@ -25,7 +25,7 @@ Janet offered to pay but we had no idea what price might seem offensive, and whi
 
 | [![](/images/paradise_.jpg)](/images/paradise.jpg)  |  [![](/images/janet_terreno_.jpg)](/images/janet_terreno.jpg) |
 
-We brought home as much fruit as we could carry on our bikes: limon real, pera and a couple early manzanillas. We'll go back for more apples later. We're sharing this bounty with neighbors, Stan and Edith, and the chickens enjoy the trimmings.
+We brought home as much fruit as we could carry on our bikes: [limón real](http://www.sabelotodo.org/agricultura/frutales/limonfrances.html), pera and a couple early manzanillas. We'll go back for more apples later. We're sharing this bounty with neighbors, Stan and Edith, and the chickens enjoy the trimmings.
 
 [![](/images/pears_for_all_.jpg)
 

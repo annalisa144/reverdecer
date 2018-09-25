@@ -2,7 +2,7 @@
 title: End in sight
 date: '2018-09-25 06:00:00'
 image: building_sidewalk.jpg
-tags: rainy season stormy weather rain puddle mud lodo agua camping
+tags: rainy season stormy weather rain puddle mud lodo agua camping wildflowers
 categories: water vandwelling
 layout: post
 ---
@@ -37,3 +37,14 @@ Apparently [La Presa de Cointzio](https://reverdecer.annalisagross.com/2018/08/3
 [![](/images/presa_cointzio_sep3_.jpg){:width="60%"}](/images/presa_cointzio_sep3.jpg)
 
 September may be my favorite month in Morelia. Well, I bet October will be even better. The landscapes are still green and lush, but less mud and fewer storms. It's usually chilly, but most days we get a few hot hours when the sun is out. And [the flowers!](https://reverdecer.annalisagross.com/2018/09/21/cosmos/)
+
+The end of misty mornings is upon us, so here are photos from Monday:
+
+[![](/images/misty_morning9_.jpg)](/images/misty_morning9.jpg)
+
+[![](/images/misty_morning8_.jpg)](/images/misty_morning8.jpg)
+
+
+[![](/images/misty_morning2_.jpg){:width="60%"}](/images/misty_morning2.jpg)
+
+[![](/images/misty_morning7_.jpg){:width="60%"}](/images/misty_morning7.jpg)

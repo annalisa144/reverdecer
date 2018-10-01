@@ -1,6 +1,6 @@
 ---
 title: Off-grid Solar Electricity Overview
-date: '2018-10-01 01:00:00'
+date: '2018-10-02 01:00:00'
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Whose larva?
-date: '2018-10-10 06:00:00'
+date: '2018-10-08 06:00:00'
 image: escamoles_.jpg
 tags: ant larva hormiga
 categories: food morelia

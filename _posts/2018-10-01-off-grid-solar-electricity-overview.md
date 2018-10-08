@@ -8,7 +8,7 @@ layout: post
 # Off-grid Solar Types
 * Direct Thermal - There are many types of off-grid thermal systems. Some heat air.  [Some heat water.](https://reverdecer.annalisagross.com/2018/06/22/the-evolution-of-showering/)  [Some heat food.](https://reverdecer.annalisagross.com/2018/10/02/solar-dehydrator-2nd-attempt/) We have some of these and want to experiment with more.
 * Daylight Drive - This is a name given by [Living Energy Farm](http://www.livingenergyfarm.org/) for systems that run DC motors directly from photovoltaic power without the need for batteries.
-* Photovoltaic with Battery - This is the type of system discribed in this post.  The photovoltaic panels charge the batteries while the sun shines, and then the batteries provide electricty day and night.
+* Photovoltaic with Battery - This is the type of system discribed in this post and [how we get by en El Terreno](https://reverdecer.annalisagross.com/2018/07/20/electricity/).  The photovoltaic panels charge the batteries while the sun shines, and then the batteries provide electricty day and night.
 
 # Main components
 [![](/images/solar-panels_.jpg)](/images/solar-panels.jpg)

@@ -26,7 +26,7 @@ We use solar power to [grind coffee beans, heat water](https://reverdecer.annali
 [![](/images/guac_.jpg){:width="40%"}](/images/guac.jpg)
 
 
-We have internet now that mostly works (Phillip will have to explain all that) and the router and antenna are easy to solar power even on a cloudy day.
+[We have internet now](https://reverdecer.annalisagross.com/2018/09/01/how-to-get-wifi-from-over-1-kilometer-away/) and the router and antenna are easy to solar power even on a cloudy day.
 
 [![](/images/solarpanels_.jpg){:width="40%"}](/images/solarpanels.jpg)
 
@@ -39,3 +39,5 @@ The only things I miss are our food processor and instant pot. Eventually we'll 
 We might end up with electricity through the power lines - they're already there (see photo above) and our uncle has to pay a rural electric fee each month just cause the lines are there.
 
 But an official electrician will need to come out and install it onto this property according to specific specifications, and we're not interested in taking that on. We'd rather keep learning how to live off-grid. Especially now that the freezer is out of the van.
+
+[Check out Phillip's technical overview of solar systems.](https://reverdecer.annalisagross.com/2018/10/05/off-grid-solar-electricity-overview/)

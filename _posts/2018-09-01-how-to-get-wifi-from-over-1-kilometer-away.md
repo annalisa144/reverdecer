@@ -27,3 +27,5 @@ The administration webpage of the LiteBeam has an Antenna Alignment Tool.  Rotat
 At this point I had to plug my laptop into the LiteBream with a ethernet cable. To be able to connect all our laptops and smartphones wirelessly I installed a [TP-Link access point](https://www.amazon.com/gp/product/B00E98O7GC/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00E98O7GC&linkId=c3d50ade10305afa91ebfd40ed49928a).
 
 We've been completely satisfied with our internet speed and reliability using this system.
+
+How do we have offgrid electricity? [Technical overview](https://reverdecer.annalisagross.com/2018/10/05/off-grid-solar-electricity-overview/) and [basic overview](https://reverdecer.annalisagross.com/2018/07/20/electricity/).

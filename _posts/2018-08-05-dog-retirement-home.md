@@ -19,8 +19,8 @@ I was bemoaning this to some friends and telling them that part of the reason we
 
 [![](/images/wind_.jpg){:width="60%"}](/images/.jpg)
 
-We may not have achieved some [permaculture perfection](https://reverdecer.annalisagross.com/2018/08/04/great-expectations/), but (as my friends pointed out) we have an excellent dog retirement home.
+We may not have achieved some [permaculture perfection](https://reverdecer.annalisagross.com/2018/08/04/great-expectations/), but (as my friends pointed out) we have an excellent, [busy](https://reverdecer.annalisagross.com/2018/08/18/how-to-get-dogs-to-take-medicine/) dog retirement home.
 
-Hannah is the youngster, age 10. One stroke but she recovered and she's tough.
-Booker, age 13 - any day will be his last with mitral valve regurgitation and other health problems.
-Max, age 14 - happier here than PA but still a cranky old man with gastritis, neuropathy, mostly blind, etc.
+[Hannah](https://reverdecer.annalisagross.com/2018/09/07/hannah/) is the youngster, age 10. One stroke but she recovered and she's tough.
+[Booker](https://reverdecer.annalisagross.com/2018/09/06/booker/), age 13 - any day will be his last with mitral valve regurgitation and other health problems.
+[Max](https://reverdecer.annalisagross.com/2018/09/05/max/), age 14 - happier here than PA but still a cranky old man with gastritis, neuropathy, mostly blind, etc.

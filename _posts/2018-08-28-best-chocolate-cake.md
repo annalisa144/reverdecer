@@ -1,30 +1,33 @@
 ---
 title: Best chocolate cake
 date: '2018-12-01 06:00:00'
+image: avocado_brownies_.jpg
+tags: camping dessert bake baking sweet fix adult cake alcohol treat
 categories: food
 layout: post
 ---
 
-Cake:
+**Cake**
 
-1 cup flour
-1/2 t baking soda
-1/2 t salt
-1/2+ c stout beer
-1/4+ c milk
-1/2+ cocoa powder
-3/4 c sugar
-3/4 coconut, olive or vegetable oil
-1 egg
-1 t vanilla
+* 1 cup flour
+* 1/2 t baking soda
+* 1/2 t salt
+* 1/2+ c stout beer
+* 1/4+ c milk
+* 1/2+ cocoa powder
+* 3/4 c sugar
+* 3/4 coconut, olive or vegetable oil
+* 1 egg
+* 1 t vanilla
 
-Frosting:
-1 stick butter
-1/2 c sugar
-Pinch salt
-2 t vanilla
-2 T Irish whiskey
-Milk, if needed for consistency
+**Frosting**
+
+* 1 stick butter
+* 1/2 c sugar
+* Pinch salt
+* 2 t vanilla
+* 2 T Irish whiskey
+* Milk, if needed for consistency
 
 Preheat oven to 350 and prepare 12 cup muffin pan or 9" cake pan
 
@@ -39,10 +42,11 @@ Cool in pan 5 minutes, then cool on rack.
 Beat butter, sugar and salt by hand or with mixer until combined. Add vanilla and beat until creamy. Add milk if needed and then whiskey. This is a generous amount of frosting.
 
 This is already an adult cake, though you can skip the whiskey for family-friendly dessert. But we like making it a mature cake by adding to the batter: 
-1 t cinnamon
-1/2 t cardamom
-1/2 t ginger
-1/8 t cloves
-1/8 t nutmeg
+* 1 t cinnamon
+* 1/2 t cardamom
+* 1/2 t ginger
+* 1/8 t cloves
+* 1/8 t nutmeg
+*all ground, of course*
 
 With these sweet spices you can reduce the sweetener, too!

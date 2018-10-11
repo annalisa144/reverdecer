@@ -15,7 +15,7 @@ In the US you can spend $10 for a bottle of aloe gel and we have an enormous pat
 
 Then I read that the anthraquinones can be harmful if you consume them too often. Some websites say to make sure you scrape away all the yellow gel and only use the clear. Others say don't eat it more than a couple days in a row. So now I hardly ever drink it, actually - there's enough else to do around here.
 
-Stan & Edith's aloe cat. (Did you catch the pun? I'm afraid it doesn't work as well in print.)
+Stan & Edith's aloe cat. (Say it out loud so you don't miss the pun.)
 
 [![](/images/aloe_cat_.jpg){:width="60%"}](/images/aloe_cat.jpg)
 
@@ -26,13 +26,27 @@ Winter is the best time to harvest agave nectar, I've read, so we're going to tr
 
 Agave has countless uses, not only edible. After we tap the nectar maybe we'll try harvesting the fibers for...[elevator cables](http://www.caledonian-cables.co.uk/products/elevator-cable/lift-sisal-cord-core.shtml)? (Sisal is agave fiber.) But we don't have an elevator.
 
-# Nopal
-I've finally made peace with my own tastes - the [prickly pears](https://reverdecer.annalisagross.com/2018/09/11/prickly-pears/) aren't worth harvesting (and de-prickling) to me. They have such little flavor. But I do love the pads, called *tunas* or *nopalitos*
+[![](/images/agave_harvest_.jpg){:width="60%"}](/images/agave_harvest.jpg)
 
+
+# Nopal
+I've finally made peace with my own tastes - the prickly pears or *tunas* aren't worth harvesting (and de-prickling) to me, but [check out how I've tried!]((https://reverdecer.annalisagross.com/2018/09/11/prickly-pears/)). They have such little flavor.
+
+[![](/images/cacti_.jpg){:width="60%"}](/images/cacti.jpg)
+
+But I do love the pads, called *nopalitos.*
 
 [![](/images/cactus_start_.jpg){:width="60%"}](/images/cactus_start.jpg)
 
 # Purslane
-Nothing could be easier to harvest than purslane, which we've been putting in salad, soup and stirfry for months.  And we'll be able to keep using it for months, I expect, because it's cold and dry hardy. I plan to gather enough flowers to try dyeing with it, too.
+Nothing could be easier to harvest than purslane, which we've been putting in salad, soup and stirfry for months. 
+
+[![](/images/purslane_.jpg){:width="60%"}](/images/purslane.jpg)
+
+And we'll be able to keep using it for months, I expect, because it's cold and dry hardy. I plan to gather enough flowers to try dyeing with it, too.
 
 Oh, and I've been pickling the stems.
+
+[![](/images/purslane_salad_.jpg){:width="60%"}](/images/purslane_salad.jpg)
+
+Today my salad had both fresh and pickled purslane. Yum! Booker likes it too.

@@ -1,6 +1,6 @@
 ---
 title: Terminal bloom
-date: '2018-10-20 06:00:00'
+date: '2018-10-25 06:00:00'
 image: agave_big_.jpg
 tags: desert succulent harvest edible wild weed
 categories: plants neighborhood

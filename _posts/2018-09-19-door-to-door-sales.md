@@ -1,6 +1,7 @@
 ---
 title: Door-to-door sales
-date: '2018-10-29 06:00:00'
+date: '2018-12-29 06:00:00'
+image: cleaning_truck_.jpg
 categories: neighborhood morelia
 layout: post
 ---

@@ -7,7 +7,7 @@ categories: water vandwelling
 layout: post
 ---
 
-Phlilip made this simple pazzive solar water heater. He dug and leveled a 3" deep pit, lined it with plastic and styrofoam, and now we can scoop out warm (or even hot) water most afternoons.
+Phillip made this simple passive solar water heater. He dug and leveled a 3" deep pit, lined it with plastic and styrofoam, and now we can scoop out warm (or even hot) water most afternoons.
 
 But most days we don't bother, since it's inconvenient - takes a tiny bit more work and perhaps one more minute than getting water out of the rain tank. Should a minute and some scoops matter? Probably not.
 

@@ -21,6 +21,6 @@ Our excellent vet did a great job, even getting all (but the last) of Fly's stit
 
 Of course they didn't want to take their medicine - as any pet person knows, cats are so much [harder than dogs.](https://reverdecer.annalisagross.com/2018/08/18/how-to-get-dogs-to-take-medicine/) We broke down and bought fancy feast and canned tuna, and that seems to be working (though they don't eat just because we feed them, so it's hard to tell who is getting how much).
 
-[![](/images/fly_light_.jpg){:width="60%"}](/images/fly_light.jpg)
+[![](/images/fly_meds_.jpg){:width="60%"}](/images/fly_meds.jpg)
 
 We hope and pray they will be in El Terreno when we return!

@@ -9,7 +9,7 @@ layout: post
 
 Baking in [our grill](https://reverdecer.annalisagross.com/2018/08/08/our-grill/) is disappointing. But we love dessert so we keep trying.
 
-We've made cakes, [brownies,](http://reverdecer.annalisagross.com/2018/10/21/avocado-turtle-brownies/) [crisps](https://reverdecer.annalisagross.com/2018/08/27/how-to-make-apple-crisp-in-a-grill/) and more. 
+We've made cakes, [brownies,](http://reverdecer.annalisagross.com/2018/10/27/avocado-turtle-brownies/) [crisps](https://reverdecer.annalisagross.com/2018/08/27/how-to-make-apple-crisp-in-a-grill/) and more. 
 
 Baking isn't that different from roasting, which people often do in grills. But those are big grills and big cuts of meat. We have a trim and portable grill, which means baking is nearly impossible. Baking requires indirect heat, and our grill is so tight that it's hard to space without direct heat.
 

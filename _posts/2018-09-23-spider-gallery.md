@@ -1,6 +1,6 @@
 ---
 title: Spider gallery
-date: '2018-10-23 06:00:00'
+date: '2018-11-05 06:00:00'
 image: spider_seedlings_.jpg
 tags: vanlife vanlifemexico mexico michoacan spiders arachnids arana orbweavers
 categories: pests vandwelling

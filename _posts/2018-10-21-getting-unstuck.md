@@ -2,7 +2,7 @@
 title: Getting unstuck
 date: '2018-10-21 06:00:00'
 image: mud_mess_.jpg
-tags: mobile home rv vanlife tow strap mud stuck
+tags: mobile home rv vanlife tow strap mud stuck gato jack
 categories: vandwelling spanish
 layout: post
 ---

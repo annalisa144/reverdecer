@@ -28,3 +28,5 @@ Of course they came over to see the fun  (by flashlight, it's dark by now) and t
 Even that took forever, especially because the truck's back tires were in the mud left behind from the solar water heater, so that 4-wheel drive wasn't happening. But when the truck was in better position and the hefty strap back on, the van came out! We left it as close to the gate as possible and didn't bother to level it for bedtime.
 
 [![](/images/mud_mess2_.jpg){:width="60%"}](/images/mud_mess2.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OQGzADKOI50" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

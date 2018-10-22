@@ -23,10 +23,20 @@ The more he tried, the lower the back tires sank. So he went to town (in the tru
 
 We asked the neighbors for a car jack or *gato*. This is a great Spanish word! Cat, pound/hashtag, tic-tac-toe and carjack. Also a way to call a person worthless. 
 
-Of course they came over to see the fun  (by flashlight, it's dark by now) and to help. Phillip put a wooden plank under the jack, but still the whole thing just sank into the mud as he cranked. Time to engage the truck's 4-wheel drive.
+Of course they came over to see the fun  (by flashlight, it's dark at this point) and to help. Phillip put a wooden plank under the jack, but still the whole thing just sank into the mud as he cranked. Time to engage the truck's 4-wheel drive.
 
-Even that took forever, especially because the truck's back tires were in the mud left behind from the solar water heater, so that 4-wheel drive wasn't happening. But when the truck was in better position and the hefty strap back on, the van came out! We left it as close to the gate as possible and didn't bother to level it for bedtime.
+Even that took forever, especially because the truck's back tires were in the mud left behind from the solar water heater, so that 4-wheel drive wasn't happening.
+
+[![](/images/mud_mess4_.jpg){:width="60%"}](/images/mud_mess4.jpg)
+
+When the truck was in better position and the hefty strap back on, the van came out! We left it as close to the gate as possible and didn't bother to level it for bedtime.
 
 [![](/images/mud_mess2_.jpg){:width="60%"}](/images/mud_mess2.jpg)
 
+My priorities were off: I didn't get video of the actual emergence. So Hannah fills in for the dramatic moment:
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OQGzADKOI50" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+What a mess.
+
+[![](/images/mud_mess3_.jpg){:width="60%"}](/images/mud_mess3.jpg)

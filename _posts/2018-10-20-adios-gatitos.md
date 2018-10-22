@@ -25,4 +25,4 @@ Of course they didn't want to take their medicine - as any pet person knows, cat
 
 We hope and pray they will be in El Terreno when we return!
 
-video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fTyacJZwK6Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

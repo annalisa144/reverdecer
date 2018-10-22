@@ -9,11 +9,13 @@ layout: post
 
 Our longest driving day (hopefully) was Saturday, leaving Morelia. We stopped for bathroom and gas only. This unofficial rest stop was far enough from the highway that the dogs could roam a little, and we joined other humans (we saw evidence) in using the building ruins as a bathroom.
 
-video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S2Yh3NB9PCU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Sadly, fire ants like this spot, too. We've all been bitten in El Terreno and it sucks. I think about how much it hurts me; the pain and irritation can last 24 hours - so think about how much pain and poison that is for our little dogs!
 
-video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tNOm6VYYBMg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Over breakfast Saturday morning, before we began our trip to the US, I told Stan & Edith we'd probably come back with two dogs. Booker and Max have dabbled in end-of-life since we adopted them in June 2017! Our Morelia vet has given them more time and quality of life.
 

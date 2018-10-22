@@ -21,11 +21,11 @@ Over breakfast Saturday morning, before we began our trip to the US, I told Stan
 
 [![](/images/last_stop_.jpg){:width="60%"}](/images/last_stop.jpg)
 
-A few minutes after we got back in the van Booker had an episode - cardiac arrest, we believe - going stiff, then limp, losing control of all body functions and muscles. We resucitated him by rubbing his chest vigorously. He was breathing again. We got back on the road, but a few minutes later he stopped breathing again.
+A few minutes after we got back in the van Booker had an episode - cardiac arrest, we believe - going stiff, then limp, losing control of all body functions and muscles. We resucitated him by rubbing his chest vigorously. He was breathing again. We got back on the road, but a few minutes later he stopped breathing again. His tongue and gums were purple, then a sickening gray. No oxygen.
 
 We frantically tried to contact our vet to ask for advice, especially about whether or not to give him the two meds we have for scorpion stings. Our signal wasn't great, so my sister helped us look up info on the meds (one steroid, one antihistamine) and we gave him 1/2 doses of each, along with lasix (one of his three heart disease meds).
 
-We rubbed and rubbed and it seemed like he was breathing again, but soon he stopped, for good.  We couldn't do anything else, though if there had been a defibrilator nearby I would have tried.
+We rubbed and rubbed and it seemed like he was breathing again, but soon he stopped, for good.  We couldn't do anything else, though if there had been a defibrilator nearby I would have tried. I think the signs of life/hope I'd seen (gasping, for example) were part of dying, not his body trying to live. But we'll never know.
 
 He'd spent the day sleeping on Phillip, then me, then Phillip, then me.
 

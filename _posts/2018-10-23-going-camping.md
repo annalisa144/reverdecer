@@ -11,7 +11,7 @@ Why go camping if you live in a van?
 
 I've wanted to pitch a tent [up on the hillsides](https://reverdecer.annalisagross.com/2018/08/24/higher-ground/), and we may do it one of these days.
 
-The van needed TLC before our big trip north. [Getting it off El Terreno was a feat](https://reverdecer.annalisagross.com/2018/10/21/getting-unstuck/) but finally Phillip got it to a mechanic: replace the fuel pump, change the oil. He went back that night and eventually the van was ready. Ten minutes later, it died. In traffic, on a bridge, in the dark.
+The van needed TLC before our big trip north. [Getting it off El Terreno was a feat](https://reverdecer.annalisagross.com/2018/10/21/getting-unstuck/) but finally Phillip got it to a mechanic: replace the fuel pump, change the oil. He went back that night and 90 minutes later the van was ready. Ten minutes later, it died. In traffic, on a bridge, in the dark.
 
 [![](/images/sunset4_.jpg)](/images/sunset4.jpg)
 
@@ -33,4 +33,4 @@ It was a drag to be vanless the whole next day, since we hadn't pulled out every
 
 The next night, back in the van, I got countless big bites, especially at my ankles. So I think the van picked up fleas at the mechanic.
 
-Update: we left San Antonio yesterday morning. We expected something would go wrong, since [our last trip to San Antonio was intense in all van-related matters.](http://www.annalisagross.com/home/no-va) No disappointment. Couldn't get the van started for awhile. Phillip replaced the fuel filter - again - and all seems well.
+But the van isn't getting us to Indiana without problems. [Read all about that.](http://reverdecer.annalisagross.com/2018/10/23/getting-stuck-again/)

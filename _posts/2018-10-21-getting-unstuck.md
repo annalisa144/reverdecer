@@ -40,3 +40,5 @@ My priorities were off: I didn't get video of the actual emergence. So Hannah fi
 What a mess.
 
 [![](/images/mud_mess3_.jpg){:width="60%"}](/images/mud_mess3.jpg)
+
+Update: we're semi-stuck in Little Rock now, but not mud [(van still isn't really fixed).](http://reverdecer.annalisagross.com/2018/10/23/going-camping/)

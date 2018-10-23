@@ -11,7 +11,7 @@ Baking in [our grill](https://reverdecer.annalisagross.com/2018/08/08/our-grill/
 
 We've made cakes, [brownies,](http://reverdecer.annalisagross.com/2018/10/27/avocado-turtle-brownies/) [crisps](https://reverdecer.annalisagross.com/2018/08/27/how-to-make-apple-crisp-in-a-grill/) and more. 
 
-Baking isn't that different from roasting, which people often do in grills. But those are big grills and big cuts of meat. We have a trim and portable grill, which means baking is nearly impossible. Baking requires indirect heat, and our grill is so tight that it's hard to space without direct heat.
+Baking isn't that different from roasting, which people often do in grills. But those are big grills and big cuts of meat. We have a trim and portable grill, which means baking is nearly impossible. Baking requires indirect heat, and our grill is so tight that it's hard to find space without direct heat.
 
 [Pizza](https://reverdecer.annalisagross.com/2018/09/10/pizza-on-the-grill/) works fabulously, but that's grilling, not baking.
 
@@ -27,7 +27,7 @@ We quickly run out of space since we can't use the lit side, so we can use the l
 
 [![](/images/avocado_brownies2_.jpg){:width="60%"}](/images/avocado_brownies2.jpg)
 
-I've experimented with a water bath and I think it helps even out the heat (since it's strongly one-sided) but we fill up even faster this way.
+I've experimented with a water bath because it might even out the heat (since the heat is strongly one-sided) but the grill fills up even faster this way.
 
 [![](/images/pear_cake2_.jpg){:width="60%"}](/images/pear_cake2.jpg)
 

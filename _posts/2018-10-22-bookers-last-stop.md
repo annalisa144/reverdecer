@@ -23,7 +23,7 @@ Over breakfast Saturday morning, before we began our trip to the US, I told Stan
 
 A few minutes after we got back in the van Booker had an episode - cardiac arrest, we believe - going stiff, then limp, losing control of all body functions and muscles. We resucitated him by rubbing his chest vigorously. He was breathing again. We got back on the road, but a few minutes later he stopped breathing again. His tongue and gums were purple, then a sickening gray. No oxygen.
 
-We frantically tried to contact our vet to ask for advice, especially about whether or not to give him the two meds we have for scorpion stings. Our signal wasn't great, so my sister helped us look up info on the meds (one steroid, one antihistamine) and we gave him 1/2 doses of each, along with lasix (one of his three heart disease meds).
+We frantically tried to contact our vet to ask for advice, especially about whether or not to give him the two meds we have for scorpion stings. Our signal wasn't great, so my sister helped us look up info on the meds (one steroid, one antihistamine) and we gave him 1/2 doses of each, along with lasix (one of his three heart disease meds). (Ten minutes later, vet did give us the go-ahead, and then condolences. [He's been a wonderful vet.](http://reverdecer.annalisagross.com/2018/08/21/what-40-gets-you-at-the-vet-in-mexico/))
 
 We rubbed and rubbed and it seemed like he was breathing again, but soon he stopped, for good.  We couldn't do anything else, though if there had been a defibrilator nearby I would have tried. I think the signs of life/hope I'd seen (gasping, for example) were part of dying, not his body trying to live. But we'll never know.
 
@@ -33,7 +33,7 @@ He'd spent the day sleeping on Phillip, then me, then Phillip, then me.
 
 I mean, that's how he spends most days, but really he had been extra lethargic lately, and on his last day we could barely get him to eat to take his medicine. He was done. But we wish the ending hadn't been prompted by an ant bite! I had hoped he would die in his sleep, with no pain or fear.
 
-[Booker](https://reverdecer.annalisagross.com/2018/09/06/booker/)'s death means the world has measurably less joy in it. He was pure delight and sweetness. Our laps will be chilly for a long time, because they bear his delicate, light imprint. Our bed will be a little more empty, a little less pee'd on, and while it won't ever be sour, it won't be as sweet.
+[Booker's](https://reverdecer.annalisagross.com/2018/09/06/booker/) death means the world has measurably less joy in it. He was pure delight and sweetness. Our laps will be chilly for a long time, because they bear his delicate, light imprint. Our bed will be a little more empty, a little less pee'd on, and while it won't ever be sour, it won't be as sweet.
 
 We were two hours from the next real town (Saltillo) where we planned to spend the night and ten hours from home/Morelia. What to do with Booker's body? Could we take it to TX and bury it in my cousin's yard? But what if the border agents discovered a dead dog in our van?
 

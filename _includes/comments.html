@@ -41,24 +41,9 @@
 {% endif %}
 
 <!-- Comment form -->
-<p>
-    <script type="text/javascript">
-        function beforeSubmit() {
-            const date = new Date();
-            var body = document.getElementById("body");
-            body.value = 'Send this email to post a comment to revedecer.annalisagross.com. Only the information below will be posted.  Your email address will not be shared.\n'
-                       + '-----------------------------\n'
-                       + 'name: ' + thename.value + '\n'
-                       + 'url: ' + theurl.value + '\n'
-                       + 'message: ' + message.value + '\n'
-                       + 'date: ' + Math.floor(date.getTime() / 1000) + '\n'
-                       + '-----------------------------\n';
-    }
-    </script>
   <h3>Post a comment:</h3>
-  <form action="mailto:z9ff2pvkydjv@opayq.com" enctype="text/plain" onsubmit="beforeSubmit()">
-    <input name="Subject" id="Subject" type="hidden" value="Comment on: {{page.title}}" /><br/>
-    <input name="body" id="body" type="hidden" value="" /><br />
+  <form action="mailto:z9ff2pvkydjv@opayq.com" enctype="text/plain">
+    <input name="Subject" id="Subject" type="hidden" value="Comment on: {{page.title}}" /><br>
     <div>
       <legend>Name</legend>
       <input name="thename" id="thename" type="text" value="">
@@ -69,7 +54,7 @@
     </div>
     <div>
       <legend>Message (<a href="https://kramdown.gettalong.org/syntax.html">Markdown</a> allowed)</legend>
-      <textarea style="width:100%" name="message" id="message" rows="12"></textarea>
+      <textarea style="width:100%" name="body" id="body" rows="12"></textarea>
     </div>
     <input name="Submit" id="submit" type="submit" value="Submit comment via email" /><br/>
   </form>

@@ -7,9 +7,9 @@ categories: dogs spanish
 layout: post
 ---
 
-The Day of the Dead, like virtually all holidays, is an excuse to eat extra sugar and buy extra stuff. We saw plenty of tasty-looking *pan de muertos* and sugar skull paper plates before we left Mexico. It looked good! I don't mean to be entitely cynical; we are disappointed to miss the art.
+The Day of the Dead, like virtually all holidays, is an excuse to eat extra sugar and buy extra stuff. We saw plenty of tasty-looking *pan de muertos* and sugar skull paper plates before we left Mexico. It looked good! I don't mean to be entitely cynical about holidays, and we are disappointed to miss the art.
 
-Since Booker died as we left Mexico we spend this Day of the Dead celebrating his life and praying for his everlasting peace.  Any dead loved ones can be remembered, celebrated, and encouraged in their eternal life at *Dia de Muertos*, but especially those who died in the past year.
+Since [Booker died](https://reverdecer.annalisagross.com/2018/10/22/bookers-last-stop/) as we left Mexico we spend this Day of the Dead celebrating his life and praying for his everlasting peace.  Any dead loved ones can be remembered, celebrated, and encouraged in their eternal life at *Dia de Muertos*, but especially those who died in the past year.
 
 [![](/images/iggy_face_.jpg){:width="60%"}](/images/iggy_face.jpg)
 

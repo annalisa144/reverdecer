@@ -13,7 +13,7 @@ Since [Booker died](https://reverdecer.annalisagross.com/2018/10/22/bookers-last
 
 [![](/images/iggy_face_.jpg){:width="60%"}](/images/iggy_face.jpg)
 
-We won't go as far as building him an *ofrenda* or altar, though.
+We won't go as far as building him an *ofrenda* (altar) though.
 
 Holidays change over time, e.g. *Dia de Muertos* used to be a month-long celebration around August before Spanish conquistadors showed up. Eventually the people moved it to coincide with similar Christian holidays.
 

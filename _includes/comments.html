@@ -41,15 +41,79 @@
 {% endif %}
 
 <!-- Comment form -->
+<p>
+    <script type="text/javascript">
+
+
+        function beforeSubmit() {
+            //disable button while sending
+            var submitBtn = document.getElementById("submit");
+            submitBtn.disabled = true;
+            submitBtn.value = "Sending...";
+
+            const date = new Date();
+            const unixTime = Math.floor(date.getTime() / 1000);
+            var msgContent = '{{page.title}}\n'
+                       + 'name: ' + thename.value + '\n'
+                       + 'url: ' + theurl.value + '\n'
+                       + 'message: ' + message.value + '\n'
+                       + 'date: ' + unixTime;
+
+            // Create a client instance
+            client = new Paho.MQTT.Client("mqtt.flespi.io", Number(443),"client1234");
+ 
+            // set callback handlers
+            client.onConnectionLost = function (responseObject) {
+                console.log("Connection Lost: "+responseObject.errorMessage);
+            }
+ 
+            client.onMessageArrived = function (message) {
+              console.log("Message Arrived: "+message.payloadString);
+            }
+
+            client.onMessageDelivered = function (message) {
+              console.log("Disconnect");
+              client.disconnect();
+              window.location = "https://reverdecer.annalisagross.com/thanks.html";
+            }
+ 
+            // Called when the connection is made
+            function onConnect(){
+                console.log("Connected");
+                // Publish a Message
+                var message = new Paho.MQTT.Message(msgContent);
+                message.destinationName = "Comments/" + unixTime;
+                message.qos = 1;
+                message.retained = true;
+                client.send(message);
+            }
+ 
+            // Connect the client, providing an onConnect callback
+            client.connect({
+                onSuccess: onConnect,
+                useSSL: true,
+                userName: "cQI1JKQav1EPaxB1rRy4e08lyNacvB5xfBoO95NuUh9UEyJTd7LgYKrklpmGQf3V",
+                password: ""
+            });
+    }
+
+    </script>
   <h3>Post a comment:</h3>
-  <form action="mailto:z9ff2pvkydjv@opayq.com" enctype="text/plain" method="get" >
-    <input name="subject" id="subject" type="hidden" value="Comment on: {{page.title}}" />
+  <form>
+    <div>
+      <legend>Name</legend>
+      <input name="thename" id="thename" type="text" value="">
+    </div>
+    <div>
+      <legend>Website (optional)</legend>
+      <input name="theurl" id="theurl" type="url"  value="">
+    </div>
     <div>
       <legend>Message (<a href="https://kramdown.gettalong.org/syntax.html">Markdown</a> allowed)</legend>
-      <textarea style="width:100%" name="body" id="body" rows="12"></textarea>
+      <textarea style="width:100%" name="message" id="message" rows="12"></textarea>
     </div>
-    <input name="Submit" id="submit" type="submit" value="Submit comment via email" /><br/>
+    <input name="Submit" id="submit" class="c-btn" onclick="beforeSubmit();" value="Submit" /><br/>
   </form>
-  <p>Having touble submitting a comment? Email your comment to z9ff2pvkydjv [at] opayq [dot] com with the subject "{{page.title}}", and we'll publish it to the comments section.</p>
 </p>
+
 

@@ -7,6 +7,8 @@ categories: food vandwelling
 layout: post
 ---
 
+*Update* After our pour-over fell to the [rustic kitchen](https://reverdecer.annalisagross.com/2018/06/30/rustico/) floor, we've been making [cowgirl coffee.](https://www.permies.com/t/16387/eco-coffee-maker-cowgirl-coffee) Quicker, and just as good!
+
 You're camping, your power's out, you're living in a van in Mexico...you *should* get so much natural sleep that you don't need coffee, right? Ha - [between the animals inside](https://reverdecer.annalisagross.com/2018/07/14/i-sleep-with-six/) and storms outside, we're as tired as ever. We drink as much coffee as ever, too.
 
 Here's our method:
@@ -41,3 +43,5 @@ It's hard to pour slowly from the small pot we heat the water in, so sometimes w
 ![](/images/mugs.jpg)
 
 The coffee grounds make great soil, so we dump them on different garden beds each brew.
+
+Moka pots are a great option too - self-contained and no glass to break! They last nearly forever, and [parts are replaceable.](https://www.amazon.com/gp/product/B000KG8FT2/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000KG8FT2&linkId=0032b330b93cbde5dd81d50fd06d026b)

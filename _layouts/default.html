@@ -3,7 +3,6 @@
 {% include head.html %}
 
 <body>
-  {% include javascripts.html %}
   {% if site.google-analytics %}
     {% include analytics.html %}
   {% endif %}
@@ -11,5 +10,6 @@
     {{ content }}
   </div> <!-- /.o-wrapper -->
   <div class="c-top" data-icon='ei-chevron-up' data-size='s' title="Scroll To Top"></div> <!-- /.c-top -->
+  {% include javascripts.html %}
 </body>
 </html>

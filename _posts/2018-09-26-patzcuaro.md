@@ -1,6 +1,6 @@
 ---
 title: Patzcuaro
-date: '2018-11-26 06:00:00'
+date: '2018-11-15 06:00:00'
 image: patz_confetti_.jpg
 tags: independencia patzcuaro tourism mexico michoacan
 categories: food

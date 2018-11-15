@@ -1,6 +1,6 @@
 ---
 title: Best chocolate cake
-date: '2018-12-01 06:00:00'
+date: '2018-12-03 06:00:00'
 image: avocado_brownies_.jpg
 tags: camping dessert bake baking sweet fix adult cake alcohol treat
 categories: food

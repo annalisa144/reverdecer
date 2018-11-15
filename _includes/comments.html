@@ -53,10 +53,10 @@
 
             const date = new Date();
             const unixTime = Math.floor(date.getTime() / 1000);
-            var msgContent = '{{page.title}}\n'
+            var msgContent = '{{page.slug}}\n'
                        + 'name: ' + thename.value + '\n'
-                       + 'url: ' + theurl.value + '\n'
-                       + 'message: ' + message.value + '\n'
+                       + 'url: \'' + theurl.value + '\'\n'
+                       + 'message: \'' + message.value + '\'\n'
                        + 'date: ' + unixTime;
 
             // Create a client instance

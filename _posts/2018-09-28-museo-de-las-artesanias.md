@@ -1,6 +1,10 @@
 ---
 title: Museo de las Artesanias
 date: '2018-11-19 06:00:00'
+image: last_supper_.jpg
+tags: art museum gift shop shopping tourism artisan artistry crafts beauty creavity
+  traditional mexican mexico travel
+categories: morelia
 layout: post
 ---
 

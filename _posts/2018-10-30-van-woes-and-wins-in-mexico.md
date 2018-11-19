@@ -1,7 +1,7 @@
 ---
 title: Van woes and wins in Mexico
 date: '2018-10-31 06:00:00'
-image: vent_.jpg
+image: tow_truck.jpg
 tags: car trouble vehicle woes camping life vanlife
 categories: vandwelling
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Best chocolate cake
-date: '2018-12-03 06:00:00'
-image: avocado_brownies_.jpg
+date: '2018-12-13 06:00:00'
+image: avocado_brownies2_.jpg
 tags: camping dessert bake baking sweet fix adult cake alcohol treat
 categories: food
 layout: post
@@ -50,3 +50,4 @@ This is already an adult cake, though you can skip the whiskey for family-friend
 *all ground, of course*
 
 With these sweet spices you can reduce the sweetener, too!
+If you want more nuance, try [pear chocolate cake.](http://reverdecer.annalisagross.com/2018/11/27/pear-chocolate-cake/)

@@ -1,6 +1,6 @@
 ---
 title: Pear chocolate cake
-date: '2018-12-20 06:00:00'
+date: '2018-11-27 06:00:00'
 image: pear_cake2_.jpg
 tags: original innovative unique chocolate cake recipe pear ginger adult dessert sweet
   holiday christmas bake baking camping grill

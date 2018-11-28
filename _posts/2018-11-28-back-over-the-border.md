@@ -15,7 +15,7 @@ This river looks so innocuous. Tell me, did you even recognize it? How would you
 
 [![](/images/on_the_road_again_.jpg){:width="60%"}](/images/on_the_road_again.jpg)
 
-We spent a relaxed morning packing the van full of gifts/errands for friends and family (even our beloved vet, Alfredo) and Phillip drove us safely to the border. We knew we had enough Bell's (and other can't-find-in-Mexico-beer) that we might have to pay a fee, and we really hoped they wouldn't check our cooler and see the illegal comfrey and rhubarb roots we're smuggling in to plant in El Terreno. 
+We spent a relaxed morning packing the van full of gifts/errands for friends and family (even our wonderful vet, Alfredo) and Phillip drove us safely to the border. We knew we had enough Bell's (and other can't-find-in-Mexico-beer) that we might have to pay a fee, and we really hoped they wouldn't check our cooler and see the illegal comfrey and rhubarb roots we're smuggling in to plant in El Terreno. 
 
 The first problem was our vehicle import paperwork wasn't in order. Now, Phillip had carefully researched all this stuff before we left the first time, and he was confident we had done it all right. Well, depending on how you read the fine print, we had either done it right or wrong. So they let us sort of re-do something, which means we lost a deposit, but didn't have any other problems.
 
@@ -27,9 +27,11 @@ They asked Phillip to pull out the baseboard heaters we're bringing to the vet, 
 
 [![](/images/back_to_nap_.jpg){:width="60%"}](/images/back_to_nap.jpg)
 
-Relaxed, the dogs went back to sleep. They had felt our stress and didn't relieve themselves while we waited on the x-rays.
+Relaxed, the dogs went back to sleep. (They had felt our stress and didn't relieve themselves while we waited on the x-rays.)
 
-We happily drove away, glad we could deliver so much harmless booty (which we're not selling for any profit or anything, legitimate gifts and deliveries!). But then a half hour later we got pulled over by an intense cop in a pick-up. He was adament that we'd been speeding, but after we had just been complaining about how rough this section of highway was, we knew that wasn't true.
+We happily drove away, glad we could deliver so much harmless booty (we're not selling anything for profit; all legitimate gifts and deliveries). 
+
+Ten minutes later we got pulled over by an intense cop in a pick-up. He was adament that we'd been speeding, but after we had just been complaining about the rough highway, we knew that wasn't true.
 
 It sounded like he was telling Phillip to get out of the car to go see a video, but actually he wanted Phillip to go stand by the police truck so their conversation would *be* on video. (Our Spanish is even worse after a month in the US!)
 
@@ -42,3 +44,5 @@ We made it through the borderlands checkpoint smoothly [(unlike our first trip a
 Borders, airport security, getting pulled over--these security circumstances always stress me out, even though I never have weapons or illegal drugs. But these are circumstances defined by power which is enforced through violence and intimidation. And what we've found in Mexico is that while people are usually nice (or at least benign), we end up missing some small detail and losing money.
 
 Still, I know we have an easier time navigating security and borders than 99% of the world, with white skin and US passports. During this (most recent) peak of US-American anxiety and xenophobia about people crossing the border, I'm glad we can smile through our lousy Spanish and demonstrate that we are interested in Mexico, that we are glad to be with Mexicans, that we find life as valid, valuable and holy on this side of the border.
+
+[![](/images/bike_mexico_.jpg){:width="60%"}](/images/bike_mexico.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Using Solar Electricity
-date: '2018-12-02 06:00:00'
+date: '2018-12-03 06:00:00'
 layout: post
 ---
 

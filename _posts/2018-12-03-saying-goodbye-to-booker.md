@@ -2,8 +2,8 @@
 title: Saying goodbye to Booker
 date: '2018-12-04 06:00:00'
 image: booker_picnic_.jpg
-tags: dogs
-categories: vanlife pets funeral grief
+tags: vanlife pets funeral grief
+categories: dogs
 layout: post
 ---
 

@@ -2,7 +2,7 @@
 title: Best bed when you sleep in a van with pets
 date: '2018-11-13 06:00:00'
 image: bed_.jpg
-tags: vanlife vandwelling diy how to make your own bed for living in a van camper
+tags: vanlife vandwellers diy how to make your own bed for living in a van camper
   rv camping
 categories: vandwelling
 layout: post

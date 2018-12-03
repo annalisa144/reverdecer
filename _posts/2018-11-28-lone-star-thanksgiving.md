@@ -2,9 +2,9 @@
 title: Lone Star Thanksgiving
 date: '2018-11-27 06:00:00'
 image: river_lights_.jpg
-tags: vandwelling
-categories: city life holidays thanksgiving folk songs family rise up singing san
-  antonio texas
+tags: city life holidays thanksgiving folk songs family rise up singing san antonio
+  texas
+categories: vandwelling
 layout: post
 ---
 

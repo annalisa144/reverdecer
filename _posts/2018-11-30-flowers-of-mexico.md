@@ -2,6 +2,8 @@
 title: Flowers of Mexico
 date: '2018-11-30 06:00:00'
 image: mexican_star_.jpg
+tags: mexico michoacan flora flowers wildflowers natural
+categories: plants morelia neighborhood
 layout: post
 ---
 

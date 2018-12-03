@@ -2,8 +2,8 @@
 title: Back over the border
 date: '2018-11-28 06:00:00'
 image: bienvenidos_.jpg
-tags: vandwelling
-categories: vanlife mexico us border crossing rv dogs pets camping
+tags: vanlife mexico us border crossing rv dogs pets camping
+categories: vandwelling morelia
 layout: post
 ---
 

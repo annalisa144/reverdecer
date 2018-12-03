@@ -1,7 +1,9 @@
 ---
 title: More flowers of Mexico
-date: '2018-12-05 06:00:00'
+date: '2018-12-10 06:00:00'
 image: galphimia_.jpg
+tags: mexico michoacan flora flowers wildflowers natural
+categories: plants morelia neighborhood
 layout: post
 ---
 

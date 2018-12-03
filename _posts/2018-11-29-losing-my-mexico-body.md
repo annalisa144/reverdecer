@@ -2,8 +2,8 @@
 title: Losing my Mexico body
 date: '2018-11-29 06:00:00'
 image: hand_crack.jpg
-tags: vandwelling
-categories: vanlife mexico winter farm garden skin hydrate
+tags: vanlife mexico winter farm garden skin hydrate
+categories: vandwelling
 layout: post
 ---
 

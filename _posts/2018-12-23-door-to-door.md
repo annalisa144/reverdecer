@@ -9,3 +9,7 @@ Merry Christmas y Feliz Navidad!
 
 los_azufres2.jpg (3)
 fall_harvest.jpg
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4iMDrYWLoVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1qQlXs_o94Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

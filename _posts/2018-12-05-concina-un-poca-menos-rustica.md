@@ -1,6 +1,6 @@
 ---
 title: Concina un poca menos rustica
-date: '2018-12-05 06:00:00'
+date: '2018-12-03 06:00:00'
 image: kitchen_floor_.jpg
 tags: vanlife rv outdoor kitchen camping mexico michoacan
 categories: vandwelling

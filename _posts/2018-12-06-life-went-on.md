@@ -1,10 +1,10 @@
 ---
 title: Life went on
 date: '2018-12-07 06:00:00'
-image: spider_garden_.jpg
+image: predators/spider_garden_.jpg
 tags: garden pests plants spiders arachnids weeds vegetables winter dry season grasshoppers
   mexico permaculture michoacan
-categories: plants
+categories: plants pests
 layout: post
 ---
 
@@ -24,7 +24,7 @@ Along the swales the daikon radishes keep coming. We planted them as *tillage ra
 
 My favorite garden find may be this spider, whose body is over an inch long - it's gorgeous!
 
-| [![](/images/spider_garden2_.jpg)](/images/spider_garden2.jpg) | [![](/images/spider_garden3_.jpg)](/images/spider_garden3.jpg) |
+| [![](/images/predators/spider_garden2_.jpg)](/images/predators/spider_garden2.jpg) | [![](/images/predators/spider_garden3_.jpg)](/images/predators/spider_garden3.jpg) |
 
 
-| [![](/images/spider_garden4_.jpg)](/images/spider_garden4.jpg) | [![](/images/spider_garden5_.jpg)](/images/spider_garden5.jpg) |
+| [![](/images/predators/spider_garden4_.jpg)](/images/predators/spider_garden4.jpg) | [![](/images/predators/spider_garden5_.jpg)](/images/predators/spider_garden5.jpg) |

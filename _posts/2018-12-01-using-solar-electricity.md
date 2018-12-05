@@ -1,39 +1,53 @@
 ---
 title: Using Solar Electricity
 date: '2018-12-05 06:00:00'
+image: three-plugs_.jpg
 layout: post
 ---
 
-Electricty is stored in the batteries at a nominal 12 volts DC, so we use 12 volts with as few conversions as possible.
+Continuing from the [Off-grid Solar Electricity Overview](https://reverdecer.annalisagross.com/2018/10/05/off-grid-solar-electricity-overview/) this post describes the ways electricity collected from the sun is put to use in El Terreno.
 
-Some things we power directly at 12 volts from two "cigarette lighter" plugs: The vent fan, the other fan, AA battery charger, [water pump](https://reverdecer.annalisagross.com/2018/08/18/saving-for-a-not-rainy-day/), [laptop car charger](https://www.amazon.com/gp/product/B005I56RM2/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005I56RM2&linkId=b8843bffdc80849436360a6b9b62eeba).
+[![](/images/laptop-charger_.jpg)](/images/laptop-charger.jpg)
 
-For things that are USB powered we use a 4 port USB car charger: charging cell phones, charging the bluetooth speaker, powering the humidifier.
+# Automotive (12 Volts DC)
 
-[Inverter](https://www.amazon.com/gp/product/B0131L8NLM/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0131L8NLM&linkId=6bb08826365351ac945b6b099266d097)
+Electricity is stored in the batteries at a nominal 12 volts DC. The most direct and efficient way to use the electricity is to use automotive devices that plug into a "cigarette lighter" plug. Running directly on 12 volts we have 
+* three fans (vent for van, outhouse, and a small portable one) 
+* the AA battery charger
+* [the water pump](https://reverdecer.annalisagross.com/2018/08/18/saving-for-a-not-rainy-day/)
+* [the laptop car charger](https://www.amazon.com/gp/product/B005I56RM2/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005I56RM2&linkId=b8843bffdc80849436360a6b9b62eeba)
 
-We have a 1000 watt pure sine wave inverter for powering 120 volt AC appliances: our freezer, coffee maker, and charging our toothbrushes.
+<br>
 
-By far our biggest electricity user is the freezer. We tried powering it with a cheap modified sine inverter, but we kept running out of power during the rainy season.  Since we upgraded the inverter the PV panels were able to supply all of our electricty, even on cloudy days.
+[![](/images/usb-charger_.jpg)](/images/usb-charger.jpg)
 
-Since the freezer uses so much power, we only run it during the day. The freezer is well insulated enough that all the contents stay frozen over night.
+# USB (5 Volts DC)
 
-With 1000 watts inverter we have to check how many watts the applicances use before buying them.  Things that heat or cool are the hardest.  All the coffee makers we found in the US, used more than 1000 watts, but we were able to find a single cup coffee maker in Mexico that only uses 650 watts. It's still puts a strain on our little power plant, so we have to make sure the batteries have enough charge before making a cup. Solar coffee, what a luxury!
+For things that are USB powered we use a 4 port USB car charger
+* charging cell phones
+* charging the bluetooth speaker
+* humidifier
+
+<br>
+
+[![](/images/powering-coffee-and-toothbrush_.jpg)](/images/powering-coffee-and-toothbrush.jpg)
 
 
-[PWM Charge Controller](https://www.amazon.com/gp/product/B00N4QPMW8/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00N4QPMW8&linkId=de885ea917a75c40f6b78442644c8a03)
+# Standard House Outlet (120 Volts AC)
 
-[Benchtop Power Supply](https://www.amazon.com/gp/product/B00ZBCLJSY/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZBCLJSY&linkId=c1192f6a79410204ade8c1df609d1f97)
+Lastly we have a [1000 watt pure sine wave inverter](https://www.amazon.com/gp/product/B0131L8NLM/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0131L8NLM&linkId=6bb08826365351ac945b6b099266d097) for powering 120 volt AC appliances
+* freezer
+* coffeemaker
+* coffee grinder
+* blender
+* immersion blender
+* various small battery chargers
 
-[MPPT Charge Controller](https://www.amazon.com/gp/product/B01CY6X2WU/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CY6X2WU&linkId=e51a9e0bb1393ba0af7e94da30941d02)
+Since the inverter has to change the current to AC and increase the voltage, it has the biggest conversion losses. It drains power (even when everything connected to it is off) so we shut it off at night.
 
-[Remote Meter for Charge Controller](https://www.amazon.com/gp/product/B00YAB0UVO/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YAB0UVO&linkId=3a4b6ebf80498756a4e7cf2202097715)
+By far our biggest electricity user is the freezer. We tried powering it with a cheap modified sine inverter, but we kept running out of power during the rainy season.  Since we upgraded the inverter, the PV panels were able to supply all of our electricity, even on cloudy days.  The freezer is well insulated enough that all the contents stay frozen overnight with the power off.
 
-[PWM Charge Controller](https://www.amazon.com/gp/product/B00N4QPMW8/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00N4QPMW8&linkId=de885ea917a75c40f6b78442644c8a03)
-
-[Small Inverter](https://www.amazon.com/gp/product/B00PLQNSU2/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00PLQNSU2&linkId=f94f087b8baa807762cac0bc510df428)
-
-[Fuse Block](https://www.amazon.com/gp/product/B000K2ILJ0/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000K2ILJ0&linkId=da99cd4dc6b839570d4e5a74d02f8455)
+With 1000 watts inverter we have to check how many watts the appliances use before buying them.  Things that heat or cool use the most power.  All the coffee makers we found in the US, used more than 1000 watts, but we were able to find a single cup coffee maker in Mexico that only uses 650 watts. It's still puts a strain on our little power plant, so we have to make sure the batteries have enough charge before making a cup. Off-grid solar coffee, what a luxury!
 
 
 

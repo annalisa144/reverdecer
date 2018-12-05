@@ -7,7 +7,7 @@ categories: dogs
 layout: post
 ---
 
-Since [Booker died in the middle of a long roadtrip,](https://reverdecer.annalisagross.com/2018/10/22/bookers-last-stop/) we haven't had "normal life" in which to fully  notice his absence. Now that we're back in El Terreno, he's officially gone. But on our way back south we got to say goobye to him again.
+Since [Booker died in the middle of a long roadtrip,](https://reverdecer.annalisagross.com/2018/10/22/bookers-last-stop/) we haven't had "normal life" in which to fully  notice his absence. [Now that we're back in El Terreno](https://reverdecer.annalisagross.com/2018/12/01/hows-the-dog-retirement-home/), he's officially gone. But on our way back south we got to say goobye to him again.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TwP_GRy-m_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

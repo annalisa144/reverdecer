@@ -7,7 +7,7 @@ categories: pets vanlife with pets
 layout: post
 ---
 
-You may recall that our dog retirement home gained two kittens but lost one dog during our Mexico adVanture. We miss Booker every day, though we're glad his heart disease is over. But gees, what a treasure he was to our lives, a beam of joy and sunshine in this world!
+You may recall that our dog retirement home gained two kittens but [lost one dog during our Mexico adVanture](https://reverdecer.annalisagross.com/2018/10/22/bookers-last-stop/). We miss Booker every day, though we're glad his heart disease is over. But gees, what a treasure he was to our lives, a beam of joy and sunshine in this world!
 
 We say we'll be relieved to be dog-free when Max and Hannah die. We'll miss them, too. But have you ever cleaned up dogpoop from your in-law's carpet (or worse, watched your in-laws clean up your dog's diarrhea? It sucks.)
 
@@ -21,7 +21,7 @@ And within 2 km of crossing the border into Mexico, we saw this dog
 
 It seemed right to bring this dog home with us, because we have extra love to share, and because we know an excellent vet in Morelia. Don't worry, we didn't do it. Phillip is very reasonable and didn't even consider it! Any guesses on what ails this dog?
 
-We know acutely how important it is to have dog support, and hope that lots of dog-sitting will fill our needs post-Hannah and Max. Of course, dogs-in-need have a way of finding people-in-need....
+We know acutely how important it is to have dog support, and hope that lots of dog-sitting will fill our needs post-Hannah and Max. Of course, dogs-in-need have a way of finding people-in-need--[our neighbors have learned that a couple times over.](https://reverdecer.annalisagross.com/2018/12/04/saying-goodbye-to-booker/)
 
 Montage of good memories (thanks to google photos mining my data...sigh...)
 

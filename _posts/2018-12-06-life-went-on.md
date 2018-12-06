@@ -19,7 +19,7 @@ layout: post
 
 Along the swales the daikon radishes keep coming. We planted them as *tillage radishes*, to aerate and break up this compacted (clayful) ground. But they're not quite tough enough - sometimes they're *self-harvesting radishes*.
 
-[![](/images/_.jpg){:width="60%"}](/images/.jpg)
+[![](/images/radish_harvesting_.jpg){:width="60%"}](/images/radish_harvesting.jpg)
 
 
 My favorite garden find may be this spider, whose body is over an inch long - it's gorgeous!

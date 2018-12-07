@@ -8,7 +8,7 @@ categories: plants pests
 layout: post
 ---
 
-[We spent a month in the US visiting family](https://reverdecer.annalisagross.com/2018/11/03/sort-of-married/) and life went on in El Terreno (por supuesto!) But in particular, the rainy season (which ends in Sept/Oct) continued through November, and plant life and bug life unexpectedly continued to thrive. Like this enormous grasshopper!
+[We spent a month in the US visiting family](https://reverdecer.annalisagross.com/2018/11/03/sort-of-married/) and life went on in El Terreno (por supuesto!) Specifically, the rainy season (which ends in Sept/Oct) continued through November, and plant life and bug life unexpectedly continued to thrive. Like this enormous grasshopper!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-nGfTXSIBUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,3 +28,5 @@ My favorite garden find may be this spider, whose body is over an inch long - it
 
 
 | [![](/images/predators/spider_garden4_.jpg)](/images/predators/spider_garden4.jpg) | [![](/images/predators/spider_garden5_.jpg)](/images/predators/spider_garden5.jpg) |
+
+Could it, please, be big enough to take down some grasshoppers?

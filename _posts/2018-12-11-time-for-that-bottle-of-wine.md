@@ -1,10 +1,13 @@
 ---
 title: Time for that bottle of wine
 date: '2018-12-11 06:00:00'
+image: wine_.jpg
 layout: post
 ---
 
 We had a lousy day last week, beginning with my running the truck off the road, climaxing with a series of near-deaths of local pets.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/stuQq7zMjDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 When I got home with my uncle's dogs, we put the muzzle on Puki since one of the cats was hiding under the shed. *Usually we put the cats in the van when Puki (notorious cat-killer) is here.*
@@ -29,6 +32,6 @@ I decided to walk Puki some more, taking Hannah along (Luna and Max were tuckere
 
 I tried yelling at them to go home, stay away, go back, but they looked at me like I was crazy. They kept a few feet distance but know Hannah and I to be part of their pack, so they were thrilled for this adventure.
 
-I dropped my water bottle and frantically called Phillip to come rescue us (recurring theme). Puki alternated between interest in these dogs, and yanking me ahead so he could be the first/fastest/alpha/leader. That was the best case scenario, so I let him drag me along rather than practice the leash manners we normally suffer through.
+I dropped my water bottle and frantically called Phillip to come rescue us (no agave mishaps this time). Puki alternated between interest in these dogs, and yanking me ahead so he could be the first/fastest/alpha/leader. That was the best case scenario, so I let him drag me along rather than practice the leash manners we normally suffer through.
 
 Throughout the next 15 minutes (felt like a month) Puki and Torce occasionally sniffed each other, and Torce quickly thought it was time to be friends and play - but when he tried to frolic Puki growled. "Just let them play this out," someone had told me about such a situation. But I'm not willing, not when all these dogs trust me and when Puki can kill a (small) dog with one bite.

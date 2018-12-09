@@ -47,6 +47,7 @@ This is already an adult cake, though you can skip the whiskey for family-friend
 * 1/2 t ginger
 * 1/8 t cloves
 * 1/8 t nutmeg
+
 *all ground, of course*
 
 With these sweet spices you can reduce the sweetener, too!

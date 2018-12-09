@@ -7,7 +7,7 @@ categories: pests pets
 layout: post
 ---
 
-I wish the kittens would leave [the lizards alone](http://localhost:4000/2018/11/06/lizard-gallery/) - we like lizards! They eat bugs and [bugs are pretty annoying.](https://reverdecer.annalisagross.com/2018/08/10/cut-out-the-middle-man/)
+I wish the kittens would leave [the lizards alone](https://reverdecer.annalisagross.com/2018/11/06/lizard-gallery/) - we like lizards! They eat bugs and [bugs are pretty annoying.](https://reverdecer.annalisagross.com/2018/08/10/cut-out-the-middle-man/)
 
 But the cats can't help themselves when the crevice swifts start their push-up routine.
 

@@ -14,7 +14,7 @@ We spent a month in the US this fall and came back with a carload of Christmas g
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4iMDrYWLoVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[They live near Los Azufres (sulfur pools) where an inactive volcano heats geysers and pools, used for geothermal energy and spas, respectively.](http://www.annalisagross.com/home/geothermal) We can't take the dogs into the spas, but we do like to hike in the woods with them.
+[They live near Los Azufres (sulfur pools) where an inactive volcano heats geysers and pools, used for geothermal energy and spas, respectively.](http://www.annalisagross.com/home/geothermal) We can't take the dogs into the spas, but we do like to [hike in the woods with them.](http://reverdecer.annalisagross.com/2018/12/16/into-the-woods/)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1qQlXs_o94Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

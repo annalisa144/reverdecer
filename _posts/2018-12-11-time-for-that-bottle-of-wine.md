@@ -11,7 +11,7 @@ We had a lousy day last week, beginning with my running the truck off the road, 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/stuQq7zMjDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-After getting un-stuck I was so tired and distracted by avoiding potholes that I missed a turn, and ended up even later.
+[Kinda a bummer we didn't get to call our favorite tow truck.](https://reverdecer.annalisagross.com/2018/10/31/van-woes-and-wins-in-mexico/) After getting un-stuck [la colina de muerte](https://reverdecer.annalisagross.com/2018/09/02/la-colina-de-la-muerte/) seemed passe, but I was so tired and distracted by avoiding potholes that I missed a turn, and ended up even later.
 
 When I got home with my uncle's dogs, we put the muzzle on Puki since one of the cats was hiding under the shed. *Usually we put the cats in the van when Puki (notorious cat-killer) is here.*
 

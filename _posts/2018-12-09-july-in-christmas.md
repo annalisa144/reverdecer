@@ -7,7 +7,7 @@ categories: vandwelling
 layout: post
 ---
 
-I've heard of Christmas in July, but we're living July in Christmas.
+I've heard of Christmas in July, but we're living July at Christmastime.
 
 All summer I was bummed that it was chilly and rainy, while in IN, PA, MN, etc, everyone had heat!
 

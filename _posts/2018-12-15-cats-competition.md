@@ -1,6 +1,6 @@
 ---
 title: Cat's competition
-date: '2018-12-15 06:00:00'
+date: '2018-12-14 06:00:00'
 tags: hunting kittens roadkill birds of prey
 categories: cats pests
 layout: post

@@ -2,6 +2,8 @@
 title: Time for that bottle of wine
 date: '2018-12-11 06:00:00'
 image: wine_.jpg
+tags: pets vanlife mexico hiking cats stress conflict aggression
+categories: dogs neighbors
 layout: post
 ---
 
@@ -9,6 +11,7 @@ We had a lousy day last week, beginning with my running the truck off the road, 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/stuQq7zMjDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+After getting un-stuck I was so tired and distracted by avoiding potholes that I missed a turn, and ended up even later.
 
 When I got home with my uncle's dogs, we put the muzzle on Puki since one of the cats was hiding under the shed. *Usually we put the cats in the van when Puki (notorious cat-killer) is here.*
 
@@ -34,4 +37,10 @@ I tried yelling at them to go home, stay away, go back, but they looked at me li
 
 I dropped my water bottle and frantically called Phillip to come rescue us (no agave mishaps this time). Puki alternated between interest in these dogs, and yanking me ahead so he could be the first/fastest/alpha/leader. That was the best case scenario, so I let him drag me along rather than practice the leash manners we normally suffer through.
 
-Throughout the next 15 minutes (felt like a month) Puki and Torce occasionally sniffed each other, and Torce quickly thought it was time to be friends and play - but when he tried to frolic Puki growled. "Just let them play this out," someone had told me about such a situation. But I'm not willing, not when all these dogs trust me and when Puki can kill a (small) dog with one bite.
+Throughout the next 15 minutes (felt like a month) Puki and Torce occasionally sniffed each other, and Torce quickly thought it was time to be friends and play - but when he tried to frolic Puki growled. "Just let them play this out," both dog owners have told me about such a situation. But I'm not willing, not when all these dogs trust me and when Puki can kill a (small) dog with one bite.
+
+[![](/images/puki_hiking_.jpg){:width="40%"}](/images/puki_hiking.jpg)
+
+Phillip got the neighbor dogs home using some of our leashes, and we put the muzzle back on Puki. When we found out we needed to keep the dogs an extra couple hours we decided to open a bottle of wine.
+
+When one of the neighbors' dogs showed up at our place (the smaller two can squeeze under the gate or through a corner) we put Puki and Luna in the pick-up (with a bowl of water) and took Guayaba home. Phillip left with P&L asap and when he got back we finished the bottle of wine.

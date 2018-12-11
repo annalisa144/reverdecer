@@ -9,7 +9,7 @@ layout: post
 
 A couple weeks ago we celebrated [Mexican independence](https://reverdecer.annalisagross.com/2018/09/15/dia-de-independencia/) at the festival de mezcal.
 
-[Mezcal is in resurrgence](http://localhost:4000/2018/10/03/mezcal/) and some are delightful. But my favorite consumable at the festival was the [escamol](https://en.wikipedia.org/wiki/Escamol).
+[Mezcal is in resurrgence](https://reverdecer.annalisagross.com/2018/10/03/mezcal/) and some are delightful. But my favorite consumable at the festival was the [escamol](https://en.wikipedia.org/wiki/Escamol).
 
 Clever, my uncle brought this to our table and suggested we try it before finding out what we were eating. Cheesy, creamy, like rich cottage cheese.
 

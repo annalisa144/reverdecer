@@ -31,7 +31,7 @@ Back to this long bike path: we do use it when we, first, bike through some fiel
 
 [![](/images/rainy_ride_.jpg){:width="60%"}](/images/rainy_ride.jpg)
 
-toward UNAM (where my uncle teaches) and then travel up the hill to a hardware store. [Check out a few fun bike hauls.](http://localhost:4000/2018/08/23/beasts-and-bikes-of-burden/)
+toward UNAM (where my uncle teaches) and then travel up the hill to a hardware store. [Check out a few fun bike hauls.](https://reverdecer.annalisagross.com/2018/08/23/beasts-and-bikes-of-burden/)
 
 [![](/images/pvcbike_.jpg){:width="60%"}](/images/pvcbike.jpg)
 

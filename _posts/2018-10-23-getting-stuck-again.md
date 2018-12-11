@@ -7,7 +7,7 @@ categories: dogs vandwelling
 layout: post
 ---
 
-We left San Antonio Monday morning. We expected something would go wrong, since [our last trip to San Antonio was intense in all van-related matters.](http://www.annalisagross.com/home/no-va) No disappointment. Couldn't get the van started for awhile. Phillip replaced the fuel filter - [again ](http://localhost:4000/2018/10/23/going-camping/)- and all seemed well.
+We left San Antonio Monday morning. We expected something would go wrong, since [our last trip to San Antonio was intense in all van-related matters.](http://www.annalisagross.com/home/no-va) No disappointment. Couldn't get the van started for awhile. Phillip replaced the fuel filter - [again ](https://reverdecer.annalisagross.com/2018/10/23/going-camping/)- and all seemed well.
 
 He also drove all day, alllllll day. We planned to stay in Hot Springs ([where we've camped before and enjoyed the town](https://www.youtube.com/watch?v=Ogb0KsAB7FA)) but decided to get closer to home. Max has taken Booker's spot up front with us, and Hannah, as usual, is quiet and independent. We ate in the van.
 

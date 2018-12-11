@@ -26,4 +26,4 @@ Tasted great! We had it for lunch and again for dinner.
 
 [![](/images/squash_grilled2_.jpg){:width="60%"}](/images/squash_grilled2.jpg)
 
-Bartering works.][(https://reverdecer.annalisagross.com/2018/09/02/la-colina-de-la-muerte/)
+[Bartering works.](https://reverdecer.annalisagross.com/2018/09/02/la-colina-de-la-muerte/)

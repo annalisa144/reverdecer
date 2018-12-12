@@ -41,7 +41,7 @@ Throughout the next 15 minutes (felt like a month) Puki and Torce occasionally s
 
 [![](/images/puki_hiking_.jpg){:width="40%"}](/images/puki_hiking.jpg)
 
-Phillip got the neighbor dogs home using some of our leashes, and we put the muzzle back on Puki. When we found out we needed to keep the dogs an extra couple hours we decided to open a bottle of wine.
+Phillip got the neighbor dogs home using some of our leashes, and we put the muzzle back on Puki. When we found out we needed to keep the dogs an extra couple hours we decided to open a bottle of wine. [Just had a few sips each - it was only 2pm.]
 
 When one of the neighbors' dogs showed up at our place (the smaller two can squeeze under the gate or through a corner) we put Puki and Luna in the pick-up (with a bowl of water) and took Guayaba home. Phillip left with P&L asap and when he got back we finished the bottle of wine.
 

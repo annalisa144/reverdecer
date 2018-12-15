@@ -8,7 +8,7 @@ categories: cats pests
 layout: post
 ---
 
-We think a [white tail hawk](https://www.inaturalist.org/taxa/201043-Geranoaetus-albicaudatus/browse_photos) is hunting in El Terreno! (Can you identify this mostly white bird of prey?) We've witnessed two dramatic dives procuring mice out of the tall grass. We're impressed. Thecats aren't keeping up with the rodents - they're amazing hunters, but they are neither hungry nor blood-thirsty enough to clear the whole hectare. 
+We think a [white tail hawk](https://www.inaturalist.org/taxa/201043-Geranoaetus-albicaudatus/browse_photos) is hunting in El Terreno! (Can you identify this mostly white bird of prey?) We've witnessed two dramatic dives procuring mice out of the tall grass. We're impressed. The cats aren't keeping up with the rodents - they're amazing hunters, but they are neither hungry nor blood-thirsty enough to clear the whole hectare. 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sHJpbLFrhuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

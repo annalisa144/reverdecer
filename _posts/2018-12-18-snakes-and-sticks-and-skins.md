@@ -1,6 +1,6 @@
 ---
 title: Snakes and sticks and skins
-date: '2018-12-18 06:00:00'
+date: '2018-12-17 06:00:00'
 image: stick_snake_.jpg
 tags: snake fear phobia ophidiophobia ophiophobia amygdala anxiety stress reactivity
   scorpion

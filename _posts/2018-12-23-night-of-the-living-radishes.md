@@ -11,7 +11,7 @@ We've grown a lovely variety of radishes en El Terreno, but we just eat them. In
 
 [![](/images/living_radishes_.jpg){:width="60%"}](/images/living_radishes.jpg)
 
-We haven't gone (yet) so this photo is from Gastropod, and you should listen to their [podcast about the annual event](https://gastropod.com/night-living-radishes/).
+We haven't gone (yet - maybe some other year) so this photo is from Gastropod, and you should listen to their [podcast about the annual event](https://gastropod.com/night-living-radishes/).
 
 The tradition comes from a portable nighttime meal, and now it's a [major festival.](https://www.oaxaca-mio.com/fiestas/rabanos.htm)
 

@@ -21,3 +21,5 @@ We bring beans/rice/veggies/soup to a boil on the grill, then wrap the pot in ou
 
 
 We've tried beans in a thermos, too (see header photo). Bring to boil, then pour into a thermos and wrap that in a sleeping bag. Still takes two rounds of coming ot a boil, but better than wasting hours of propane.
+
+[We have tried passive solar cooking](https://reverdecer.annalisagross.com/2018/10/16/welcome-to-our-kitchen/) but it takes days and the food starts to smell bad before it's cooked. We got a big piece of glass so may try adapting the solar oven, again. Now that the rains are gone we have more hours of sunlight - what a great winter!

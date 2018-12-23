@@ -1,6 +1,6 @@
 ---
 title: Best chocolate cake
-date: '2018-12-27 06:00:00'
+date: '2019-01-17 06:00:00'
 image: bean_brownies_.jpg
 tags: camping dessert bake baking sweet fix adult cake alcohol treat rv vanlife
 categories: food vandwelling

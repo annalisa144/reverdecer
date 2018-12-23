@@ -1,6 +1,6 @@
 ---
 title: Gallery of injuries
-date: '2018-12-27 06:00:00'
+date: '2018-12-26 06:00:00'
 image: injury3_.jpg
 tags: mexico vanlife hiking injury shoes glass cut thorn splinter rv camping
 categories: vandwelling

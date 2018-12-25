@@ -1,6 +1,6 @@
 ---
 title: Black bean brownies
-date: '2018-12-25 06:00:00'
+date: '2018-12-28 06:00:00'
 image: beans_brownies_.jpg
 tags: camping vanlife bake baking on a grill dessert chocolate healthy nutritious
   gluten free sugarless

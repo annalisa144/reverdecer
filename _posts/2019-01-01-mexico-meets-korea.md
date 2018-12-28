@@ -1,6 +1,6 @@
 ---
 title: Mexico meets Korea
-date: '2019-01-01 06:00:00'
+date: '2019-01-05 06:00:00'
 image: kimchi_.jpg
 categories: food
 layout: post

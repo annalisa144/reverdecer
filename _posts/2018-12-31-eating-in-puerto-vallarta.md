@@ -13,6 +13,6 @@ Serious seafood treat was Tacon de Marlin. It was our first time eating marlin a
 
 [![](/images/tacon_marlin2_.jpg){:width="60%"}](/images/tacon_marlin2.jpg)
 
-We had brunch at Fredy Toucan, which may tell you it's the best breakfast in town. It was good, but not as good as Angelica and Octavio's eggs with tortillas, beans and salsa at home.
+We had brunch at Fredy Tucan, which may tell you it's the best breakfast in town. It was good, but not as good as Angelica and Octavio's eggs with tortillas, beans and salsa at home. But since your travels may not include Angelica and Octavio's cooking, enjoy the friendly service and good food at Fredy Tucan.
 
 [![](/images/breakfast_pv_.jpg){:width="60%"}](/images/breakfast_pv.jpg)

@@ -9,7 +9,7 @@ layout: post
 
 Morelia has a couple unique annual festivals, including [guitar](http://sic.gob.mx/ficha.php?table=festival&table_id=521), [film](https://moreliafilmfest.com/en/) and organ. The international film fest probably draws the most famous people, but the [Internacional Festival de Órgano](https://www.festivaldeorganodemorelia.org/) is the oldest.
 
-The setting, the cathedral of Morelia, is grand enough for even a boring concert.
+The setting, the cathedral of Morelia, is grand enough for even a boring concert. (It was built from 1660 to 1744 - 84 years doesn't seem so long now that we've read *The Pillars of the Earth* series, which puts cathedral-building in perspective.)
 
 | [![](/images/catedral_organo_.jpg)](/images/catedral_organo.jpg) | [![](/images/catedral_organo2_.jpg)](/images/catedral_organo2.jpg) |
 

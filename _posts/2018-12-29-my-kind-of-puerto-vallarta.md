@@ -8,7 +8,7 @@ categories: vandwelling
 layout: post
 ---
 
-We happily joined our friends for a week in beachside Puero Vallarta. Friendly, relaxed, successful tourist town - but we get to stay alongside a normal family in a normal week of life. 
+We happily joined our friends for a week in beachside Puero Vallarta. Friendly, relaxed, successful tourist town - but we get to stay alongside a normal family in a normal week of life.  (Even had a normal, friendly robbery!)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ntvGc8GX7uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

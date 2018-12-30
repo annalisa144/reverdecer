@@ -21,6 +21,6 @@ We came primarily to escape Morelia's cold nights, which are just above freezing
 
 [![](/images/kittens_cuddle_.jpg){:width="60%"}](/images/kittens_cuddle.jpg)
 
-More on Puerto Vallarta in the days to come--too much to put in one post.
+More on Puerto Vallarta in the days to come--too much to put in one post. [Read about Playa Destiladeras](https://reverdecer.annalisagross.com/2018/12/30/playa-destiladeras/) our favorite beach.
 
 [![](/images/mosaic_pv_.jpg){:width="60%"}](/images/mosaic_pv.jpg)

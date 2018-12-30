@@ -21,10 +21,12 @@ We've been eating at "home" with our friends most meals on [our Puerto Vallarta 
 			
 Another feast day of *camarón crudo* (raw shrimp, which Phillip found out he is allergic to), fish tacos, salsas, etc was a highlight despite the tingling face and itchy throat.
 
-Serious seafood treat was [Tacon de Marlin](http://www.tacondemarlin.com/home-en/). It was our first time eating marlin and we whole-heartedly approve. 
+Serious seafood treat was [Tacon de Marlin](http://www.tacondemarlin.com/home-en/). It was our first time eating marlin and we whole-heartedly approve.  In fact, we hoped to stop there for lunch on our way out of PV but we were stuffed.
 
 [![](/images/tacon_marlin2_.jpg){:width="60%"}](/images/tacon_marlin2.jpg)
 
 We had brunch at [Fredy's Tucan](http://fredystucan.com/), which may tell you it's the best breakfast in town. It was good, but not as good as Angelica and Octavio's eggs with tortillas, beans and salsa at home. But since your travels may not include Angelica and Octavio's cooking, enjoy the friendly service and good food at Fredy's Tucan.
 
 [![](/images/breakfast_pv_.jpg){:width="60%"}](/images/breakfast_pv.jpg)
+
+Our final meal in PV was homemade *carne en su jugo* which I'll explain in a post later this week.

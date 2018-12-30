@@ -1,15 +1,16 @@
 ---
 title: Walking the river to the sea
 date: '2019-01-08 06:00:00'
-image: butterfly_person_bw_.jpg
+image: batman_bw_.jpg
 tags: tourism travel mexico jalisco puerto vallarta riverwalk river ocean beach exercise
+  walking running biking bicycle
 categories: vandwelling
 layout: post
 ---
 
 [Puerto Vallarta](http://reverdecer.annalisagross.com/2018/12/29/my-kind-of-puerto-vallarta/) is one of those enchanting places where you can follow the river to the ocean. [More than one river, in fact.](http://reverdecer.annalisagross.com/2019/01/07/malecon/)
 
-I love the one with the river walk, which we used with Hannah in the mornings to be among the trees and fresh air.
+I love the Pitillal with a 2.5 mile river walk, which we used with Hannah in the mornings to be among the trees and fresh air. Pro tip: go under the bridges and you'll never have to cross traffic - especially convenient with a dog or on a bike (though not sure if you would want to go under the last bridge with a bike, it involves crawling).
 
 [![](/images/pv_tree_.jpg){:width="60%"}](/images/pv_tree.jpg)
 

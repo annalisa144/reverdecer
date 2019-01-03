@@ -56,7 +56,7 @@ Next we attempted to recharge the salt by placing the solution in a shallow tray
 
 # Why is this better than storing hot water in an insulated tank?
 
-Our [sleeping bag](https://reverdecer.annalisagross.com/2018/12/21/cooking-in-a-sleeping-bag/) holds hot water for about four hours. A [good, home-built insulated tank](https://www.builditsolar.com/Experimental/PEXColDHW/HeatLoss.htm#TheTest) might store useable heat for a week.  When the(potential) heat is stored in chemical form (the energy in the salt) "heat" can be stored almost indefinitely. This lets us **store** the sun's heat on a hot, sunny summer day, then **use** it six months later on a cold, cloudy winter day.
+Our [sleeping bag](https://reverdecer.annalisagross.com/2018/12/21/cooking-in-a-sleeping-bag/) holds hot water for about four hours. A [good, home-built insulated tank](https://www.builditsolar.com/Experimental/PEXColDHW/HeatLoss.htm#TheTest) might store useable heat for a week.  The dry "charged" Calcium Chloride can be stored almost indefinitely. This lets us **store** the sun's heat on a hot, sunny summer day, then **use** it six months later on a cold, cloudy winter day.
 
 
 # Why is this better than heating with wood?

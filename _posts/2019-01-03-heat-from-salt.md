@@ -1,13 +1,16 @@
 ---
 title: Saving for a rainy day
-date: '2019-01-03 06:00:00'
+date: '2019-01-04 06:00:00'
 image: hot-salt-pour_.jpg
 layout: post
 ---
 
 [We have a water heater](https://reverdecer.annalisagross.com/2018/10/10/we-have-a-water-heater/) and [solar showers](https://reverdecer.annalisagross.com/2018/06/22/the-evolution-of-showering/). They are all heated directly from the sun. They're wonderful on clear days, but they don't get warm on cloudy, rainy days. This post is about our first experiments with storing heat from the sun to use when it isn't shining. We're learning to heat with salt. Had never occurred to me, but it works offgrid to keep our toes from becoming ice cubes overnight.
 
-**something about amount of energy used for space and water heating**
+
+# It's not just us
+
+In Germany [83% of household energy is for space heating and hot water](https://solar-heating-initiative.com/). All of their lights, appliances, computers, tv's, x-boxes are almost a rounding-error compared to keeping warm. If they want to be 100% fossil-fuel free on a cold, cloudy month what's the best way to store all of that energy?
 
 
 # A little chemistry

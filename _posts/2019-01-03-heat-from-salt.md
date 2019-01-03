@@ -1,11 +1,13 @@
 ---
-title: Heating with salt?!
+title: Saving for a rainy day
 date: '2019-01-03 06:00:00'
 image: hot-salt-pour_.jpg
 layout: post
 ---
 
-We're learning to heat with salt. Had never occurred to me, but it works offgrid to keep our toes from becoming ice cubes overnight.
+[We have a water heater] and [solar showers]. They are all heated directly from the sun. They're wonderful on clear days.
+
+We're learning to heat with salt. Had never occurred to me, but it works offgrid to keep our toes from becoming ice cubes overnight.	
 
 # Why is this better than heating with wood?
 

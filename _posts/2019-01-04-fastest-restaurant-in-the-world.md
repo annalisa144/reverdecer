@@ -7,7 +7,7 @@ categories: food spanish
 layout: post
 ---
 
-We ate at [Karne Garibaldi](http://www.karnegaribaldi.com.mx/), a restaurant in Guadalajara which holds the Guinness Record for the fastest customer service in the world. It was quick service, with expert camareros weaving through the packed dining room. 
+We ate at [Karne Garibaldi](http://www.karnegaribaldi.com.mx/), a restaurant in Guadalajara which holds the Guinness Record for the fastest customer service in the world (at a sitdown restuarant, presumably). It was quick service, with expert camareros weaving through the packed dining room. 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QlOgQm3CON8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

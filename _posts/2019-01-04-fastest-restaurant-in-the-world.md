@@ -1,6 +1,6 @@
 ---
 title: Fastest restaurant in the world!
-date: '2019-01-04 06:00:00'
+date: '2019-01-03 06:00:00'
 image: karne_garibaldi_.jpg
 tags: eat mexico best restaurants guinness book of world records road trip
 categories: food spanish

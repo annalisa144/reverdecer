@@ -72,8 +72,13 @@ Photovoltaic panels convert sunlight into electricity.  To use the energy on clo
 [![](/images/cacl2-residential_.jpg)](/images/cacl2-residential.jpg)
 # One idea for a residential system
 
-Chemests, are there other endothermic/exothermic chemical reactions we should consider?
+1. The Calcium Chloride-water solution is stored in an insulated tank.
+3. The solution is pumped into a concentrating solar collecter and heated to over 250 F. 
+2. The steam released from the concentratating solar collector (3) condenses in a heat exchanger (2) and the pure, distilled water is stored in a separate tank (not pictured).
+4. The hot solution drops though a metal screen.
+5. The chucks of solid Calcium Chloride drop into a storage barrel while the hot, concentrated brine flows back into the insulated tank (1).
 
-Engineers and makers what's the simplest concentrating solar collecter that could work?  Parabolic trough, evacuated tube, fresnel lens, inflatable heliostat, other?
+The digram shows the heat exchanger in the insulated tank (1), but it could first/also go though other heat exhangers, raditors, etc that supply space heating and domestic hot water on sunny days.
 
+Chemists, solar engineers, and tinkerers share your thoughts and experiments in the comments below.
 

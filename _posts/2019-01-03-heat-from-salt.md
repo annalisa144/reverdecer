@@ -19,7 +19,7 @@ Our reserch started with a part of chemestry called [Endothermic/exothermic chem
 
 # Sidewalk ice melt salt
 
-In places where it snows [Calcium Chloride (CaCl<sub>2</sub>)](https://www.homedepot.com/p/BLANK-INDUSTRIES-LLC-BLANK-INDUSTRIES-LLC-7892/202590325) is sold in all the big box stores for melting ice off of sidewalks and driveways.  It costs about $20 for a [50 pound bag](https://www.lowes.com/pd/50-lbs-Fast-Acting-Calcium-Chloride-Ice-Melt/3540820).  It's [relatively safe](https://en.wikipedia.org/wiki/Calcium_chloride#Hazards).  Most importantly Calcium Chloride disolved into water creates an exothermic reaction (hot water). The salt can be recovered by heating and evaporating the water. It can be "recharged" an almost unlimited number of times.  ** extracted from sea water **
+In places where it snows [Calcium Chloride (CaCl<sub>2</sub>)](https://www.homedepot.com/p/BLANK-INDUSTRIES-LLC-BLANK-INDUSTRIES-LLC-7892/202590325) is sold in all the big box stores for melting ice off of sidewalks and driveways.  It costs about $20 for a [50 pound bag](https://www.lowes.com/pd/50-lbs-Fast-Acting-Calcium-Chloride-Ice-Melt/3540820).  It's [relatively safe](https://en.wikipedia.org/wiki/Calcium_chloride#Hazards).  Most importantly Calcium Chloride disolved into water creates an exothermic reaction (hot water). The salt can be recovered by heating and evaporating the water. It can be "recharged" an almost unlimited number of times.
 
 [![](/images/cacl2-pour_.jpg)](/images/cacl2-pour.jpg)
 # Release the heat
@@ -44,12 +44,12 @@ As the water boiled off a skin of salt formed on the surface.  After all the wat
 
 [![](/images/cacl2-recharged_.jpg)](/images/cacl2-recharged.jpg)
 
-There was some salt residue left on the pot.  We can't leave dirty cooking pot!  Luckily the salt easily rinsed off with water.
+There was some salt residue left on the pot.  We can't leave a dirty cooking pot!  Luckily the salt easily rinsed off with water.
 
 [![](/images/cacl2-tray_.jpg)](/images/cacl2-recharged.jpg)
 # Solar recharge attempt
 
-Next we attempted to recharge the salt by placing the solution in a shallow tray made from a milk jug in the sun.  After two clear, sunny days it looked basiclly the same. Little to no water evaporated. We put the solution in a water bottle and added a little fresh water. The bottle warmed a little, but not nearly as much as with the Calcium Chloride powder.  After some research we found that the solution has a [boiling point of 244 F](http://www.tetrachemicals.com/getFile.asp?File_Content_ID=1138).  Perhaps using a black tray or adding charcoal dust to the solution would allow more solar energy to be absorbed and increaes the rate of evaporation.  While more complex a [concentrating solar collecter](https://www.builditsolar.com/Projects/Concentrating/concentrating.htm) made with relitivly simple materials like mirrors and iron pipes can reach temperatures of over 400 F.
+Next we attempted to recharge the salt by placing the solution in a shallow tray made from a milk jug in the sun.  After two clear, sunny days it looked basiclly the same. Little to no water evaporated. We poured the solution from the tray into a water bottle and added a little fresh water. The bottle warmed a little, but not nearly as much as with the Calcium Chloride powder.  After some research we found that the solution has a [boiling point of 244 F](http://www.tetrachemicals.com/getFile.asp?File_Content_ID=1138).  Perhaps using a black tray or adding charcoal dust to the solution would allow more solar energy to be absorbed and increaes the rate of evaporation.  While more complex a [concentrating solar collecter](https://www.builditsolar.com/Projects/Concentrating/concentrating.htm) made with relitivly simple materials like mirrors and iron pipes can reach temperatures of over 400 F.
 
 
 # Why is this better than storing hot water in an insulated tank?
@@ -63,7 +63,7 @@ There is no fire.  The bottle gets warm, but not hot enough to start a fire. It 
 
 Since there is no smoke, widespread use of this technology would reduce the suffering and deaths of millions of people from respiratory disease. The Global Burden of Disease study estimates that [3.5 million people](https://www.nationalgeographic.com/environment/great-energy-challenge/2012/cookstove-smoke-is-largest-environmental-threat-global-health-study-finds/) die annually from respiratory illness due to burning wood and other biomass.
 
-** efficiency **
+In the real world plants [convert less than one percent of the available solar energy](https://en.wikipedia.org/wiki/Photosynthetic_efficiency).  A solar thermal collector on the roof of a house might be able to collect as much solar energy as an acre of forest.
 
 # Why is this better than solar photovoltaic panels?
 

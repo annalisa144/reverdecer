@@ -1,7 +1,7 @@
 ---
-title: Saving for a rainy day
+title: First experiments with solar salt batteries
 date: '2019-01-04 06:00:00'
-image: hot-salt-pour_.jpg
+image: hot-bottle-in-sock_.jpg
 layout: post
 ---
 
@@ -10,7 +10,7 @@ layout: post
 
 # It's not just us
 
-In Germany [83% of household energy is for space heating and hot water](https://solar-heating-initiative.com/). All of their lights, appliances, computers, tv's, x-boxes are almost a rounding-error compared to keeping warm. If they want to be 100% fossil-fuel free on a cold, cloudy month what's the best way to store all of that energy?
+In Germany [83% of household energy is for space heating and hot water](https://solar-heating-initiative.com/). All of their lights, appliances, computers, tv's, x-boxes, use only 17% of the houshold energy. If they want to be 100% fossil-fuel free on a cold, cloudy month what's the best way to store all of that energy?
 
 
 # A little chemistry
@@ -19,8 +19,9 @@ Our reserch started with a part of chemestry called [Endothermic/exothermic chem
 
 # Sidewalk ice melt salt
 
-In places where it snows [Calcium Chloride (CaCl<sup>2</sup>)](https://www.homedepot.com/p/BLANK-INDUSTRIES-LLC-BLANK-INDUSTRIES-LLC-7892/202590325) is sold in all the big box stores for melting ice off of sidewalks and driveways.  It costs about $20 for a [50 pound bag](https://www.lowes.com/pd/50-lbs-Fast-Acting-Calcium-Chloride-Ice-Melt/3540820).  It's [relatively safe](https://en.wikipedia.org/wiki/Calcium_chloride#Hazards).  Most importantly Calcium Chloride disolved into water creates an exothermic reaction (hot water). The salt can be recovered by heating and evaporating the water. It can be "recharged" an almost unlimited number of times.
+In places where it snows [Calcium Chloride (CaCl<sub>2</sub>)](https://www.homedepot.com/p/BLANK-INDUSTRIES-LLC-BLANK-INDUSTRIES-LLC-7892/202590325) is sold in all the big box stores for melting ice off of sidewalks and driveways.  It costs about $20 for a [50 pound bag](https://www.lowes.com/pd/50-lbs-Fast-Acting-Calcium-Chloride-Ice-Melt/3540820).  It's [relatively safe](https://en.wikipedia.org/wiki/Calcium_chloride#Hazards).  Most importantly Calcium Chloride disolved into water creates an exothermic reaction (hot water). The salt can be recovered by heating and evaporating the water. It can be "recharged" an almost unlimited number of times.  ** extracted from sea water **
 
+[![](/images/cacl2-pour_.jpg)](/images/cacl2-pour.jpg)
 # Release the heat
 
 We've been making foot warmers with an empty water bottle, dry Calcium Chloride, water, and a sock. Here is the process:
@@ -32,17 +33,27 @@ We've been making foot warmers with an empty water bottle, dry Calcium Chloride,
 5. Put the bottle in a sock or towel.  The bottle reaches a temperature of about 140 F. It's too hot to put directly againsed the skin.
 6. Put the warm bottle on your cold feet.  It will stay warm for one to two hours.
 
+
 # Propane recharge
 
-The next day, after the Calcium Chloride in water mixture was cool it was time to test a quick recharge.  We poured the mixture into a pot and brought it to a boil on the grill. Once all of the water boiled off, we were left with a single solid chunk of salt. We broke it up a litle with a fork, and put it back into the water bottle to be used again.
+The next day, after the Calcium Chloride in water mixture was cool it was time to test a quick recharge.  We poured the mixture into a pot and brought it to a boil on the propane grill. 
 
+![](/images/cacl2-boil.gif)
+
+As the water boiled off a skin of salt formed on the surface.  After all the water was boiled away we scraped the salt out of the pot with a spoon, and put it back into the water bottle to be used again.
+
+[![](/images/cacl2-recharged_.jpg)](/images/cacl2-recharged.jpg)
+
+There was some salt residue left on the pot.  We can't leave dirty cooking pot!  Luckily the salt easily rinsed off with water.
+
+[![](/images/cacl2-tray_.jpg)](/images/cacl2-recharged.jpg)
 # Solar recharge attempt
 
-Next we attempted to recharge the salt by placing the solution in a shallow tray in the sun.  After two clear, sunny days it looked basiclly the same. Little to no water evaporated. We put the solution in a water bottle and added a little fresh water. The bottle warmed a little, but not nearly as much as with the Calcium Chloride powder.  After some research we found that the solution has a [boiling point of 244 F](http://www.tetrachemicals.com/getFile.asp?File_Content_ID=1138).  For our next attempt we'll use a [concentrating solar collecter](https://www.builditsolar.com/Projects/Concentrating/concentrating.htm) to heat the solution to a higher temperature with the sun.
+Next we attempted to recharge the salt by placing the solution in a shallow tray made from a milk jug in the sun.  After two clear, sunny days it looked basiclly the same. Little to no water evaporated. We put the solution in a water bottle and added a little fresh water. The bottle warmed a little, but not nearly as much as with the Calcium Chloride powder.  After some research we found that the solution has a [boiling point of 244 F](http://www.tetrachemicals.com/getFile.asp?File_Content_ID=1138).  Perhaps using a black tray or adding charcoal dust to the solution would allow more solar energy to be absorbed and increaes the rate of evaporation.  While more complex a [concentrating solar collecter](https://www.builditsolar.com/Projects/Concentrating/concentrating.htm) made with relitivly simple materials like mirrors and iron pipes can reach temperatures of over 400 F.
 
 
 # Why is this better than storing hot water in an insulated tank?
-[sugar_stevia]
+
 Our [sleeping bag](https://reverdecer.annalisagross.com/2018/12/21/cooking-in-a-sleeping-bag/) holds hot water for about four hours. A [good, home-built insulated tank](https://www.builditsolar.com/Experimental/PEXColDHW/HeatLoss.htm#TheTest) might store useable heat for a week.  When the heat is stored in chemical form it can be stored almost indefinetly. This lets us **store** the sun's heat on a hot, sunny summer day, then **use** it six months later on a cold, cloudy winter day.
 
 
@@ -52,11 +63,14 @@ There is no fire.  The bottle gets warm, but not hot enough to start a fire. It 
 
 Since there is no smoke, widespread use of this technology would reduce the suffering and deaths of millions of people from respiratory disease. The Global Burden of Disease study estimates that [3.5 million people](https://www.nationalgeographic.com/environment/great-energy-challenge/2012/cookstove-smoke-is-largest-environmental-threat-global-health-study-finds/) die annually from respiratory illness due to burning wood and other biomass.
 
+** efficiency **
+
 # Why is this better than solar photovoltaic panels?
 
-Photovoltaic panels convert sunlight into electricity.  To use the energy on cloudy days, it has to be stored somehow. The energy could be stored in batteries, but they are much more expensive and wear out much faster than the Calcium Chloride.  Photovoltaic panels could be used to recharge the Calcium Chloride, however concentrating solar is about three times more efficient and likely will be much cheaper.
+Photovoltaic panels convert sunlight into electricity.  To use the energy on cloudy days, it has to be stored somehow. The energy could be stored in batteries, but they are much more expensive and wear out much faster than the Calcium Chloride.  Photovoltaic panels could be used to recharge the Calcium Chloride when there is excess supply. However concentrating solar collectors are two to three times more efficient for collecting thermal energy are and likely can be made much cheaper.  It makes sense to use concentrating solar collectors for the 83% of household energy needed for space heating and hot water and photovoltaic panels for powering the electric appliances.
 
-# Suggestions
+[![](/images/cacl2-residential_.jpg)](/images/cacl2-residential.jpg)
+# One idea for a residential system
 
 Chemests, are there other endothermic/exothermic chemical reactions we should consider?
 

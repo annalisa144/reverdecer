@@ -3,7 +3,7 @@ title: How to make coffee off-grid
 date: '2018-07-31 06:00:00'
 image: coffee_.jpg
 tags: camping rv vanlife coffee cooking diy solar kitchen
-categories: food vandwelling
+categories: food solar vandwelling
 layout: post
 ---
 

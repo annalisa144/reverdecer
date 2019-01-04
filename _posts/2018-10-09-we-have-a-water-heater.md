@@ -3,7 +3,7 @@ title: We have a water heater
 date: '2018-10-10 06:00:00'
 image: water_heater.jpg
 tags: permaculture permacultura sustainability water solar graywater greywater natural
-categories: water vandwelling
+categories: water solar vandwelling
 layout: post
 ---
 

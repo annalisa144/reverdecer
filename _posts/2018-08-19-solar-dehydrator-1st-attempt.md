@@ -3,7 +3,7 @@ title: Solar dehydrator, 1st attempt
 date: '2018-08-19 06:00:00'
 image: dehydrator_.jpg
 tags: solar over dehydrator wild edibles vanlife mexico
-categories: food vandwelling
+categories: solar food vandwelling
 layout: post
 ---
 

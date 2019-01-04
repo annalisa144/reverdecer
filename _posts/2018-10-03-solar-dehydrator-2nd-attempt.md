@@ -3,7 +3,7 @@ title: Solar dehydrator, 2nd attempt
 date: '2018-10-02 06:00:00'
 image: dehydrator2_.jpg
 tags: diy solar dehydrator wood screen box drying food camping offgrid
-categories: food vandwelling
+categories: food solar vandwelling
 layout: post
 ---
 

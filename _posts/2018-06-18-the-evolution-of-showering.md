@@ -3,7 +3,7 @@ title: The Evolution of Showering
 date: '2018-06-22 00:00:00'
 image: the_evolution_of_showering_.jpg
 tags: permaculture water shower solar simple living mexico rv vanlife camping
-categories: water vandwelling
+categories: solar water vandwelling
 layout: post
 ---
 

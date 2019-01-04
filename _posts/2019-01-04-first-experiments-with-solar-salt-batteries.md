@@ -2,6 +2,8 @@
 title: First experiments with solar salt batteries
 date: '2019-01-04 06:00:00'
 image: hot-bottle-in-sock_.jpg
+tags: solar
+categories: solar
 layout: post
 ---
 

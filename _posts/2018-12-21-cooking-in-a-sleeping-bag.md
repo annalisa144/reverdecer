@@ -3,7 +3,7 @@ title: Cooking in a sleeping bag
 date: '2018-12-21 06:00:00'
 image: beans_thermos_.jpg
 tags: energy efficient cooking diy rv insulate home improvement solar oven offgrid
-categories: food vandwelling water
+categories: food solar vandwelling water
 layout: post
 ---
 

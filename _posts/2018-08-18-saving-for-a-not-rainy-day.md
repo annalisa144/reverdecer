@@ -2,6 +2,8 @@
 title: Saving for a <strong><em>not</em></strong> rainy day
 date: '2018-08-18 06:00:00'
 image: early_homestead_.jpg
+tags: solar
+categories: solar
 layout: post
 ---
 

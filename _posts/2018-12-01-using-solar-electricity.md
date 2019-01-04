@@ -2,6 +2,8 @@
 title: Using Solar Electricity
 date: '2018-12-05 06:00:00'
 image: three-plugs_.jpg
+tags: vanlife solar energy panels mexico
+categories: solar vandwelling neighborhood
 layout: post
 ---
 

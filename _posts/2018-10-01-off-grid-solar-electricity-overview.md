@@ -2,6 +2,8 @@
 title: Off-grid Solar Electricity Overview
 date: '2018-10-05 01:00:00'
 image: solar-electricity-overview_.jpg
+tags: vanlife solar energy panels mexico
+categories: solar vandwelling neighborhood
 layout: post
 ---
 

@@ -71,15 +71,8 @@ In the real world, plants [convert less than one percent of the available solar 
 
 Photovoltaic panels convert sunlight into electricity.  To use the energy on cloudy days, it has to be stored somehow. The energy could be stored in batteries, but they are much more expensive and wear out much faster than the Calcium Chloride.  Photovoltaic panels could be used to recharge the Calcium Chloride when there is excess supply. However, concentrating solar collectors are two to three times more efficient for collecting thermal energy, and likely can be made much cheaper.  It makes sense to use concentrating solar collectors for the 83% of household energy needed for space heating and hot water, and photovoltaic panels for powering electric appliances.
 
-[![](/images/cacl2-residential_.jpg)](/images/cacl2-residential.jpg)
-# One idea for a residential system
+# Try this at home
 
-1. The Calcium Chloride-water solution is stored in an insulated tank.
-3. The solution is pumped into a concentrating solar collector and heated to over 250 F. 
-2. The steam released from the concentrating solar collector (3) condenses in a heat exchanger (2) and the pure, distilled water is stored in a separate tank (not pictured).
-4. The hot solution drops through a metal screen.
-5. The chunks of solid Calcium Chloride drop into a storage barrel while the hot, concentrated brine flows back into the insulated tank (1).
+If you're snowed in and have a bag of Calcium Chloride ice melt in the garage, try it out.  Keep it out of your eyes, nose, and mouth, kids!
 
-The diagram shows the heat exchanger in the insulated tank (1), but it could first/also go through other heat exhangers, radiators, etc that supply space heating and domestic hot water on sunny days.
-
-Chemists, solar engineers, and tinkerers share your thoughts and experiments in the comments below.
+We'll continue looking for a simple way to dry the salt with solar energy. Chemists, solar engineers, and tinkerers share your thoughts and experiments in the comments below.

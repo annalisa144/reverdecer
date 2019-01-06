@@ -78,3 +78,5 @@ Photovoltaic panels convert sunlight into electricity.  To use the energy on clo
 If you're snowed in and have a bag of Calcium Chloride ice melt in the garage, try it out.  Keep it out of your eyes, nose, and mouth, kids!
 
 We'll continue looking for a simple way to dry the salt with solar energy. Chemists, solar engineers, and tinkerers share your thoughts and experiments in the comments below.
+
+[Guess what else we're doing with salt?](https://reverdecer.annalisagross.com/2019/01/05/mexico-meets-korea/)

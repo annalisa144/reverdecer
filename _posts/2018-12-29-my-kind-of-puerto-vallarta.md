@@ -21,6 +21,6 @@ We came primarily to escape Morelia's cold nights, which are just above freezing
 
 [![](/images/kittens_cuddle_.jpg){:width="60%"}](/images/kittens_cuddle.jpg)
 
-More on Puerto Vallarta in following posts. [Read about Playa Destiladeras](https://reverdecer.annalisagross.com/2018/12/30/playa-destiladeras/) our favorite beach, a [general beach review](https://reverdecer.annalisagross.com/2019/01/01/beaches-of-puerto-vallarta/), and [our favorite meals](https://reverdecer.annalisagross.com/2018/12/31/eating-in-puerto-vallarta/).
+More on Puerto Vallarta in following posts. [Read about Playa Destiladeras](https://reverdecer.annalisagross.com/2018/12/30/playa-destiladeras/) our favorite beach, a [general beach review](https://reverdecer.annalisagross.com/2019/01/01/beaches-of-puerto-vallarta/), [the parish church](https://reverdecer.annalisagross.com/2019/01/06/our-ladys-homes/), and [our favorite meals](https://reverdecer.annalisagross.com/2018/12/31/eating-in-puerto-vallarta/).
 
 [![](/images/mosaic_pv_.jpg){:width="60%"}](/images/mosaic_pv.jpg)

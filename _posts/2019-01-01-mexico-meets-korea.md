@@ -22,3 +22,5 @@ Fermenting foods is quite rare in Mexico. Drinks, sure, but not vegetables. Our 
 Like most things, it's harder to do in an outdoor kitchen with limited supplies and no standard plumbing. But the jars seem to have been clean enough because we don't have anything suspicious growing in our kimchi!
 
 | [![](/images/kimchiprep3_.jpg)](/images/kimchiprep3.jpg) | [![](/images/kimchi2_.jpg)](/images/kimchi2.jpg) |
+
+[Guess what else we're doing with salt?](https://reverdecer.annalisagross.com/2019/01/04/first-experiments-with-solar-salt-batteries/)

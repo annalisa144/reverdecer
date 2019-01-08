@@ -13,7 +13,7 @@ We happily joined our friends for a week in beachside Puero Vallarta. Friendly, 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ntvGc8GX7uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-The beaches are stunning and we're enchanted by mountains in every direction. Our favorite part of Puerto Vallarta might actually be the river walk trail that we take every morning to the beach.
+The beaches are stunning and we're enchanted by mountains in every direction. Our favorite part of Puerto Vallarta might actually be [the river walk trail that we take every morning to the beach.](https://reverdecer.annalisagross.com/2019/01/08/walking-the-river-to-the-sea/)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/61I8ijg2KjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

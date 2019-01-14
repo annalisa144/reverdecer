@@ -1,7 +1,10 @@
 ---
-date: '2019-01-14 06:00:00'
-layout: post
 title: Brick city by drone
+date: '2019-01-14 06:00:00'
+image: brick_city3_.jpg
+tags: vanlife mexico hiking construction growing expanding
+categories: neighborhood
+layout: post
 ---
 
 After we moved to El Terreno in April, a brick-building city war born on the neighboring hillside. It's expanding. You can [read more about it and see closer-up photos here.](https://reverdecer.annalisagross.com/2018/09/03/brick-city/)

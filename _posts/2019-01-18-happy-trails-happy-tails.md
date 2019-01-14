@@ -1,6 +1,6 @@
 ---
 title: Happy trails, happy tails
-date: '2019-01-16 06:00:00'
+date: '2019-01-24 06:00:00'
 image: luna_tired_.jpg
 tags: vanlife mexico pets whippet iggy xolo pit bull terrier hiking
 categories: dogs neighborhood

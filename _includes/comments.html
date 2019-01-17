@@ -46,10 +46,19 @@
 
 
         function beforeSubmit() {
+
             //disable button while sending
             var submitBtn = document.getElementById("submit");
             submitBtn.disabled = true;
             submitBtn.value = "Sending...";
+
+            // check validity
+            var isValidForm = document.forms['commentForm'].checkValidity();
+            if (!isValidForm) {
+                submitBtn.disabled = false;
+                submitBtn.value = "Submit";
+                return false;
+            }
 
             const date = new Date();
             const unixTime = Math.floor(date.getTime() / 1000);
@@ -99,10 +108,10 @@
 
     </script>
   <h3>Post a comment:</h3>
-  <form>
+  <form id="commentForm">
     <div>
       <legend>Name</legend>
-      <input name="thename" id="thename" type="text" value="">
+      <input name="thename" id="thename" type="text" required>
     </div>
     <div>
       <legend>Website (optional)</legend>

@@ -1,10 +1,10 @@
 ---
-date: '2019-01-28 06:00:00'
+title: Roaming the drylands
+date: '2019-02-02 06:00:00'
 image: puki_tired_.jpg
 tags: expanding growing building hiking michoacan drones
 categories: neighborhood dogs morelia
 layout: post
-title: Roaming the drylands
 ---
 
 We have [freedom to roam out here](https://reverdecer.annalisagross.com/2018/07/22/the-right-to-roam/), and I'm learning to see the beauty in this dry landscape.

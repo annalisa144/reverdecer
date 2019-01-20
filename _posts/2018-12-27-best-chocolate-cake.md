@@ -9,7 +9,7 @@ layout: post
 
 **Cake**
 
-* 1 cup flour
+* 1 cup flour (above picture was version with oats, slightly ground, can use ground nuts...of course, white wheat or cake flour offer the lightest texture)
 * 1/2 t baking soda
 * 1/2 t salt
 * 1/2+ c stout beer

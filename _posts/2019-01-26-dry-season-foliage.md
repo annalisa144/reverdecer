@@ -18,6 +18,8 @@ What are your survival strategies this winter?
 * Sleeping in til the sun finally appears
  
  We'd been looking forward to house/dog-sitting for Stan and Edith for two weeks this winter, for the hot showers, full kitchen, easier access to the city. And those have been perks!
+
+ [![](/images/city_nap_.jpg){:width="40%"}](/images/city_nap.jpg)
  
  We're trying different sleep strategies each night, since between four dogs, we're up too often tending to needs (or just from the noise). So much for finally catching up on sleep...
  

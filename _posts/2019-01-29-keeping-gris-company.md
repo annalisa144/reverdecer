@@ -19,7 +19,15 @@ For me, it's a bed that we all fit in, and that Max generally can get in and out
 
 Especially because [when we moved back](https://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/) Sunday, we found a large wound on the inside of one of his back legs. Looks like something chased him and got ahold of him. The rest of him looks okay. I had spent most of Saturday with him, so we know when it happened. But not where - the shed is dog-proof, but could a mean cat be after him? Doubtful, so Phillip reinforced the fence along the horse farm, since one of their dogs comes over sometimes.
 
-Gris was quite relieved to limp into the van upon its return, and now we have a special Gris-only section in the front. I swore I'd never have a litter box in the van, but it was easy to change that plan. 
+| [![](/images/gris_heal_.jpg)](/images/gris_heal.jpg) | [![](/images/gris_heal2_.jpg)](/images/gris_heal2.jpg) |
+
+Gris was quite relieved to limp into the van upon its return and sleep in safety, and now we have a special Gris-only section in the front. I swore I'd never have a litter box in the van, but it was easy to change that plan. 
+
+| [![](/images/cat_van_.jpg)](/images/cat_van.jpg) | [![](/images/cat_van2_.jpg)](/images/cat_van2.jpg) |
+
+Our dogs could get into those spaces going over the seats, but ours won't bother.
+
+| [![](/images/cat_van3_.jpg)](/images/cat_van3.jpg) | [![](/images/cat_van4_.jpg)](/images/cat_van4.jpg) |
 
 We [keep watching and listening for the stealthy Fly](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), but each day that goes by seems to seal her fate. Maybe whatever bit Gris got her? But when we were in the US for a month they had no injuries at all - it's a mystery.
 

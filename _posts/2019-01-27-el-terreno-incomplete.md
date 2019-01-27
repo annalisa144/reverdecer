@@ -13,7 +13,7 @@ We've been house/dog-sitting in the city, so our vanlife is on hold. The dogs ar
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jzVXR1hQrds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-But something went wrong while we were gone, and we haven't seen kitten Fly in more than a week. Gris is miserable, I assume with grief and loneliness. So we're going out every day to keep him company. He follows us around and cuddles more than ever. *Pobrecito*
+But something went wrong while we were gone, and [we haven't seen kitten Fly in more than a week](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/). Gris is miserable, I assume with grief and loneliness. So we're going out every day to keep him company. He follows us around and cuddles more than ever. *Pobrecito*
 
 
 We brought the van in to Stan's neighborhood for security, so when we head out to El Terreno we just have the kitchen area to hang out in. And the kitchen is no good for cuddling. The first day Max and Gris tried to share my lap, and it just didn't work.

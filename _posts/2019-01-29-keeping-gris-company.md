@@ -13,11 +13,15 @@ Isn't it a gift to return to "normal" life and be grateful for small blessings?
 
 For me, it's a bed that we all fit in, and that Max generally can get in and out of without help.
 
-[With Fly gone](http://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/), half of us moved back to El Terreno to keep Gris company. Certainly cats are more independent than dogs, but an 8-month-old kitty is not happy living alone on this 1.5 acre.
+[With Fly gone](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), half of us moved back to El Terreno to keep Gris company. Certainly cats are more independent than dogs, but an 8-month-old kitty is not happy living alone on this 1.5 acre.
 
 [![](/images/gris_alone_.jpg){:width="90%"}](/images/gris_alone.jpg)
 
-We [keep watching and listening for that stealthy minx](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), but each day that goes by seems to seal Fly's fate.
+Especially because [when we moved back](https://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/) Sunday, we found a large wound on the inside of one of his back legs. Looks like something chased him and got ahold of him. The rest of him looks okay. I had spent most of Saturday with him, so we know when it happened. But not where - the shed is dog-proof, but could a mean cat be after him? Doubtful, so Phillip reinforced the fence along the horse farm, since one of their dogs comes over sometimes.
+
+Gris was quite relieved to limp into the van upon its return, and now we have a special Gris-only section in the front. I swore I'd never have a litter box in the van, but it was easy to change that plan. 
+
+We [keep watching and listening for the stealthy Fly](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), but each day that goes by seems to seal her fate. Maybe whatever bit Gris got her? But when we were in the US for a month they had no injuries at all - it's a mystery.
 
 | [![](/images/gris_cuddle_.jpg)](/images/gris_cuddle.jpg) | [![](/images/gris_cuddle2_.jpg)](/images/gris_cuddle2.jpg) |
 

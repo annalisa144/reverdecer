@@ -19,8 +19,8 @@ For me, it's a bed that we all fit in, and that Max generally can get in and out
 
 We [keep watching and listening for that stealthy minx](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), but each day that goes by seems to seal Fly's fate.
 
-| [![](/images/gris_snuggle_.jpg)](/images/gris_snuggle.jpg) | [![](/images/gris_snuggle2_.jpg)](/images/gris_snuggle2.jpg) |
+| [![](/images/gris_cuddle_.jpg)](/images/gris_cuddle.jpg) | [![](/images/gris_cuddle2_.jpg)](/images/gris_cuddle2.jpg) |
 
-Oh the sacrifices we make for our dependant loved-ones! I miss Phillip, but we've both been tense and mopey, worrying about the kitties. Good to help Gris hold down the fort.
+Oh the sacrifices we make for our beloved dependants! I miss Phillip, but we've both been tense and mopey, worrying about the kitties. Good to help Gris hold down the fort.
 
 [![](/images/cuddle_fest3_.jpg){:width="90%"}](/images/cuddle_fest3.jpg)

@@ -30,3 +30,23 @@ If only nursing moms could survive on weeds - we see so many skeletal dogs in Me
 [![](/images/hungry_mom_.jpg){:width="60%"}](/images/hungry_mom.jpg)
 
 We celebrate with our neighbors that [Tostada and Guayaba](https://reverdecer.annalisagross.com/2018/12/04/saying-goodbye-to-booker/) are now sterilized - no new puppies in this stretch of Monico Arias!
+
+A few weeks ago a dog lashed out at us as we biked to [Cafe Gabi's for coffee](https://reverdecer.annalisagross.com/2018/11/17/cheap-eats/), right at a corner, and of course, not on a paved road (so extra dangerous for bike maneuvers). Dogs that get in biting range when I'm on a bike *freak me out* because they're risking life and limb to intimidate.
+
+On our way home I decided to just walk my bike so at least I wouldn't fall if he came at me again. At walking pace I could see how this gorgeous brown dog (looks like our cousin-dog Bailey, so maybe part German pointer, part lab?) was a mere sketelon. I decided to make friends and try to help.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CLpUedYJggE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*(The corner with horse, before skinny dog)*
+
+I've been going back with food and treats every once in awhile, and this shy dog never barks, just appears out of nowhere when I reach the corner, sky and scared, and eats anything I put down. One day I almost got him to come to our house by tossing food every few meters (probably good I didn't succeed, as Tostado and Guayaba were in heat then).
+
+The last time I went I didn't see him, but talked to the neighbor (who I'd met before when he helped me get my bike over the ravine - I can't pull off [Phillip's trick](https://reverdecer.annalisagross.com/2018/08/25/muddy-ride/)). Turns out the dog is Sparky, and Rodrigo says he's fine, just skinny. Nah, this dog has parasites or something. But he also has a family, so I'll back off.
+
+During our conversation, Rodrigo asked how many kids I have, which is a fun cultural difference. In India, Palestine, or some parts of the US, too, people ask "are you married?" and other family questions, but don't ask "what kind of work do you do?" -- which is the first question my home culture asks when getting to know one another.
+
+Rodrigo agreed that there are many children in the world who need homes, and seemed to wholeheartedly accept that we're having adventures now, and might adopt some time in the future. Ezekiel, whose cab I rode in recently, also seemed to think that's a good plan. In the meantime, he drives day and night to feed his four kids, he said.
+
+I believe it! While we happily enjoy cheaper avocados, restaurants, and coffee in Mexico, we notice that the cost of living isn't low enough here to compensate for how low wages are. Even without a [gas shortage](https://reverdecer.annalisagross.com/2019/01/21/getting-gas/), fuel is actually more expensive than in most parts of the US, as are new cars, good chocolate and many electronics.
+
+[![](/images/furniture_truck2_.jpg){:width="60%"}](/images/furniture_truck2.jpg)

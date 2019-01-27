@@ -27,7 +27,7 @@ Gris was quite relieved to limp into the van upon its return and sleep in safety
 
 Our dogs could get into those spaces going over the seats, but ours won't bother.
 
-| [![](/images/cat_van3_.jpg)](/images/cat_van3.jpg) | [![](/images/cat_van4_.jpg)](/images/cat_van4.jpg) |
+| [![](/images/cat_van4_.jpg)](/images/cat_van4.jpg) | [![](/images/cat_van3_.jpg)](/images/cat_van3.jpg) |
 
 We [keep watching and listening for the stealthy Fly](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/), but each day that goes by seems to seal her fate. Maybe whatever bit Gris got her? But when we were in the US for a month they had no injuries at all - it's a mystery.
 

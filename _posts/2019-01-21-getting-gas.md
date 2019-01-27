@@ -32,7 +32,7 @@ And check out this fun load!
 
 [![](/images/circus_truck_.jpg){:width="60%"}](/images/circus_truck.jpg)
 
-The gas shortage is part of a dangerous crime system which (as usual) hurts poor people. And [nearly 70 are dead, over 70 injured, after a pipeline explosion in Hidalgo.](https://mexiconewsdaily.com/news/66-dead-76-injured-after-explosion/) Someone illegally tapped the pipeline, and after hours of gleeful gathering by locals, some spark within the geyser's vicinity turned the area to flames.
+The gas shortage is part of a dangerous crime system which (as usual) hurts poor people. And [nearly 70 are dead, over 70 injured, after a pipeline explosion in Hidalgo.*](https://mexiconewsdaily.com/news/66-dead-76-injured-after-explosion/) Someone illegally tapped the pipeline, and after hours of gleeful gathering by locals, some spark within the geyser's vicinity turned the area to flames.
 
 Illegal tapping is the cause in at least two ways. This gas shortage is the result of new president AMLO's crackdown *on illegal pipeline tapping.* He closed many of the pipelines so much of the country's gas is now delivered by trucks (guarded by military escort). Apparently the Mexican government loses billions of dollars worth of gas to illegal pipeline tapping (over 1000 per **month**) and there have been other explosions - so of course AMLO wants to do something about it.
 
@@ -44,4 +44,6 @@ I've read rude [comments saying these people deserved it, since they were being 
  
 Others like to blame AMLO, but this also seems unfair - he's trying to make a horrible situation less horrible, and that never seems to happen without making more messes along the way.
 
-The problem is big and dense, deeply entrenched corruption and crime. This weakens the country and undermines honest leaders. It drains hope and creativity from the people. Nearly 70 died yesterday and today, I'm confident at least that many people are trying to illegally tap pipelines today.
+The problem is big and dense, deeply entrenched corruption and crime. This weakens the country and undermines honest leaders. It drains hope and creativity from the people. Over 100 died yesterday and today, I'm confident at least that many people are trying to illegally tap pipelines today. But others, who saw their loved ones burned alive, are [reporting taps to Pemex](https://mexiconewsdaily.com/news/pipeline-blast-death-toll-109/), choosing safety over a little cash.
+
+[*Now the death toll is over 100](https://mexiconewsdaily.com/news/a-debate-rages-about-the-cause-of-the-tragedy/)

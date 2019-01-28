@@ -31,7 +31,7 @@ A traditional mattress is most comfortable on our [metal frame bed](https://reve
 
 We used [inflatable sleeping pads for months](https://www.amazon.com/gp/product/B0776VP23C/ref=as_li_tl?ie=UTF8&tag=annalisa144-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0776VP23C&linkId=41acd63817e50c8702a7450701341cba), and even though Phillip occasionally had to patch a hole, we were generally comfortable. I'd expected them to slide over each other and require frequent resituating, but this wasn't a problem. They were expensive and high-quality (and would have been worth it).
 
-[![](/images/cat_nap_.jpg){:width="60%"}](/images/cat_nap.jpg)
+[![](/images/catnap_.jpg){:width="60%"}](/images/catnap.jpg)
 
 The kittens pounced into our lives and soon Phillip was patching every day - but the slippery side of the pads doesn't hold a patch. Eventually we couldn't keep the pads blown-up for 8 hours, and we started over.
 

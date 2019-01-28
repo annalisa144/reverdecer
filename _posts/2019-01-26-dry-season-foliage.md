@@ -25,11 +25,11 @@ What are your survival strategies this winter?
  
  [![](/images/fly_light_.jpg){:width="40%"}](/images/fly_light.jpg)
  
- The worst part is that we haven't seen Fly since the evening we left, now 8 days ago. We've thought through all the possibilities (even checking the van again and again, to see if she silently stowed-away with us into the city) and it seems clear that she's dead. If she was alive, she'd come home - this is a dry and dangerous environment, full of predator dogs and birds.
+The worst part is that we haven't seen [Fly](https://reverdecer.annalisagross.com/2018/09/23/fly/) since the evening we left, now 8 days ago. We've thought through all the possibilities (even checking the van again and again, to see if she silently stowed-away with us into the city) and it seems clear that she's dead. If she was alive, she'd come home - this is a dry and dangerous environment, full of predator dogs and birds.
  
 [![](/images/fly_wall_.jpg){:width="40%"}](/images/fly_wall.jpg)
 
-Did she fall when hunting birds from the wall, and injured, become a dog toy? The saddest part now is Gris, who is desperate for attention every time we go out to the land (which we're doing every day now, for him and to keep watch for Fly). Tomorrow one of us will start sleeping out there again, because the low will only be 40F.  Gris shouldn't be alone - and we're reminded of some perks of our vanlife, how well it works for our dogs (e.g. Max never poops "inside" there!) - and it's not like we're sleeping much in the city anyway!
+Did she fall when hunting birds from the wall, and injured, become a dog toy? The saddest part now is Gris, who is desperate for attention every time we go out to the land (which we're doing every day now, for him and to keep watch for Fly). [Tomorrow one of us will start sleeping out there again](https://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/), and the low will only be 40F.  Gris shouldn't be alone - and we're reminded of some perks of our vanlife, how well it works for our dogs (e.g. Max never poops "inside" there!) - and it's not like we're sleeping much in the city anyway!
 
 [![](/images/foliage2_.jpg){:width="60%"}](/images/foliage2.jpg)
 

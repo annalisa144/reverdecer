@@ -37,8 +37,18 @@ The kittens pounced into our lives and soon Phillip was patching every day - but
 
 At 4", [this mattress topper](https://www.amazon.com/gp/product/B071JGCCY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071JGCCY4&linkCode=as2&tag=annalisa144-20&linkId=89a15d2144602cea710f7415631c3c41) sounded like it would be thick enough to use as a mattress. Phillip is comfortable, but I notice the tines of the bed frame sometimes. But cats can't deflate it and it stays in place as a couch, with occasional yanks (like you'd do with a futon pad in couch position).
 
+Turns out the mattress isn't really a full queen (see video below - it never grew to size)? Or not the same queen-size we've had before? Because there are gaps on the sides and top and/or bottom, which worries me for Max, since he might end up breaking a leg getting in and out (think about him sliding through that bedframe). 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6LpbsYQKuhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+But we've had it for months without injury.
+
 [![](/images/dog_bed_.jpg){:width="60%"}](/images/dog_bed.jpg)
 
 A [mattress cover](https://www.amazon.com/gp/product/B01JIV5YES/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JIV5YES&linkCode=as2&tag=annalisa144-20&linkId=5e1d46b315ed884fd7c92499d7f48fd6) as an overall bed cover makes a big difference with all our muddy paws, Max's poopy butt, Hannah's dirty face (from burying bones)....
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rNN-iPX9i1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This won't last forever.
 
 [![](/images/cuddle_fest_.jpg){:width="60%"}](/images/cuddle_fest.jpg)

@@ -13,7 +13,7 @@ But now we're keeping a [sourdough starter](http://reverdecer.annalisagross.com/
 
 We're still using some storebought yeast, too, though maybe as our sourdough matures we could stop - anyone have experience with that?
 
-Our previous pizza dough recipe made about 8 batches at once, which is convenient since they freeze well. But now we're doing one big pizza at a time, something like this:
+Our [previous pizza dough recipe](https://reverdecer.annalisagross.com/2018/09/10/pizza-on-the-grill/) made about 8 batches at once, which is convenient since they freeze well. But now we're doing one big pizza at a time, something like this:
 
 * 1 cup sourdough starter, unfed/discard
 * 1/2 cup warm water

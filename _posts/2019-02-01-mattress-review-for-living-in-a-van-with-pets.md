@@ -1,6 +1,6 @@
 ---
 title: Mattress review for living in a van with pets
-date: '2019-02-01 06:00:00'
+date: '2019-01-31 06:00:00'
 image: kittens_cuddle_.jpg
 tags: vanlife kittens bed mattress sleep pets claws review couch convert
 categories: cats dogs vandwelling

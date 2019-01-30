@@ -1,13 +1,13 @@
 ---
 title: Fly catching
-date: '2019-02-15 06:00:00'
+date: '2019-02-01 06:00:00'
 image: fly_trap_header_.jpg
 tags: bugs insects fly traps camping
 categories: pests vandwelling
 layout: post
 ---
 
-[Our favorite fly-catcher](https://reverdecer.annalisagross.com/2018/09/23/fly/) was named for that skill. [We miss Fly!](https://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/)
+[Our favorite fly-catcher](https://reverdecer.annalisagross.com/2018/09/23/fly/) was named for that skill. [We are so glad she's back! Though we didn't catch Fly; she just appeared](https://reverdecer.annalisagross.com/2019/01/27/el-terreno-incomplete/)
 
 [![](/images/fly_kitchen_.jpg){:width="60%"}](/images/fly_kitchen.jpg)
 

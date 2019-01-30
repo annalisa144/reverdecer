@@ -1,6 +1,6 @@
 ---
 title: Winter weeds
-date: '2019-01-30 06:00:00'
+date: '2019-02-03 06:00:00'
 image: buckhorn2.jpg
 tags: wild edibles weeds permaculture sustainability gleaning foraging
 categories: vandwelling plants

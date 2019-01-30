@@ -19,6 +19,8 @@ Mainly we traumatized him, in an already terrible week, but the harness will be 
 
 | [![](/images/gris_harness_.jpg)](/images/gris_harness.jpg) | [![](/images/gris_harness2_.jpg)](/images/gris_harness2.jpg) |
 
+(Phillip is about to nibble on Gris' ears because he's so sweet - yes, both hims are so sweet!)
+
 That night (last night) Phillip finally took Gris home to chill, and who was waiting? Fly!! No apparent injury, no blood, and she climbed up into the net to sleep. Wow. Thank you. Weird. Phew. Huh. Purrrrrrr.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mwILv_y8M28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

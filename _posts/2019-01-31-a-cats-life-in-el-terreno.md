@@ -2,7 +2,7 @@
 title: A Cat's Life in El Terreno
 date: '2019-01-30 06:00:00'
 image: cats_watch_.jpg
-tags: vanlife with pets kittens
+tags: vanlife with pets kittens reunion lost and found
 categories: cats
 layout: post
 ---
@@ -16,6 +16,8 @@ We are still dog/house-sitting for Stan & Edith and keep noticing Fly-look-alike
 Finally we bought Gris a harness and brought him to the neighborhood, thinking he might attract her, or at least if we could see him with any of the black kittens, we could determine Fly/not-Fly from their interaction.
 
 Mainly we traumatized him, in an already terrible week, but the harness will be useful on our roadtrip back to Indiana in April!
+
+| [![](/images/gris_harness_.jpg)](/images/gris_harness.jpg) | [![](/images/gris_harness2_.jpg)](/images/gris_harness2.jpg) |
 
 That night (last night) Phillip finally took Gris home to chill, and who was waiting? Fly!! No apparent injury, no blood, and she climbed up into the net to sleep. Wow. Thank you. Weird. Phew. Huh. Purrrrrrr.
 

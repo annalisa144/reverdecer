@@ -11,9 +11,9 @@ El Terreno has been [hard on our cats](http://reverdecer.annalisagross.com/2019/
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrwdyNRKDFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We are still dog/house-sitting for Stan & Edith and keep noticing Fly-look-alikes in their neighborhood. So maybe she *did* stowaway with us somehow?! We've spent hours trying to coax all the black kittens to us with food. Two look a lot like Fly, but we never quite managed to pick them up. 
+We are still dog/house-sitting for Stan & Edith and keep noticing [Fly](https://reverdecer.annalisagross.com/2018/09/23/fly/)-look-alikes in their neighborhood. So maybe she *did* stowaway with us somehow?! We've spent hours trying to coax all the black kittens to us with food. Two look a lot like Fly, but we never quite managed to pick them up. 
 
-Finally we bought Gris a harness and brought him to the neighborhood, thinking he might attract her, or at least if we could see him with any of the black kittens, we could determine Fly/not-Fly from their interaction.
+Finally we bought [Gris](https://reverdecer.annalisagross.com/2018/09/22/gris/) a harness and brought him to the neighborhood, thinking he might attract her, or at least if we could see him with any of the black kittens, we could determine Fly/not-Fly from their interaction.
 
 Mainly we traumatized him, in an already terrible week, but the harness will be useful on our roadtrip back to Indiana in April!
 

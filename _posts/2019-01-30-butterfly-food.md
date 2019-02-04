@@ -40,7 +40,7 @@ On our way home I decided to just walk my bike so at least I wouldn't fall if he
 
 *(The corner with horse, before skinny dog)*
 
-I've been going back with food and treats every once in awhile, and this shy dog never barks, just appears out of nowhere when I reach the corner, sky and scared, and eats anything I put down. One day I almost got him to come to our house by tossing food every few meters (probably good I didn't succeed, as Tostado and Guayaba were in heat then).
+I've been going back with food and treats every once in awhile, and this shy dog never barks, just appears out of nowhere when I reach the corner, shy and scared, and eats anything I put down. One day I almost got him to come to our house by tossing food every few meters (probably good I didn't succeed, as Tostado and Guayaba were in heat then).
 
 The last time I went I didn't see him, but talked to the neighbor (who I'd met before when he helped me get my bike over the ravine - I can't pull off [Phillip's trick](https://reverdecer.annalisagross.com/2018/08/25/muddy-ride/)). Turns out the dog is Sparky, and Rodrigo says he's fine, just skinny. Nah, this dog has parasites or something. But he also has a family, so I'll back off.
 

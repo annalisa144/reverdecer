@@ -1,6 +1,7 @@
 ---
 title: Butterfly food and babies
 date: '2019-02-04 06:00:00'
+image: san_antonio_beans_.jpg
 tags: monarch migration caterpillar nectar pollinator wildflowers weeds flora fauna
   mexico michoacan
 categories: neighborhood plants dogs
@@ -31,7 +32,7 @@ If only nursing moms could survive on weeds - we see so many skeletal dogs in Me
 
 We celebrate with our neighbors that [Tostada and Guayaba](https://reverdecer.annalisagross.com/2018/12/04/saying-goodbye-to-booker/) are now sterilized - no new puppies in this stretch of Monico Arias!
 
-A few weeks ago a dog lashed out at us as we biked to [Cafe Gabi's for coffee](https://reverdecer.annalisagross.com/2018/11/17/cheap-eats/), right at a corner, and of course, not on a paved road (so extra dangerous for bike maneuvers). Dogs that get in biting range when I'm on a bike *freak me out* because they're risking life and limb to intimidate.
+A few weeks ago a dog lunged out at us as we biked to [Cafe Gabi's for coffee](https://reverdecer.annalisagross.com/2018/11/17/cheap-eats/). He barked ferociously, inches from our skin. This was at a corner, and of course, not on a paved road (so extra dangerous for bike maneuvers). Dogs that get in biting range when I'm on a bike *freak me out* because they're risking life and limb to intimidate.
 
 On our way home I decided to just walk my bike so at least I wouldn't fall if he came at me again. At walking pace I could see how this gorgeous brown dog (looks like our cousin-dog Bailey, so maybe part German pointer, part lab?) was a mere sketelon. I decided to make friends and try to help.
 
@@ -50,3 +51,5 @@ Rodrigo agreed that there are many children in the world who need homes, and see
 I believe it! While we happily enjoy cheaper avocados, restaurants, and coffee in Mexico, we notice that the cost of living isn't low enough here to compensate for how low wages are. Even without a [gas shortage](https://reverdecer.annalisagross.com/2019/01/21/getting-gas/), fuel is actually more expensive than in most parts of the US, as are new cars, good chocolate and many electronics.
 
 [![](/images/furniture_truck2_.jpg){:width="60%"}](/images/furniture_truck2.jpg)
+
+Teachers in our state of Michoacan haven't been paid in months - no politician standoff government shutdown, the state and federal government say they simply don't have the money. [Teachers shut down rail lines with clear demands.](https://reverdecer.annalisagross.com/2019/01/28/demonstration-season/) I wonder what sacrifices these families have made, and are making, as life continues to cost money.

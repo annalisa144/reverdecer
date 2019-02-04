@@ -76,8 +76,8 @@ berries are very soft and the wine is
 quite syrupy. Remove from the heat 
 and sieve the mix, pressing the seeds to 
 remove all the juice. This mix should be 
-a little less than a 1/4 cup. (I was too lazy 
-and just smooshed the berries.)
+a little less than a 1/4 cup. *(I was too lazy 
+and just smooshed the berries.)*
 
 7. Cream the butter well and gradually 
 add the confectioner's sugar. Add the 
@@ -87,3 +87,14 @@ soft.
 8. Ice, then decorate with berries.
 
 [![](/images/blackberry_cake5_.jpg){:width="60%"}](/images/blackberry_cake5.jpg)
+
+*Update*
+On the second baking (in a house with an oven!) I tried much less cocoa - not the measly 2 T of the original recipe, but perhaps 4T. See how much lighter the cake is?
+
+[![](/images/blackberry_cake7_.jpg){:width="60%"}](/images/blackberry_cake7.jpg)
+
+Somehow I also used way less sweetener, and the cake came out tasting more like bread than cake! So I added cream cheese to the icing to thicken it (tastes and looks fabulous) and turned it into a layer cake. This means a higher icing:cake ratio, so it turns back into dessert. I prefer our original version, but this is delicious too!
+
+[![](/images/blackberry_cake6_.jpg){:width="60%"}](/images/blackberry_cake6.jpg)
+
+You might be able to tell that I used a blender for the icing on this round, and the texture is great. I didn't bother straining out seeds for either cake - why bother when putting fresh (seed-filled) berries on the cake?

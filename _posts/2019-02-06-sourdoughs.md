@@ -23,6 +23,8 @@ Think of the Alaskan explorers who kept their sourdough starters alive by taking
 
 [Adding sourdough starter to pizza dough works fabulously.](http://reverdecer.annalisagross.com/2019/02/10/sourdough-pizza/)
 
+And our sourdough brownies are excellent - so moist.
+
 [![](/images/sourdough_loaf_.jpg){:width="60%"}](/images/sourdough_loaf.jpg)
 
 The first bread loves I made with this starter was something like:

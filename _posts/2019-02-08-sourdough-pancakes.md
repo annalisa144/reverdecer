@@ -18,3 +18,5 @@ The dogs like them as much as ever!
 I turned down this sourdough road for the sake of pancakes. Since we eat them so often, I want our bodies to benefit! Soaking nuts and grains unlocks nutrients and improves digestability. Soaking our pancake batter all night long (without eggs or milk) made sense. And what happens when you leave wet grains around? Life!
 
 Next evolution, up the veggie factor ala Sandor Katz's Savory Vegetable Sourdough Pancakes. He uses as much --or more- veggie as grain, while we've been doing about 2:3 ratio of veggie to grain. Now I'm looking forward to receiving your unwanted zucchini next summer! We'll grate and pancake it!
+
+Other sourdough experiments:

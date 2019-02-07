@@ -23,7 +23,9 @@ Think of the Alaskan explorers who kept their sourdough starters alive by taking
 
 [Adding sourdough starter to pizza dough works fabulously.](http://reverdecer.annalisagross.com/2019/02/10/sourdough-pizza/)
 
-And our sourdough brownies are excellent - so moist.
+And [our sourdough brownies](http://reverdecer.annalisagross.com/2019/02/10/more-brownies-now-sourdough/) are excellent - so moist.
+
+I might make [sourdough lasagna noodles](http://reverdecer.annalisagross.com/2019/02/25/sourdough-lasagna-noodles/) again, but probably not while we're living in a van. Back to bread:
 
 [![](/images/sourdough_loaf_.jpg){:width="60%"}](/images/sourdough_loaf.jpg)
 
@@ -49,3 +51,5 @@ Delicious! On day two we used the toaster, but the bread was good either way. Ev
 [![](/images/sourdough_breakfast_.jpg){:width="60%"}](/images/sourdough_breakfast.jpg)
 
 Finally (for now), using kombucha as water in these recipes works, too, and the sourdough is lively.
+
+Since then, I've added oats and nutflours to our bread loaves. A blend of about 1/2 wheat and 1/2 other things works well.

@@ -46,10 +46,22 @@ And they were! And they easily became two loaves again.
 
 [![](/images/sourdough_slice_.jpg){:width="60%"}](/images/sourdough_slice.jpg)
 
-Delicious! On day two we used the toaster, but the bread was good either way. Even good plain! Though most things are better with jam, or goat cheese and pear.
+Delicious! On day two we toasted slices, but the bread was good cold, too--even good plain! Though most things are better with jam, or goat cheese and pear.
 
 [![](/images/sourdough_breakfast_.jpg){:width="60%"}](/images/sourdough_breakfast.jpg)
 
 Finally (for now), using kombucha as water in these recipes works, too, and the sourdough is lively.
 
 Since then, I've added oats and nutflours to our bread loaves. A blend of about 1/2 wheat and 1/2 other things works well.
+
+I realize that measuring will be a good idea when making sourdough, since bread dough can seem too sticky/wet at first, but with enough kneading turn out okay. But my inclination is to add flours, and then the bread gets heavy.
+
+[![](/images/sourdough_loaves_pre_.jpg){:width="60%"}](/images/sourdough_loaves_pre.jpg)
+
+*before baking*
+
+I'll experiment with proving vessels and a steam plan for the grill. If we're going to go sourdough, let's really enjoy it!
+
+[![](/images/sourdough_loaves_post_.jpg){:width="60%"}](/images/sourdough_loaves_post.jpg)
+
+*after baking, no impressive crust or rising...yet*

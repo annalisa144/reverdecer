@@ -1,6 +1,6 @@
 ---
 title: Sourdough pancakes
-date: '2019-02-07 06:00:00'
+date: '2019-02-10 06:00:00'
 tags: ferments sourdough culture living grains hearty healthy nutritious breakfast
 categories: food vandwelling
 layout: post

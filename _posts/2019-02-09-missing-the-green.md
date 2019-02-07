@@ -1,6 +1,6 @@
 ---
 title: Missing the green
-date: '2019-02-08 06:00:00'
+date: '2019-02-07 06:00:00'
 image: looking_ne_.jpg
 tags: dry season winter mild mexico michoacan thirsty semi arid
 categories: plants neighborhood

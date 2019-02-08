@@ -41,4 +41,6 @@ What a mess.
 
 [![](/images/mud_mess3_.jpg){:width="60%"}](/images/mud_mess3.jpg)
 
+[Then the van got stuck (broke down) *after leaving the mechanic!*](https://reverdecer.annalisagross.com/2018/10/31/van-woes-and-wins-in-mexico/)
+
 Update: we're semi-stuck in Little Rock now, but not mud [(van still isn't really fixed).](http://reverdecer.annalisagross.com/2018/10/23/going-camping/)

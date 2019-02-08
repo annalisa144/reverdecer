@@ -17,7 +17,7 @@ The van needed TLC before our big trip north. [Getting it off El Terreno was a f
 
 By himself, he pushed it into a parking lot! I was home with the dogs. Since they didn't have a "safe space" like the van to wait in, we didn't want to leave them alone (Booker and Hannah would break out through the gate to find us, and probably get run over by something).
 
-The police came to see what Phillip was doing, and spoke Spanish above his completely-stressed-out-comprehension, so he called our uncle for help. It took hours, but they got ahold of the mechanic, who met them at the van and called his tow-truck-operator-pal, who got the van back to the garage (for ~$18).  Anyone in the US ever have a mechanic hang out with your car at 10pm?
+The police came to see what Phillip was doing, and spoke Spanish above his completely-stressed-out-comprehension, so he called our uncle for help. It took hours, but they got ahold of the mechanic, who met them at the van and called his tow-truck-operator-pal, [who got the van back to the garage (for ~$18)](https://reverdecer.annalisagross.com/2018/10/31/van-woes-and-wins-in-mexico/).  Anyone in the US ever have a mechanic hang out with your car at 10pm?
 
 I'd been waiting at home, worried, wishing I could help. I set up the tent and we went camping! Phillip got home around 11pm and crawled in. We got to sleep under the stars! And we met a cool frog.
 

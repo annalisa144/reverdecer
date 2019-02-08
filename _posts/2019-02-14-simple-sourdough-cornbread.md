@@ -1,7 +1,7 @@
 ---
 title: Simple sourdough cornbread
 date: '2019-02-14 06:00:00'
-image: beans2_.jpg
+image: cornbread_savory_.jpg
 tags: cooked in a van vanlife live cultures sourdough experiments how to use your
   starter grains
 categories: food
@@ -12,9 +12,15 @@ I used to be bored by bread. And it can be empty calories that tempt one to smot
 
 But we often prefer using our sourdough starter to make cornbread, which we cover in black beans, mole, avocado and cilantro.
 
-[![](/images/_.jpg){:width="60%"}](/images/.jpg)
+[![](/images/simple_sourdough_cornbread_.jpg){:width="60%"}](/images/simple_sourdough_cornbread.jpg)
 
 And cornbread is great with butter and jam, too. Or honey. Or eggs and cheese. Or maple syrup and cream cheese.
+
+[![](/images/jam_.jpg){:width="60%"}](/images/jam.jpg)
+
+ Sweet way to share Valentine's Day!
+ 
+ | [![](/images/gris_cleans_.jpg)](/images/gris_cleans.jpg) | [![](/images/van_dining_room_.jpg)](/images/van_dining_room.jpg) |
 
 Other uses for sourdough:
 * [brownies](http://reverdecer.annalisagross.com/2019/02/10/more-brownies-now-sourdough/)

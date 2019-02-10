@@ -21,6 +21,7 @@ The biggest surprise is that they take forEVER to cook! I've tried with/out lid,
 As an experiment, I made the same basic recipe, but didn't soak it overnight - just mixed it all (including sourdough starter) an hour before cooking. And they cooked through, just like we were used to before. Huh.
 
 The dogs like them as much as ever!
+
 [![](/images/max_pancakes_.jpg){:width="60%"}](/images/max_pancakes.jpg)
 
 I turned down this sourdough road for the sake of pancakes. Since we eat them so often, I want our bodies to benefit! Soaking nuts and grains unlocks nutrients and improves digestability. Soaking our pancake batter all night long (without eggs or milk) made sense. And what happens when you leave wet grains around? Life!

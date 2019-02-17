@@ -33,4 +33,4 @@ The pre-dye color was like unbleached muslin, light taupe. Post-dye color was wa
 
 And after a soapless wash there was too little color left for the project to be worth it. Next, I'll try a mordant. And I should have put far less cloth in each pot, but I was being lazy in that way that costs extra time in the long run.
 
-[![](/images/dye_result_.jpg){:width="60%"}](/images/dye_result.jpg)
+[![](/images/dyes/dye_result_.jpg){:width="60%"}](/images/dyes/dye_result.jpg)

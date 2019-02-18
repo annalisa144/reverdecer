@@ -25,8 +25,6 @@ I'd read that I wouldn't need a mordant because avocado has a dye-fixer naturall
 
 Initial results were...okay. The cloth is a cotton/polyester blend, but perhaps 70/30 so a reasonable candidate for botanical dye. It was free, and I found a lot of it, which made it an ideal candidate for my first try. [(I also tried wool yarn.)](http://reverdecer.annalisagross.com/2019/02/21/dyeing-yarn-with-plants/)
 
-| [![](/images/dyes/avocado_set_.jpg)](/images/dyes/avocado_set.jpg) | [![](/images/dyes/avocado_pan_.jpg)](/images/dyes/avocado_pan.jpg) |
-
 The pre-dye color was like unbleached muslin, light taupe. Post-dye color was warm-pink-orange; prettier than the original cloth, borderline special enough for the effort.
 
 | [![](/images/dyes/dyeing_.jpg)](/images/dyes/dyeing.jpg) | [![](/images/dyes/avocado_bowl3_.jpg)](/images/dyes/avocado_bowl3.jpg) |

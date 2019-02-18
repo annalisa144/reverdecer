@@ -37,7 +37,9 @@ The kittens pounced into our lives and soon Phillip was patching every day - but
 
 At 4", [this mattress topper](https://www.amazon.com/gp/product/B071JGCCY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071JGCCY4&linkCode=as2&tag=annalisa144-20&linkId=89a15d2144602cea710f7415631c3c41) sounded like it would be thick enough to use as a mattress. Phillip is comfortable, but I notice the tines of the bed frame sometimes. But cats can't deflate it and it stays in place as a couch, with occasional yanks (like you'd do with a futon pad in couch position).
 
-Turns out the mattress isn't really a full queen (see video below - it never grew to size)? Or not the same queen-size we've had before? Because there are gaps on the sides and top and/or bottom, which worries me for Max, since he might end up breaking a leg getting in and out (think about him sliding through that bedframe). 
+| [![](/images/mattress_side_.jpg)](/images/mattress_side.jpg) | [![](/images/bed_frame_.jpg)](/images/bed_frame.jpg) |
+
+Turns out the mattress isn't really a full queen - or not the same queen-size we've had before? Because there are gaps on the sides and top and/or bottom, which worries me for Max, since he might end up breaking a leg getting in and out (think about him sliding through that bedframe). 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zi1qJczFvRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

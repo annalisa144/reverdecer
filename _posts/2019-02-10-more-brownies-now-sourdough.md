@@ -19,11 +19,11 @@ Which phrase subtly means "healthy" to you?
 
 I've believed in most of those during various life phases - these days my "let's pretend this makes it healthy" phrase is *sourdough.*
 
-So now we have **sourdough brownies**, along with [bread](https://reverdecer.annalisagross.com/2019/02/06/sourdoughs/), [pizza](https://reverdecer.annalisagross.com/2019/02/05/sourdough-pizza/), [pancakes](https://reverdecer.annalisagross.com/2019/02/07/sourdough-pancakes/), [cornbread]((http://reverdecer.annalisagross.com2019/02/14/simple-sourdough-cornbread/, [corn-pepper bread](http://reverdecer.annalisagross.com/2019/02/18/pepper-sourdough-cornbread/), [lasagna noodles](http://reverdecer.annalisagross.com/2019/02/25/sourdough-lasagna-noodles/), etc.
+So now we have **sourdough brownies**, along with [bread](https://reverdecer.annalisagross.com/2019/02/06/sourdoughs/), [pizza](https://reverdecer.annalisagross.com/2019/02/05/sourdough-pizza/), [pancakes](https://reverdecer.annalisagross.com/2019/02/07/sourdough-pancakes/), [cornbread](http://reverdecer.annalisagross.com2019/02/14/simple-sourdough-cornbread/), [corn-pepper bread](http://reverdecer.annalisagross.com/2019/02/18/pepper-sourdough-cornbread/), [lasagna noodles](http://reverdecer.annalisagross.com/2019/02/25/sourdough-lasagna-noodles/), etc.
 
 I based my brownies on [these from Cooking with Curls](https://cookingwithcurls.com/2013/05/20/turtle-sourdough-brownies-sourdough-surprises/), but the recipe posted below includes my tweaks (well, my best guess at them, since I don't measure). They turned out moist and barely sweet, so I did make a caramel sauce (not Cooking with Curls, one I've used before).
 
-We really like dessert but are wary of sugar, so I skipped any chocolate chips or baking chocolate and just used cocoa powder and extra fat. This way we have complete control of how much sweetener we put in our many chocolate desserts.
+We really like chocolate desserts but are wary of sugar, so I skipped any chocolate chips or baking chocolate (which are already sweet) and just used cocoa powder (and extra fat, since cocoa powder has fat stripped away). Baking with cocoa powder gives us complete control over the sugar/sweetener in our many chocolate desserts.
 
 **Brownies**
 * 1 2/3 cup cocoa powder

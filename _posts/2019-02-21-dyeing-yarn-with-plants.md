@@ -1,7 +1,7 @@
 ---
 title: Dyeing yarn with plants
 date: '2019-02-21 07:00:00'
-image: dye_line_.jpg
+image: dyes/dye_line_.jpg
 tags: plants botanical wool yarn dye dying diy handdye mordant
 categories: plants
 layout: post

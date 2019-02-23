@@ -15,3 +15,5 @@ When we got back from the US after Thanksgiving we were mostly grateful to escap
 
 
 And now, even more brittle and [thorny.](https://reverdecer.annalisagross.com/2019/01/26/dry-season-foliage/)
+
+[![](/images/dryland_.jpg){:width="60%"}](/images/dryland.jpg)

@@ -35,3 +35,5 @@ We think we see the bricks for sale when we drive on the main road around Moreli
 If you have strong hands you might be able to break these bricks, but they seem to hold up alright in basic construction.  What's the best way to heal land after this sort of strip mining?
 
 [![](/images/brick_city4_.jpg)](/images/brick_city4.jpg)
+
+[These are some strong hands. ](http://reverdecer.annalisagross.com/2019/02/27/working-hard/)

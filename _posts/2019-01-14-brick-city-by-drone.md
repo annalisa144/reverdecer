@@ -18,3 +18,5 @@ But now we have some drone footage, too.
 
 
 What will it look like when they're done making bricks? The tarps will go, the trucks that still run will roll away - maybe we'll come back in a few years and find out.
+
+Check out [how they move those bricks](http://reverdecer.annalisagross.com/2019/02/27/working-hard/) (you'll be surprised!)

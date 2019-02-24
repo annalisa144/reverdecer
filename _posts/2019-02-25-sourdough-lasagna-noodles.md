@@ -1,8 +1,9 @@
 ---
 title: Sourdough lasagna noodles
-date: '2019-02-25 06:00:00'
+date: '2019-02-24 06:00:00'
 image: lasagna_dough_.jpg
-tags: vanlife cookied in a van live cultures homemade diy use your sourdough starter
+tags: vanlife cooked in a van live cultures homemade diy use your sourdough starter
+  pasta lasagna noodles
 categories: food
 layout: post
 ---

@@ -3,7 +3,7 @@ title: Pregnant chickens for lunch
 date: '2019-01-02 06:00:00'
 image: pollo_embarazada_.jpg
 tags: michoacan traditional food roast chicken grill pollo asado asada
-categories: spanish food morelia
+categories: spanish food morelia chickens
 layout: post
 ---
 

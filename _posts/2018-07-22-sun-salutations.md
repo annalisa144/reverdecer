@@ -3,7 +3,7 @@ title: Sun salutations
 date: '2018-07-21 06:00:00'
 image: sun_salutations_.jpg
 tags: yoga romance
-categories: spanish
+categories: spanish solar
 layout: post
 ---
 

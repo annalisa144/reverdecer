@@ -2,8 +2,8 @@
 title: Tea garden
 date: '2019-02-17 06:00:00'
 image: sunteas_.jpg
-tags: herbs flowers medicinal heal
-categories: plants
+tags: herbs flowers medicinal heal semi arid mountain region permaculture
+categories: plants water
 layout: post
 ---
 

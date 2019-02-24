@@ -4,7 +4,7 @@ date: '2018-12-16 06:00:00'
 image: los_azufres_.jpg
 tags: forest woods bosque geothermal volcano spa hot springs geyser renewable electricity
   energy
-categories: mexico
+categories: morelia
 layout: post
 ---
 

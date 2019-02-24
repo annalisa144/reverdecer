@@ -3,7 +3,7 @@ title: What $40 gets you at the vet in Mexico
 date: '2018-08-21 06:00:00'
 image: booker_.jpg
 tags: pets dogs vet Mexico heart disease
-categories: dogs Morelia
+categories: dogs morelia
 layout: post
 ---
 

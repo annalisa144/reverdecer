@@ -3,7 +3,7 @@ title: Muddy ride
 date: '2018-08-25 06:00:00'
 image: muddy_bike_.jpg
 tags: cycling bicycling mexico mountains mud rain
-categories: neighborhood mexico
+categories: neighborhood morelia spanish
 layout: post
 ---
 

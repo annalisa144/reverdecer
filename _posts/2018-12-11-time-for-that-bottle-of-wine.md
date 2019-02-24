@@ -3,7 +3,7 @@ title: Time for that bottle of wine
 date: '2018-12-11 06:00:00'
 image: wine_.jpg
 tags: pets vanlife mexico hiking cats stress conflict aggression
-categories: dogs neighbors
+categories: dogs neighborhood
 layout: post
 ---
 

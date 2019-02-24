@@ -2,8 +2,8 @@
 title: How's the dog retirement home?
 date: '2018-12-01 06:00:00'
 image: booker_napping_.jpg
-tags: dogs
-categories: pets vanlife with pets
+tags: vanlife with pets senior
+categories: dogs
 layout: post
 ---
 

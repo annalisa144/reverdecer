@@ -3,7 +3,7 @@ title: Pick your favorite sunset
 date: '2018-12-15 06:00:00'
 image: sunset5_.jpg
 tags: sunset sunrise best video drone camera
-categories: vandwelling
+categories: vandwelling solar
 layout: post
 ---
 

@@ -2,8 +2,8 @@
 title: Kittens vs. Lizards
 date: '2018-11-09 06:00:00'
 image: "/predators/lizard3_.jpg"
-tags: cats kittens mexico lizards crevice swift hunt stalk catch eat
-categories: pests pets
+tags: pests kittens mexico lizards crevice swift hunt stalk catch eat
+categories: pests cats
 layout: post
 ---
 

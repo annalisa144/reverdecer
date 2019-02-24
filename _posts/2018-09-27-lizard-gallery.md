@@ -3,7 +3,7 @@ title: Lizard gallery
 date: '2018-11-06 06:00:00'
 image: "/predators/lizard5_.jpg"
 tags: mexico crevice swift kitten cat hunt stalk
-categories: pets pests
+categories: pests cats
 layout: post
 ---
 

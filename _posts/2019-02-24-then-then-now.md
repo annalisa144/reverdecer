@@ -1,51 +1,52 @@
 ---
 title: Then, then, now
-date: '2019-03-06 06:00:00'
+date: '2019-03-02 06:00:00'
+image: then_then_now_.jpg
 tags: dry season wet rainy semi arid desert mountains mexico michoacan seasons
 categories: plants neighborhood
 layout: post
 ---
 
-We arrived late in the dry season and three months later this place has bloomed! Check out the difference between the cusp of March and April and the cusp of June and July:
+We're 11 months into this permaculture adVanture! Here's a new set of photos for comparing. In each trio, you're seeing ~March 30, 2018, then ~July 1, 2018, then February 28, 2019.
 
 
-| [![](/images/east_wall_1_.jpg)](/images/east_wall_1.jpg) | [![](/images/east_wall_.jpg)](/images/east_wall.jpg) |
+| [![](/images/east_wall_1_.jpg)](/images/east_wall_1.jpg) | [![](/images/east_wall_.jpg)](/images/east_wall.jpg) |  [![](/images/east_wall2_.jpg)](/images/east_wall2.jpg) |
 
 
 Standing near the gate, looking along the east wall at a row of agave azul and evergreens.
 
 
-| [![](/images/blood_of_lebanon_1_.jpg)](/images/blood_of_lebanon_1.jpg) | [![](/images/blood_of_lebanon_.jpg)](/images/blood_of_lebanon.jpg) |
+| [![](/images/blood_of_lebanon_1_.jpg)](/images/blood_of_lebanon_1.jpg) | [![](/images/blood_of_lebanon_.jpg)](/images/blood_of_lebanon.jpg) | [![](/images/blood_of_lebanon2_.jpg)](/images/blood_of_lebanon2.jpg) |
 
 
-This tree was at Edith's cousin's house and got knocked over, so Stan replanted it.  This Sangre Libanesa took longer to leaf out than others in Morelia this year, but it looks hearty now.
+This tree was at Edith's cousin's house and got knocked over, so Stan replanted it.  This Sangre Libanesa took longer to leaf out than others in Morelia this year, but was hearty for months - now it seems dead!
 
 
-| [![](/images/lime_tree_1_.jpg)](/images/lime_tree_1.jpg) | [![](/images/lime_tree_.jpg)](/images/lime_tree.jpg) |
+| [![](/images/lime_tree_1_.jpg)](/images/lime_tree_1.jpg) | [![](/images/lime_tree_.jpg)](/images/lime_tree.jpg) | [![](/images/lime_tree2_.jpg)](/images/lime_tree2.jpg) |
 
 
-We harvested most of the limes so the tree would put energy into rooting and branching. They were tart, not ripe. Now the tree has blossoms, but the grasses are the obvious change here.
+We try to remember to harvest most of the limes so the tree would put energy into rooting and branching.
 
 
-| [![](/images/cat_burial_1_.jpg)](/images/cat_burial_1.jpg) | [![](/images/cat_burial_.jpg)](/images/cat_burial.jpg) |
+| [![](/images/cat_burial_1_.jpg)](/images/cat_burial_1.jpg) | [![](/images/cat_burial_.jpg)](/images/cat_burial.jpg) | [![](/images/cat_burial2_.jpg)](/images/cat_burial2.jpg) |
 
 
-RIP cat from my uncle's neighborhood. We used some of the rocks covering the grave in other projects on El Terreno - no one ever tried to dig it up.
+RIP cat from my uncle's neighborhood. We used some of the rocks covering the grave in other projects on El Terreno - no one ever tried to dig it up. Now it's hard to find.
 
 
-| [![](/images/looking_west_1_.jpg)](/images/looking_west_1.jpg) | [![](/images/looking_west_.jpg)](/images/looking_west_.jpg) |
+| [![](/images/looking_west_1_.jpg)](/images/looking_west_1.jpg) | [![](/images/looking_west_.jpg)](/images/looking_west_.jpg) | [![](/images/looking_west2_.jpg)](/images/looking_west2_.jpg) |
 
 
-Facing NW, you can see more of the land, which can (and has) gone up in flame. So they cut that swath around the edge to protect the trees. That safety perimeter is disappearing but we have a weed-wacker-ish-tool to use if we can't figure out how to safely keep a couple goats or sheep first.
+Facing NW, you can see more of the land, which can (and has) gone up in flame. Now we keep a safety perimeter weed-whacked around the perimeter - and we even tried a [controlled burn.](https://reverdecer.annalisagross.com/2019/02/26/controlled-burn/)
 
 
-| [![](/images/after_the_fire_1_.jpg)](/images/after_the_fire_1.jpg) | [![](/images/after_the_fire_.jpg)](/images/after_the_fire.jpg) |
+| [![](/images/after_the_fire_1_.jpg)](/images/after_the_fire_1.jpg) | [![](/images/after_the_fire_.jpg)](/images/after_the_fire.jpg) | [![](/images/after_the_fire2_.jpg)](/images/after_the_fire2.jpg) |
 
 
 This tree was here when my uncle bought the land 20 years ago, and has survived at least one fire.
 
 
-| [![](/images/bamboo_1_.jpg)](/images/bamboo_1.jpg) | [![](/images/bamboo_.jpg)](/images/bamboo.jpg) |
+| [![](/images/bamboo_1_.jpg)](/images/bamboo_1.jpg) | [![](/images/bamboo_.jpg)](/images/bamboo.jpg) | [![](/images/bamboo2_.jpg)](/images/bamboo2.jpg) |
 
 
-The bamboo has cucumber company now. In three more months you'll see it!
+The bamboo shot up this summer! How many years before it becomes a privacy fence?

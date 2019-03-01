@@ -2,7 +2,8 @@
 title: Then, then, now
 date: '2019-03-02 06:00:00'
 image: then_then_now_.jpg
-tags: dry season wet rainy semi arid desert mountains mexico michoacan seasons
+tags: dry season wet rainy semi arid desert mountains mexico michoacan seasons swale
+  permaculture permacultura water conservation sustainability
 categories: plants neighborhood
 layout: post
 ---
@@ -52,3 +53,7 @@ This tree was here when my uncle bought the land 20 years ago, and has survived 
 The bamboo shot up this summer! How many years before it becomes a privacy fence?
 
 [![](/images/bamboo3_.jpg){:width="60%"}](/images/bamboo3.jpg)
+
+In many ways, it looks like we're back where we started - brown, brittle, thirsty. Planted new trees, other trees died. [Swales](https://reverdecer.annalisagross.com/2018/08/14/swale-success/) should improve El Terreno's health, but we won't see the effect for years. Watch for a 2025 photo comparison!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OtfgNKOQ4ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

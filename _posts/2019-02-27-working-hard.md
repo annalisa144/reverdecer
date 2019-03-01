@@ -14,7 +14,7 @@ Seriously.
 
 Takes a lot of trust, communication and muscle to move bricks like this.
 
-[Bricks are made in a makeshift city](https://reverdecer.annalisagross.com/2019/01/14/brick-city-by-drone/)
+[Bricks are made in a makeshift city](https://reverdecer.annalisagross.com/2019/01/14/brick-city-by-drone/)  [Many people work hard here.](https://reverdecer.annalisagross.com/2019/02/09/door-to-door-sales/)
 
 Our Mexico adVanture gives us time to notice our bodies. How often do you wake up [tired and achy](https://reverdecer.annalisagross.com/2018/07/14/i-sleep-with-six/) in the morning? Runny nose and itchy eyes from allergies? Headache and sluggish brain from not drinking enough water - or drinking too much beer? (or whatever your bodily distractions might be)
 
@@ -26,4 +26,4 @@ I notice this phenomenon often, like when I tell myself, *I hardly slept last ni
 
 Another obstacle to working hard - no colleagues. Yes, we have each other! But our life in El Terreno is highly delineated. [I cook](https://reverdecer.annalisagross.com/2018/10/30/baking-in-a-grill/), Phillip ["makes" our water](https://reverdecer.annalisagross.com/2018/07/01/sink-success/). I [write and knit](https://reverdecer.annalisagross.com/2018/07/31/blogging-and-couching/), Phillip reads tech news and [builds stuff](https://reverdecer.annalisagross.com/2018/10/02/solar-dehydrator-2nd-attempt/). I [garden](https://reverdecer.annalisagross.com/2018/08/13/garden-gallery/), he [makes swales](https://reverdecer.annalisagross.com/2018/08/14/swale-success/). We are great teammates in life, but not colleagues on specific projects because we don't understand what the other is doing. When we get stuck it's easier to give up, because we don't have someone else to offer new ideas.
 
-All that's to say, we'll have renewed appreciation for team tasks when we return to the US. Not sure we'll look for normal, long-term jobs, since we want to stay mobile. Collective action and external expectations are welcome.
+All that's to say, we'll have renewed appreciation for team tasks when we return to the US. We're not interested in "normal," long-term jobs, since we want to stay mobile. Collective action and external expectations are welcome.

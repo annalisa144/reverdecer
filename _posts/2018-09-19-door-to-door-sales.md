@@ -16,7 +16,7 @@ Many systems here depend on someone being home most of the time (also a good way
 
 To get our trash picked-up we have to be here to hand it over and pay. Though in the city we can leave some money under the trash can on the curb, and that seems to work alright. Guess they're aren't enough bored kids who want pizza money enough to roam the neighborhood looking under everyone's trash cans?
 
-[![](/images/trash_truck_.jpg){:width="60%"}](/images/trash_truck.jpg)
+| [![](/images/trash_truck_.jpg)](/images/trash_truck.jpg) | [![](/images/trash_truck2_.jpg)](/images/trash_truck2.jpg) |
 
 The trash haulers sort in the truck as they move through the streets. Without gloves! They should get paid *well* for that work, but certainly don't.
 

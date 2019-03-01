@@ -15,7 +15,7 @@ This semi-arid region is prone to wildfire. To protect El Terreno's trees, we tr
 The day before our planned burn, it rained! Slight surprise, since we're smack-dab in the middle of the dry season. We hoped this would make the burn safer, but instead it made it nearly impossible. Phillip's been keeping this edge so short to begin with, even with gasoline we couldn't keep it burning.
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e7cPLnt2K9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ydxpV6M2XE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Two buckets and the hose at the ready, with Mom and Heidi standing by (and Phillip recording via drone), we were plenty safe.
@@ -24,7 +24,7 @@ Two buckets and the hose at the ready, with Mom and Heidi standing by (and Phill
 
 Even when my spray bottle of gasoline lit up, we didn't use the water.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ktmF29ou1hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JxmdHKQPcyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 We'll try again in a week.

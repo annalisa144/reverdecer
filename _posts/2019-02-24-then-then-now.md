@@ -7,10 +7,10 @@ categories: plants neighborhood
 layout: post
 ---
 
-We're 11 months into this permaculture adVanture! Here's a new set of photos for comparing. In each trio, you're seeing ~March 30, 2018, then ~July 1, 2018, then February 28, 2019.
+We're 11 months into this permaculture adVanture! Here's a new set of comparision photos. In each trio, you're seeing ~March 30, 2018, then ~July 1, 2018, then February 28, 2019.
 
 
-| [![](/images/east_wall_1_.jpg)](/images/east_wall_1.jpg) | [![](/images/east_wall_.jpg)](/images/east_wall.jpg) |  [![](/images/east_wall2_.jpg)](/images/east_wall2.jpg) |
+| [![](/images/east_wall_1_.jpg)](/images/east_wall_1.jpg) | [![](/images/east_wall_.jpg)](/images/east_wall.jpg) | [![](/images/east_wall2_.jpg)](/images/east_wall2.jpg) |
 
 
 Standing near the gate, looking along the east wall at a row of agave azul and evergreens.
@@ -50,3 +50,5 @@ This tree was here when my uncle bought the land 20 years ago, and has survived 
 
 
 The bamboo shot up this summer! How many years before it becomes a privacy fence?
+
+[![](/images/bamboo3_.jpg){:width="60%"}](/images/bamboo3.jpg)

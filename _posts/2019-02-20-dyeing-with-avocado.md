@@ -1,7 +1,7 @@
 ---
 title: Dyeing cloth with avocado
 date: '2019-02-20 06:00:00'
-image: "/dyes/dye_line_header_.jpg"
+image: "/dyes/dye_line_.jpg"
 tags: natural botanical dye dying avocado diy instructions how to dyeing cloth cotton
 categories: plants
 layout: post

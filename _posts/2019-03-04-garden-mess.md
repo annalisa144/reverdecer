@@ -2,7 +2,7 @@
 title: Garden mess
 date: '2019-03-04 06:00:00'
 image: messy_tomatoes_.jpg
-tags: good intentions garden mess overgrown
+tags: good intentions garden mess overgrown jicama tomato harvest
 categories: plants
 layout: post
 ---
@@ -26,3 +26,7 @@ Some not (at least not without practice, like this nightshade)
 [![](/images/solanum_grayi_.jpg){:width="60%"}](/images/solanum_grayi.jpg)
 
 Overgrown these days is sparse, so it's easy to find the tomatoes. But they hold on tight to the vine! Most of them fall apart if I try to pluck them off, and once I've squished one, I go ahead and eat it. These drought tomatoes are concentrated with taste.
+
+| [![](/images/jicama2_.jpg)](/images/jicama2.jpg) | [![](/images/jicama_.jpg)](/images/jicama.jpg) |
+
+The jicama were worth the five month wait.

@@ -24,6 +24,8 @@ If you don't have a job to *go* to, and work from home without colleagues - like
 
 I notice this phenomenon often, like when I tell myself, *I hardly slept last night so I can't do a writing project today, better [knit](https://reverdecer.annalisagross.com/2019/02/16/kombucha/) and listen to audiobooks.* With external motivators or demands, I could surmount my fatigue most days.
 
+[![](/images/swales_drone_.jpg){:width="60%"}](/images/swales_drone.jpg)
+
 Another obstacle to working hard - no colleagues. Yes, we have each other! But our life in El Terreno is highly delineated. [I cook](https://reverdecer.annalisagross.com/2018/10/30/baking-in-a-grill/), Phillip ["makes" our water](https://reverdecer.annalisagross.com/2018/07/01/sink-success/). I [write and knit](https://reverdecer.annalisagross.com/2018/07/31/blogging-and-couching/), Phillip reads tech news and [builds stuff](https://reverdecer.annalisagross.com/2018/10/02/solar-dehydrator-2nd-attempt/). I [garden](https://reverdecer.annalisagross.com/2018/08/13/garden-gallery/), he [makes swales](https://reverdecer.annalisagross.com/2018/08/14/swale-success/). We are great teammates in life, but not colleagues on specific projects because we don't understand what the other is doing. When we get stuck it's easier to give up, because we don't have someone else to offer new ideas.
 
 All that's to say, we'll have renewed appreciation for team tasks when we return to the US. We're not interested in "normal," long-term jobs, since we want to stay mobile. Collective action and external expectations are welcome.

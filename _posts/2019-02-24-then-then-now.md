@@ -8,7 +8,7 @@ categories: plants neighborhood
 layout: post
 ---
 
-We're 11 months into this permaculture adVanture! Here's a new set of comparision photos. In each trio, you're seeing ~March 30, 2018, then ~July 1, 2018, then February 28, 2019.
+From dust to dust...We're 11 months into this permaculture adVanture! Here's a new set of comparision photos. In each trio, you're seeing ~March 30, 2018, then ~July 1, 2018, then February 28, 2019.
 
 
 | [![](/images/east_wall_1_.jpg)](/images/east_wall_1.jpg) | [![](/images/east_wall_.jpg)](/images/east_wall.jpg) | [![](/images/east_wall2_.jpg)](/images/east_wall2.jpg) |

@@ -16,12 +16,12 @@ The neighborhood was a treat. [El Templo de Santa Rita de Casia](https://www.goo
 
 The sidewalks were full of the faithful leaving mass, some of whom chose Starbucks, others chose the ice cream shop, and others shopped at the blankets and tables spread on the sidewalks. Many businesses were closed that morning, including *costillas* (ribs),  bubble tea (*té de perlas o té de burbujas,* but it was in English), Also closed in the morning was the [hipster barber shop,](https://www.quioco.com.mx/) complete with *English* sign "A man without a beard is like a lion without a mane."
 
-| [![](/images/tlaquepaque_chai_.jpg)](/images/tlaquepaque_chai.jpg) | [![](/images/tlaquepaque_chai2_.jpg)](/images/tlaquepaque_chai2.jpg) |
+| [![](/images/tlaquepaque_chai_.jpg){:width="88%"}](/images/tlaquepaque_chai.jpg) | [![](/images/tlaquepaque_chai2_.jpg)](/images/tlaquepaque_chai2.jpg) |
 
 [Tlaquepaque](https://en.wikipedia.org/wiki/Tlaquepaque) is a great neighborhood too - used to be its own town but Guadalajara grew around it. It's commercial and touristy but that means delicious food and gorgeous sights. The menu at [Café Chai](http://chai.com.mx/) was widely appealing and we wish we'd had room to eat more (or try the chai!)
 
-| [![](/images/chai_lunch_.jpg)](/images/chai_lunch.jpg) | [![](/images/chai_lunch2_.jpg)](/images/chai_lunch2.jpg) |
+| [![](/images/chai_lunch_.jpg){:width="92%"}](/images/chai_lunch.jpg) | [![](/images/chai_lunch2_.jpg)](/images/chai_lunch2.jpg) |
 
-Man on Fire at Hospicio Cabañas museum in another post.
+Man on Fire at Hospicio Cabañas museum in another post. We don't even have room to tell you about this pretty church in Tlaquepaque:
 
 [![](/images/tlaquepaque_church_.jpg){:width="60%"}](/images/tlaquepaque_church.jpg)

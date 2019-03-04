@@ -1,5 +1,5 @@
 ---
-title: Controlled burn
+title: Controlled burn fail
 date: '2019-02-26 06:00:00'
 image: burn_less_far_.jpg
 tags: wildfire burn flame trees vegetation preservation conservation controlled fire
@@ -27,4 +27,4 @@ Even when my spray bottle of gasoline lit up, we didn't use the water.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JxmdHKQPcyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-We'll try again in a week.
+We'll [try again](http://reverdecer.annalisagross.com/2019/03/07/controlled-burn-success/) in a week.

@@ -1,6 +1,6 @@
 ---
 title: Man on Fire
-date: '2019-03-07 07:00:00'
+date: '2019-03-18 07:00:00'
 image: cabanas_.jpg
 tags: guadalajara murals art man on fire
 categories: spanish

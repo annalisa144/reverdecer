@@ -2,7 +2,7 @@
 title: La colina de la muerte
 date: '2018-09-02 06:00:00'
 image: colina_.jpg
-tags: vanlife offroad vanlifemexico cliff
+tags: vanlife offroad vanlifemexico cliff roads mexico michoacan
 categories: neighborhood morelia vandwelling
 layout: post
 ---
@@ -17,4 +17,8 @@ The other day someone had filled in some potholes and left behind dog food bags 
 
 [![](/images/colina_work_.jpg)](/images/colina_work.jpg)
 
-I want to communicate the terror through video, but haven't found a way to do that yet. I'll let you know when I do!
+Our [Christmas vacation to Puerto Vallarta](https://reverdecer.annalisagross.com/2018/12/29/my-kind-of-puerto-vallarta/) showed us how much better Jalisco roads are. [Michoacan can't afford to pay teachers](https://reverdecer.annalisagross.com/2019/01/28/demonstration-season/) or fix roads?
+
+I want to communicate the terror through video, but this is the best I can do. (Hill starts around :41)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xbqAGkzkfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

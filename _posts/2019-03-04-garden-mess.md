@@ -7,7 +7,7 @@ categories: plants
 layout: post
 ---
 
-Some yards are green all winter long in Morelia, but we're not interested in spending time or money that way. The only thing we faithfully water (every 2 days) are [our contrabands.](https://reverdecer.annalisagross.com/2019/02/13/contraband-rhubarb/)
+Some yards are green all winter long in Morelia, temps are mild, but without precipitation for about six months, green requires time and money for watering. The only thing we faithfully water (every 2 days) are [our contrabands.](https://reverdecer.annalisagross.com/2019/02/13/contraband-rhubarb/)
 
 [![](/images/tomatoes_.jpg){:width="60%"}](/images/tomatoes.jpg)
 

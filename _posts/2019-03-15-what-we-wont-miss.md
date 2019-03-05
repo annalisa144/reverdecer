@@ -12,4 +12,10 @@ That [scary hill](https://reverdecer.annalisagross.com/2018/09/02/la-colina-de-l
 
 mildew
 
+[![](/images/lemon_yoga_.jpg){:width="60%"}](/images/lemon_yoga.jpg)
+
 solitude - until we do
+
+mice heads underfoot
+
+[![](/images/mouse_head_.jpg){:width="60%"}](/images/mouse_head.jpg)

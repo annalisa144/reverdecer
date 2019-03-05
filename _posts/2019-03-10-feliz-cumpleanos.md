@@ -9,7 +9,7 @@ layout: post
 
 For my birthday [we did 108 sun salutations](https://reverdecer.annalisagross.com/2018/08/16/slow-and-steady/) but Phillip is alone on his birthday - I've left him alone in El Terreno for the third time. It's a good thing he's not sentimental, since now he's alone on his birthday. Will Hannah do 108 sun salutations with him?
 
-I did make him a nearly-sugarless cheesecake last week, but I owe him some turtle brownies and snuggles when I get back to Mexico.
+I did make him a nearly-sugarless cheesecake last week, but I owe him some turtle brownies and snuggles when I get back to Mexico. Feliz cumpleaños Phillip!
 
 Here's the cheesecake, inspired by our cousin Robert who eschews sweets (other than chocolate over 85% cocao).
 
@@ -27,7 +27,7 @@ Filling:
 2 eggs (use 3 for thicker cheesecake)
 8 oz cream cheese (use 12 for thicker cheesecake)
 1 T vanilla
-3.5 oz/100 gr chocolate bar - to your own taste**
+3.5 oz/100 gr chocolate bar - to your own taste**see note below
 
 Blend eggs, cream cheese and vanilla (in blender or food processor if you have it). Melt chocolate in double boiler or microwave - carefully, 20 seconds at a time and stir to finish melting.
 
@@ -44,8 +44,8 @@ and/or
 
 Bake the crust at 350 for about 10 minutes until it looks dry. Pour in filling and bake about 30 more minutes, or until it doesn't jiggle in the middle. You can leave in oven to cool, but open the door if you think it has baked enough. Pour/spread optional toppings once cheesecake is cool. Serve cold.
 
-| [![](/images/max_nose_.jpg)](/images/max_nose.jpg) | [![](/images/phillip_max_.jpg)](/images/phillip_max.jpg) |
+| [![](/images/max_nose_.jpg){:width="94%"}](/images/max_nose.jpg) | [![](/images/phillip_max_.jpg)](/images/phillip_max.jpg) |
 
-Max smells something - who will get the last piece of cheesecake?!
+*Max smells something...who will get the last piece of cheesecake?!*
 
 **When picking your chocolate, consider that this is the only sugar in the whole cheesecake. The cinnamon and vanilla taste a little sweet. But if you're used to "normal" sweet desserts (like anything storebought) this cheesecake will not be sweet enough for you. And if you don't like bittersweet chocolate, you won't want it in an unsweetened cheesecake. In that case, 30% might be a better bar for you. Experiment! There's no risk - if this doesn't taste sweet enough, put chocolate sauce or jam on it and it will be.

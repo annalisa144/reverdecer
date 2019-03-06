@@ -30,3 +30,7 @@ Overgrown these days is sparse, so it's easy to find the tomatoes. But they hold
 | [![](/images/jicama2_.jpg)](/images/jicama2.jpg) | [![](/images/jicama_.jpg)](/images/jicama.jpg) |
 
 The jicama were worth the five month wait.
+
+One garden bed was messy enough that I didn't notice ~9 baby eggplant until it was almost too late!
+
+| [![](/images/eggplant2_.jpg)](/images/eggplant2.jpg) | [![](/images/eggplant_.jpg)](/images/eggplant.jpg) |

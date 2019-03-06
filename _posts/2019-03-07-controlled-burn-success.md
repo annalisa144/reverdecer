@@ -17,6 +17,10 @@ We did the full burn in the daylight and calm winds of the next morning. We stil
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2rRYDvzdD5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+From above, you can barely tell we did anything! This is short grass, and at the entryway, gets packed by feet and wheels - it was brittle but didn't burn well.
+
+| [![](/images/after_burn_.jpg)](/images/after_burn.jpg) | [![](/images/after_burn2_.jpg)](/images/after_burn2.jpg) |
+
 Later that day, [wildfire spread through our neighborhood](https://reverdecer.annalisagross.com/2019/03/08/wildfire/) and our controlled burn had been just in time.
 
 [![](/images/wildfire2_.jpg){:width="60%"}](/images/wildfire2.jpg)

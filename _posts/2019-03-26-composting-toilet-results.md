@@ -3,7 +3,7 @@ title: Composting toilet results
 date: '2019-03-26 06:00:00'
 image: outhouse_header_.jpg
 tags: outhouse composting toilet marine how do you go to the bathroom if you live
-  in a van diy adobe offgrid
+  in a van diy adobe offgrid vanlifewithpets
 categories: vandwelling
 layout: post
 ---
@@ -26,6 +26,6 @@ Cons:
 * burying a bunch of poop every two weeks (though hasn't been a big deal, and provides a little exercise)
 * dogs were too curious
 
-What I mean by that is that occasionally we noticed Hannah's breath was stinkier than usual, and her kisses grossed us out. We realized she was digging up our buried bathroom (poop, toilet paper and peat moss). Now it's dog-proof.
+What I mean by that is that occasionally we noticed Hannah's breath was stinkier than usual, and her kisses grossed us out. We realized she was digging up our buried bathroom (poop, toilet paper and peat moss). Burial ground is now dog-proof.
 
 [![](/images/buried_bano_header_.jpg){:width="60%"}](/images/buried_bano_header.jpg)

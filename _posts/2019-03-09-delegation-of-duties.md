@@ -13,7 +13,7 @@ One person could be good at both of those things. Phillip and I have few overlap
 
 I've asked him a dozen times how the van's battery and the solar panel battery interact, but I couldn't explain it to you. Each time he tells me, I think I understand. But then I let the information drain out of my brain. Probably because I know he'll take care of it.
 
-And no matter how many times I tell him what food is around to eat, he forgets something. Before I leave him (again!) in El Terreno for 10 days, we inventoried the freezer together. Then I pulled out all the seasonings he might enjoy putting on all that rice and beans.
+And no matter how many times I tell him what food is around to eat, he forgets something. Before I leave him (again!) in El Terreno for 10 days, we inventoried the freezer together. Then I pulled out all the seasonings he might enjoy putting on all that rice and beans, put them in plain sight, and I'll text him every day to find out what he's eating.
 
 Phillip can cook, though when we met he only made two meals for himself, and I won't tell you what they were. But he's the one who perfected making pizza on the grill! (Though I do the yeast part.)
 

@@ -17,7 +17,7 @@ We've had gardens ugly with repurposed-trash-mulch
 
 [![](/images/ugly_garden_.jpg){:width="60%"}](/images/ugly_garden.jpg)
 
-And gardens overgrown with weeds (some edible)
+And gardens overgrown with weeds: some edible
 
 [![](/images/overgrown_garden_.jpg){:width="60%"}](/images/overgrown_garden.jpg)
 

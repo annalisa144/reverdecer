@@ -21,6 +21,6 @@ From above, you can barely tell we did anything! This is short grass, and at the
 
 | [![](/images/after_burn_.jpg)](/images/after_burn.jpg) | [![](/images/after_burn2_.jpg)](/images/after_burn2.jpg) |
 
-Later that day, [wildfire spread through our neighborhood](https://reverdecer.annalisagross.com/2019/03/08/wildfire/) and our controlled burn had been just in time.
+Later that day, [wildfire spread through our neighborhood](https://reverdecer.annalisagross.com/2019/03/08/wildfire/) and our controlled burn had been just in time...read about that tomorrow.
 
 [![](/images/wildfire2_.jpg){:width="60%"}](/images/wildfire2.jpg)

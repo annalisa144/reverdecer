@@ -7,9 +7,9 @@ categories: food
 layout: post
 ---
 
-For my birthday [we did 108 sun salutations](https://reverdecer.annalisagross.com/2018/08/16/slow-and-steady/) but Phillip is alone on his birthday - I've left him alone in El Terreno for the third time. It's a good thing he's not sentimental, since now he's alone on his birthday. Will Hannah do 108 sun salutations with him?
+For my birthday [we did 108 sun salutations](https://reverdecer.annalisagross.com/2018/08/16/slow-and-steady/) but Phillip is alone on his birthday - I've left him in El Terreno for the third time. It's a good thing he's not sentimental, since now he's on his own to celebrate his birthday. Will Hannah do 108 sun salutations with him?
 
-I did make him a nearly-sugarless cheesecake last week, but I owe him some turtle brownies and snuggles when I get back to Mexico. Feliz cumpleaños Phillip!
+I did make him a nearly-sugarless cheesecake last week, but [I owe him](http://reverdecer.annalisagross.com/2019/03/09/delegation-of-duties/) [turtle brownies](https://reverdecer.annalisagross.com/2019/02/06/sourdoughs/) and snuggles when I get back to Mexico. Feliz cumpleaños Phillip!
 
 Here's the cheesecake, inspired by our cousin Robert who eschews sweets (other than chocolate over 85% cocao).
 

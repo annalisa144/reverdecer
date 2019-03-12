@@ -1,6 +1,7 @@
 ---
 title: What we won't miss
 date: '2019-03-15 06:00:00'
+image: feb28header.jpg
 tags: michoacan roads mexico vanlife leaving goodbye on the road again journey
 categories: vandwelling neighborhood
 layout: post
@@ -10,12 +11,18 @@ That [scary hill](https://reverdecer.annalisagross.com/2018/09/02/la-colina-de-l
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xbqAGkzkfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-mildew
+[![](/images/lemon_yoga_.jpg){:width="40%"}](/images/lemon_yoga.jpg)
 
-[![](/images/lemon_yoga_.jpg){:width="60%"}](/images/lemon_yoga.jpg)
 
-solitude - until we do
+Not gonna miss [mildew](**) and all the other messes that we can't easily clean (including [my feet](**), [Max's poop in our bed](**), invisible and revolting [fly residue](**) in and on our whole lives.
 
-mice heads underfoot
+| [![](/images/van_moscas_.jpg)](/images/van_moscas.jpg) | [![](/images/moscas_.jpg)](/images/moscas.jpg) |
 
-[![](/images/mouse_head_.jpg){:width="60%"}](/images/mouse_head.jpg)
+
+We won't miss the solitude...until we do...how many weeks of city life before we miss these lonely mountains?
+
+[![](/images/eastish_hills_.jpg){:width="60%"}](/images/eastish_hills.jpg)
+
+We will *never* miss mice heads underfoot, presents from the kitties in the morning.
+
+[![](/images/mouse_head_.jpg){:width="30%"}](/images/mouse_head.jpg)

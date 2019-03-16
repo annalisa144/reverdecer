@@ -1,6 +1,6 @@
 ---
 title: Getting our money back
-date: '2019-03-16 06:00:00'
+date: '2019-03-18 06:00:00'
 tags: mexico mexican government devolucion bureaucracy red tape
 categories: spanish
 layout: post

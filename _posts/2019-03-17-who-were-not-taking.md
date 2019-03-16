@@ -1,6 +1,6 @@
 ---
 title: Who we're not taking
-date: '2019-03-17 06:00:00'
+date: '2019-03-16 06:00:00'
 image: neighbor_dogs_.jpg
 tags: rescue animals adoption pets companionship
 categories: cats dogs

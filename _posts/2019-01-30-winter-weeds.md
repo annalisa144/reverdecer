@@ -32,3 +32,5 @@ We're eating them as salad, mixed with something else since they're *bitter!* I'
 The leaves go in salad or soup. The seeds I'm just eating straight - I intended to [solar dehydrate](https://reverdecer.annalisagross.com/2018/10/02/solar-dehydrator-2nd-attempt/) them for pancakes or bread, but I tasted some and was delighted by the rich flavor.
 
 [![](/images/buckhorn4_.jpg){:width="60%"}](/images/buckhorn4.jpg)
+
+{Check out our summer weed menu.](https://reverdecer.annalisagross.com/2018/11/08/quelites/)

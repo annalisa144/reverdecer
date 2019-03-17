@@ -7,8 +7,6 @@ categories: vandwelling
 layout: post
 ---
 
-[(That cute photo is from the US, when Phillip was adapting our van for vandwelling.)](https://reverdecer.annalisagross.com/2018/08/07/were-stuck/)
-
 We were too busy [getting out of Morelia](https://reverdecer.annalisagross.com/2018/10/21/getting-unstuck/) to tell you how we got out of Morelia! So here's the story, from Phillip's texts to his parents, about the night of Oct 17:
 
 So, we got the fuel pump replaced on the van yesterday - and the oil changed.

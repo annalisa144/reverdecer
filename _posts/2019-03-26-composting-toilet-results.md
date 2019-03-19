@@ -1,6 +1,6 @@
 ---
 title: Composting toilet results
-date: '2019-03-26 06:00:00'
+date: '2019-03-20 06:00:00'
 image: outhouse_header_.jpg
 tags: outhouse composting toilet marine how do you go to the bathroom if you live
   in a van diy adobe offgrid vanlifewithpets

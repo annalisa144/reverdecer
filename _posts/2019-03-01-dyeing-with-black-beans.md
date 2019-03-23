@@ -16,7 +16,7 @@ The yarn might hold the color better.
 
 | [![](/images/dyes/yarn_beans_.jpg)](/images/dyes/yarn_beans.jpg) | [![](/images/dyes/yarn_beans2_.jpg)](/images/dyes/yarn_beans2.jpg) |
 
-Now I'm trying a home-made mordant, by soaking rusty metal we've found on the land in water and vinegar. More will be revealed.
+Now I'm trying a home-made mordant, by soaking rusty metal we've found on the land in water and vinegar. [More will be revealed.](http://reverdecer.annalisagross.com/2019/03/24/botanical-dyeing-end-result/)
 
 | [![](/images/dyes/mordant_.jpg)](/images/dyes/mordant.jpg) | [![](/images/dyes/mordant2_.jpg)](/images/dyes/mordant2.jpg) |
 

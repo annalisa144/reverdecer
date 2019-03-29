@@ -20,8 +20,8 @@ Swales (or similar landshaping) might be helpful where you live, too. Do you see
 
 Looking east:
 
-|  [![](/images/swale_success2_square_.jpg)](/images/swale_success2_square.jpg)  |  [![](/images/swale_med_.jpg){:width="60%"}](/images/swale_med.jpg)
+|  [![](/images/swale_success2_square_.jpg)](/images/swale_success2_square.jpg)  |  [![](/images/swale_med_.jpg)](/images/swale_med.jpg)
 
 And from above:
 
-[![](/images/swale_drone_close_.jpg){:width="60%"}](/images/swale_drone_close.jpg)
+[![](/images/swales_drone_close_.jpg){:width="60%"}](/images/swales_drone_close.jpg)

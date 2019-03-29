@@ -1,80 +1,61 @@
 timezone: America/New_York
-
 title: El Terreno Reverdecer
 description: Permaculture VanDwelling
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://reverdecer.annalisagross.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Author
-author-name:    Anna Lisa Gross
-author-image:   profile_.jpg
-author-job:     Permaculture VanDwelling in Mexico
-author-email:   # Add your email for contant form.
-author-twitter: annalisa144 # Add your twitter account
-about-author:   Anna Lisa &#38; Phillip live in their van with three dogs and two cats (and uninvited rodents and bugs) in the mountains of central Mexico. This land lives as we live&#58; thirsty, hungry, in myriad relationship. We look forward to your ideas and <a href="https://reverdecer.annalisagross.com/2018/07/29/unadvertising/">support</a> on this <a href="https://reverdecer.annalisagross.com/2018/06/20/what-is-permaculture/">permaculture</a> adVanture.
-
-# Social settings
-social-twitter:   annalisa144
-social-facebook:  annalisa.gross.5
-social-github:    annalisa144
-social-pinterest: 
+baseurl: ''
+url: 'https://reverdecer.annalisagross.com'
+author-name: Anna Lisa Gross
+author-image: profile_.jpg
+author-job: Permaculture VanDwelling in Mexico
+author-email: null
+author-twitter: annalisa144
+about-author: >-
+  Anna Lisa &#38; Phillip lived in their van with three dogs and two cats (and
+  uninvited rodents and bugs) in the mountains of central Mexico for a year.
+  Though they just returned to the US, they've got a few more El Terreno-related
+  blog posts to share, then the blog will change direction as they continue some
+  form of> <a
+  href="https://reverdecer.annalisagross.com/2018/06/20/what-is-permaculture/">permaculture</a>
+  adVanture.
+social-twitter: annalisa144
+social-facebook: annalisa.gross.5
+social-github: annalisa144
+social-pinterest: null
 social-instagram: annalisamexico
-social-youtube:   indiana144
-social-vk:   
-social-linkedin:
-social-tumblr:    annalisa144
-rss: ""
-
-# Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1
-
-# Comment Section (Disqus)
-#disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
-
-# Build settings
+social-youtube: indiana144
+social-vk: null
+social-linkedin: null
+social-tumblr: annalisa144
+rss: ''
+mailchimp: null
+google-analytics: null
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: '/:year/:month/:day/:title/'
 plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll/figure
-
 paginate: 7
-paginate_path: "/page/:num/"
-
+paginate_path: '/page/:num/'
 include:
   - _pages
-
 sass:
   sass_dir: _sass
   style: compressed
-
-# Exclude from processing.
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-
 future: false
-
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: ''
+      type: posts
     values:
-      date: "2099-01-01 07:00:00 -0500"
-      image: ""
-      tags: ""
-      categories: ""
-      layout: "post"
-
-# Name of repository, for use with Staticman
-repository: "annalisa144/reverdecer"
-
-# Staticman comments (see staticman.yml for configuration).
+      date: '2099-01-01 07:00:00 -0500'
+      image: ''
+      tags: ''
+      categories: ''
+      layout: post
+repository: annalisa144/reverdecer
 staticman:
-  branch: "master"
+  branch: master

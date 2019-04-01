@@ -13,7 +13,7 @@ Along the way we failed to save three, killed on [separate occasions by dogs.](h
 
 What about the other 12 chickens, you may have been wondering? Remember how Phillip helped the neighbors finish a chicken fortress to keep them safe,  and just as they started laying we left for a month in the US?
 
-[![](/images/eggs_.jpg){:width="60%"}](/images/eggs.jpg)
+[![](/images/eggs_.jpg){:width="40%"}](/images/eggs.jpg)
 
 They would be laying well by now.
 

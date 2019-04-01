@@ -18,12 +18,13 @@ Mostly we've been turning them into buttons.
 
 It's like working with a soft wood - too soft if you don't wait a few days. We use a paring knife or utility knife, and create the button holes by twisting a drill bit (by hand).
 
-We've been eating avocados faster than I sew things requiring buttons. After months of waiting around, our excess pits are home to some little bug. Any idea what it is?
+We've been eating avocados faster than I sew things requiring buttons. After months of waiting around, our excess pits are home to some little bug--see the holes they make to burrow into? Any idea what these bugs are?
 
 | [![](/images/avocado_mites_.jpg)](/images/avocado_mites.jpg) | [![](/images/avocado_mites2_.jpg)](/images/avocado_mites2.jpg) |
 
 Soaking them in water for over 24 hours may have killed them?
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/olajvnYi98E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 Despite the mites, our avocado buttons turn out better than [avocado dye.](https://reverdecer.annalisagross.com/2019/03/24/botanical-dyeing-end-result/)

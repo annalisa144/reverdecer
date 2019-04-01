@@ -26,11 +26,11 @@ We [left Mexico last fall for a wedding](https://reverdecer.annalisagross.com/20
 
 Crossing into the US last fall, no one asked about the dogs.
 
-[![](/images/rio_grande2_.jpg){:width="40%"}](/images/rio_grande2.jpg)
+[![](/images/rio_grande2_.jpg){:width="45%"}](/images/rio_grande2.jpg)
 
 On our way back into Mexico a month later we had an error in our vehicle import paperwork, and that seemed to put us on a suspicious track. {We got more scrutiny](https://reverdecer.annalisagross.com/2018/11/28/back-over-the-border/) than on any other border crossing. Including looking over our dog paperwork - what Alfredo had filled out weeks before satisfied them.
 
 The last time we crossed we had two cats, too, and even though the US agents made us all get out so they could confiscate our eggs, they never looked at our paperwork.
 
 
-[![](/images/cats_dash_.jpg){:width="60%"}](/images/cats_dash.jpg)
+[![](/images/cats_dash_.jpg){:width="50%"}](/images/cats_dash.jpg)

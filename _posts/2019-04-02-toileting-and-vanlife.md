@@ -14,14 +14,21 @@ The cats quickly learned to use their litterbox on our recent roadtip, and we sh
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VLZj04CAR-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<br>
 Our first, and hopefully last, [four-day road trip with cats](https://reverdecer.annalisagross.com/2019/03/25/roadtrips-with-cats/) was rough.
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EJ9lLmxV8Ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 We got tracking tiles for the cats, in case they escaped at a gas station. Occasionally the buttons got pushed and the song would ring out, simply increasing their stress.
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c3aNYE09zn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 No tinny songs, audio books, podcasts or deep breathing could cover the sound of their cries.
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6FEFDkVLoTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

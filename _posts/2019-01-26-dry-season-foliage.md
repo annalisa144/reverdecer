@@ -9,7 +9,7 @@ layout: post
 
 I'm learning to appreciate the shades of green we see in patches during this dusty, dry season. And usually, the green comes with thorns - like this sweet acacia.
 
-Thorns are a survival strategy and I don't *want* to resent them. But I do contemplate buying serious hiking boots every time I get poked (but will I need them after this winter in Mexico?).
+Thorns are a survival strategy (less water loss than leaves, deter predators) and I don't *want* to resent them. But I do contemplate buying serious hiking boots every time I get poked (but will I need them after this winter in Mexico?).
 
 What are your survival strategies this winter? 
 * Wrapping your hands around cups of tea, cocoa, coffee under a blanket

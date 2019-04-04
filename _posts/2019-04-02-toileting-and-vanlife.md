@@ -8,7 +8,7 @@ categories: vandwelling cats
 layout: post
 ---
 
-I prefer to pee into empty containers while we're making progress on a roadtrip than stop for public (germ-ridden) bathrooms. Timesaver, esp since my small bladder requests relief every 2 hours.
+I prefer to pee into empty containers while we're making progress on a roadtrip than stop for public (germ-ridden) bathrooms. Timesaver, esp since my small bladder requests relief every 2 hours. Quart-size yogurt containers are ideal, esp with lids. To-go coffee cups work. Careful with anything smaller than a pint.
 
 The cats quickly learned to use their litterbox on our recent roadtip, and we shared one toilet area: behind the passenger seat, the only "open" space in the van.
 
@@ -32,3 +32,6 @@ No tinny songs, audio books, podcasts or deep breathing could cover the sound of
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6FEFDkVLoTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Ever wonder [what you need to cross an international border with pets](https://reverdecer.annalisagross.com/2019/04/04/crossing-the-border-with-pets/)? Paperwork and patience.

@@ -18,7 +18,7 @@ are some answers.
 
 Our roots float - they're at least as mobile as the van. [The van is a practical home](https://reverdecer.annalisagross.com/2019/03/28/vanlife-and-re-wombing/), but family is sufficient rooting medium.
 
-[![](/images/cape_myrtle_.jpg){:width="60%"}](/images/cape_myrtle.jpg)
+[![](/images/crape_myrtle_.jpg){:width="60%"}](/images/crape_myrtle.jpg)
 
 Most trees have more body underground than aboveground - though of course some trees' roots float or poke out as knees.
 

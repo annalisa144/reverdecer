@@ -7,7 +7,7 @@ categories: vandwelling
 layout: post
 ---
 
-We're [back in the US](https://reverdecer.annalisagross.com/2019/03/25/roadtrips-with-cats/) after a year in Mexico. We've been in NC for a [memorial service](https://reverdecer.annalisagross.com/2019/03/30/thorns/) and family time, and I can't come the times someone has asked "Where do you live?"
+We're [back in the US](https://reverdecer.annalisagross.com/2019/03/25/roadtrips-with-cats/) after a year in Mexico. We've been in NC for a [memorial service](https://reverdecer.annalisagross.com/2019/03/30/thorns/) and family time, and I can't count the times someone has asked "Where do you live?"
 
 * we're here for a few weeks
 * in our van

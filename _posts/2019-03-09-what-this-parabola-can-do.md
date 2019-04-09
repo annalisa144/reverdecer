@@ -1,6 +1,6 @@
 ---
 title: What this parabola can do
-date: '2019-04-10 06:00:00'
+date: '2019-04-18 06:00:00'
 image: gris_parabola_.jpg
 tags: efficient diy how to store energy
 categories: solar vandwelling

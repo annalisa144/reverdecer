@@ -2,7 +2,8 @@
 title: Cats go inside
 date: '2019-04-11 07:00:00'
 image: fly_hotel_.jpg
-tags: road trip with cats vanlife pets dogs travel
+tags: road trip with cats vanlife pets dogs travel mother's day gratitude parents
+  love
 categories: cats vandwelling
 layout: post
 ---
@@ -33,3 +34,5 @@ We got back on the interstate before dawn and by the end of that day, we remembe
 They only needed a minute of cautious crawling around to declare this space safe, and played wildly on all the furniture. Then they discovered mirrors! We don't know what their reflections meant to them, but they were fascinated.
 
 The next morning Gris climbed the curtains, fell into the [litterbox](https://reverdecer.annalisagross.com/2019/04/02/toileting-and-vanlife/), knocking gravel throughout the room. We cleaned up as much as we could and left a huge tip.
+
+Now the cats are living on my parents' farm. [Is there any limit to what parents will do?](http://reverdecer.annalisagross.com/2019/04/10/mothers-day-gratitude-project/)

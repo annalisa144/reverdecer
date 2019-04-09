@@ -8,7 +8,7 @@ categories: vandwelling
 layout: post
 ---
 
-My mom stayed in El Terreno for 42 hours while Phillip and I went to Mexico City to [try to get some money back from the government](**). Her main duties were providing companionship to the dogs, and maintaining the solar power system. Plus there were [lots of little details keeping her busy](https://reverdecer.annalisagross.com/2018/07/18/stuff-we-have-to-do-before-breakfast/) throughtout the day!
+My mom stayed in El Terreno for 42 hours while Phillip and I went to Mexico City to [try to get some money back from the government](https://reverdecer.annalisagross.com/2019/03/18/getting-our-money-back/). Her main duties were providing companionship to the dogs, and maintaining the solar power system. Plus there were [lots of little details keeping her busy](https://reverdecer.annalisagross.com/2018/07/18/stuff-we-have-to-do-before-breakfast/) throughtout the day!
 
 [![](/images/mom_.jpg){:width="60%"}](/images/mom.jpg)
 
@@ -18,7 +18,7 @@ Though she was up for the El Terreno challenge, I doubt my mom would want to re-
 
 As a kid I sketched plans for my dream house, which I wanted my dad to build. Would I have this fantasy if I understood how draining that house project had been?
 
-Now my dream house is a nicer van with an electric engine that we can run off solar panels. Our van has been a cozy womb in El Terreno. Sure, it's often too cold, too hot, full of flies, full of Max farts. We've shared it with mice, rats, mosquitos and at least one scorpion. The bed isn't comfortable and we're always finding poop, mud, grass and mice heads in it.
+Now my dream house is a nicer van with an electric engine that we can run off solar panels. Our van has been a cozy womb in El Terreno. Sure, it's often too cold, too hot, full of flies, full of Max farts. We've shared it with mice, rats, mosquitos and at least one scorpion. The bed isn't comfortable and [we're always finding poop, mud, grass and mice heads in it.](http://reverdecer.annalisagross.com/2019/04/10/mothers-day-gratitude-project/)
 
 But our van is familiar and stable. It's been our safe place as we live outside our comfort zones.
 

@@ -10,7 +10,7 @@ layout: post
 
 We *had* to go to Mexico City if we had any chance of [getting our money back from the Mexican government.](http://reverdecer.annalisagross.com/2019/03/16/getting-our-money-back/). Lesson: don't bother with temporary residency if you can manage to leave the country every six months.
 
-I'm glad the government beauraucracy is this centralized, because we wouldn't have made it to Mexico City without this reason: can't drive there legally and can't leave the dogs alone overnight--Mexico City was out of our reach. (My mom made it all possible! That story later.)
+I'm glad the government beauraucracy is this centralized, because we wouldn't have made it to Mexico City without this reason: can't drive there legally and can't leave the dogs alone overnight--Mexico City was out of our reach. [My mom made it all possible!](https://reverdecer.annalisagross.com/2019/03/28/vanlife-and-re-wombing/)
 
 Now we have a long list of things to explore when we find a way to return. Mexico City is gorgeous, friendly, fascinating, and for one of the world's biggest cities, surprisingly navigable by foot+metro+taxi. Upon descending the metro stairs and not seeing our train line, we looked at each other to confer but before we could even ask the question, a stranger stopped and asked "Adonde van?" and by the time we could tell her "la linea verde" two more people had stopped and pointed the way.
 

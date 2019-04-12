@@ -25,7 +25,7 @@ Oh the irony. Most [**chocolate** is harvested by child slaves.](https://foodisp
 
 Skip over worries and guilt and [support moms around the world](https://globalwomensproject.wordpress.com/mothers-day-project-2/) as you honor your own mother this spring. She'll get a thoughtful, handwritten card, and the money you donate in her honor supports:
 
-* girls' education and community-building in Uganda (especially alternatives to gential cutting)
+* girls' education and community-building in Uganda (especially alternatives to genital cutting)
 * sewing cooperative in South Sudan
 * women's health cooperative in Chiapas, Mexico
 *  social work training in Togo

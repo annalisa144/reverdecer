@@ -21,7 +21,7 @@ Most human moms naturally sacrifice whatever they can to improve their children'
 
 Oh the irony. Most [**chocolate** is harvested by child slaves.](https://foodispower.org/human-labor-slavery/slavery-chocolate/)  Don't go there! Look beyond a fair trade label, which (alone) means nothing. Latin American chocolate is less likely to be harvested by child slaves, but most chocolate comes from West Africa. [Here's an imperfect guide.](https://foodispower.org/chocolate-list/)
 
-**Flowers? **Only if you get them from your own yard or an organic grower at the farmers' market. Otherwise you're exposing your own mom (as well as field and florist workers, who are usually parents, too) to [dangerous pesticides.](https://www.smithsonianmag.com/travel/the-secrets-behind-your-flowers-53128/)
+**Flowers?** Only if you get them from your own yard or an organic grower at the farmers' market. Otherwise you're exposing your own mom (as well as field and florist workers, who are usually parents, too) to [dangerous pesticides.](https://www.smithsonianmag.com/travel/the-secrets-behind-your-flowers-53128/)
 
 Skip over worries and guilt and [support moms around the world](https://globalwomensproject.wordpress.com/mothers-day-project-2/) as you honor your own mother this spring. She'll get a thoughtful, handwritten card, and the money you donate in her honor supports:
 

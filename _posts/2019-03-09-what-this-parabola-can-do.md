@@ -1,6 +1,6 @@
 ---
 title: What this parabola can do
-date: '2019-04-18 06:00:00'
+date: '2019-04-15 06:00:00'
 image: gris_parabola_.jpg
 tags: efficient diy how to store energy
 categories: solar vandwelling
@@ -31,5 +31,3 @@ Recharge [salt heaters](https://reverdecer.annalisagross.com/2019/01/04/first-ex
 
 
 This crude solar parabola was able to reach temperatures between 180F and 200F. It was able to melt plastic, but not boil water.  There are two big improvements that can be made with better materials. The first is a better reflective surface (such as a sheet of aluminum or stainless steel, scraps of glass mirror, or mylar glued to foam.)  The second is a more precise parabola shape with a frame of metal bent exactly to shape instead of a curde approximation of the square wooden frame.  With both of theses improvements the solar concentrator should be able to reach temperatures in excess of 400F!
-
-

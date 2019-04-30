@@ -1,6 +1,6 @@
 ---
 title: Guanajuato
-date: '2019-04-28 07:00:00'
+date: '2019-05-01 07:00:00'
 image: skyline_gto_.jpg
 tags: travel mexico leon shoes pets vanlife vacation exercise
 categories: spanish dogs

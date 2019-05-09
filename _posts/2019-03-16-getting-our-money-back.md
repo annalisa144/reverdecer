@@ -8,11 +8,11 @@ categories: spanish morelia
 layout: post
 ---
 
-Guess it's an urban legend that the British invented [red tape](https://en.wikipedia.org/wiki/Red_tape) in India. Lately it feels like Mexico wants to win the beauracracy competition.
+Guess it's an urban legend that the British invented [red tape](https://en.wikipedia.org/wiki/Red_tape) in India. Seems like Mexico wants to win the beauracracy competition - but I bet that's what we think about whichever country we're living in.
 
 Travel advice for US citizens in Mexico: skip the temporary resident permit and leave the country every six months on the free, simple tourist visa. You don't need to apply in advance - just show up by land, sea or air with a valid passport.
 
-We decided to apply for temporary resident visas and we regret it. [Consulates in the US were so confusing](http://www.annalisagross.com/home/temporary-resident-visas) I think it must be intentional - to cut down on their workload?
+We decided to apply for temporary resident visas and we regret it. [Consulates in the US are confusing and hard to contact](http://www.annalisagross.com/home/temporary-resident-visas) I think it must be intentional - to cut down on their workload?
 
 We had the (seriously mistaken) understanding that the worst was over once our visas were approved in Atlanta. "Just go to the office in Morelia within 30 days, pay for 1, 2, 3 or 4 years and get your cards" was the consular's advice - and why wouldn't we trust the friendly, helpful, posh consular?
 
@@ -21,7 +21,7 @@ We had the (seriously mistaken) understanding that the worst was over once our v
 
 *A year in Mexico, went by in a blur*
 
-After six visits we had temporary resident visas. I won't relive the misery by typing it out; you can empathize if you've ever lived somewhere you barely speak the language or if you've tried to accomplish something through proudly-beauraucratic channels (then combine the two). Plus the dogs were usually waiting in a hot car, or I was by myself while Phillip stayed home with all the animals.
+After six visits we had temporary resident visas. I won't relive the misery by typing it out; you can empathize if you've ever lived somewhere you barely speak the language or if you've tried to accomplish something through proudly-beauraucratic channels--then combine the two. Plus, the dogs were usually waiting in a hot car, or I was by myself while Phillip stayed home with all the animals.
 
 We ended up paying nearly US$1000 more than we should. We, believing the friendly, helpful, posh consular in Atlanta, paid for 4 years because it was cheaper than paying for 1 year four times, and we figured, why go through this hassle again? Let's get as much time as possible on our first visa.
 

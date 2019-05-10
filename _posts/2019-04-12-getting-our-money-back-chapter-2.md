@@ -23,4 +23,4 @@ We got to Mexico City at bedtime, and Stan explained how we'd get to the governm
 
 We found the buildings without trouble and dared hope for friendly government officials. Though at least 5 guards at the gate had huge guns, they all said *Bienvenidos* with a smile and helped us find the office we needed. No one rolled an eye at our lousy Spanish. We started to go in the wrong door (having misunderstood some instructions) and a guard fetched and redirected us. We weren't relaxed, but we started to breathe a little deeper.
 
-Read more in episode 3.
+Read more in chapter 3.

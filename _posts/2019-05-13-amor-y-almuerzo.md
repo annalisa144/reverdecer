@@ -2,7 +2,8 @@
 title: Amor y almuerzo
 date: '2019-05-13 05:00:00'
 image: cdmx_dogs_.jpg
-tags: mexico city ciudad federal parque iglesia plaza church san juan de dios
+tags: mexico city ciudad federal parque iglesia plaza church san juan de dios city
+  park people watching
 categories: spanish vandwelling
 layout: post
 ---
@@ -17,5 +18,10 @@ How often does this couple meet for lunch? They've got a system down.
 
 | [![](/images/cdmx_lunch_.jpg)](/images/cdmx_lunch.jpg) | [![](/images/cdmx_lunch2_.jpg)](/images/cdmx_lunch2.jpg) |
 
-phil_plaza
-cdmx_church 2 3
+We strolled and sat, reading people and signs. City life has serious perks.
+
+| [![](/images/cdmx_church_.jpg)](/images/cdmx_church.jpg) | [![](/images/cdmx_church2_.jpg)](/images/cdmx_church2.jpg) |
+
+Do you have a favorite lunch park or people-watching plaza? Who do you meet there? Who do you speak to?
+
+| [![](/images/cdmx_church3_.jpg)](/images/cdmx_church3.jpg) | [![](/images/phil_plaza_.jpg)](/images/phil_plaza.jpg) |

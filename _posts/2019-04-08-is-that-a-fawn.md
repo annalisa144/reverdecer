@@ -24,6 +24,3 @@ Border agents don't need training in mammal identification. But we truly were su
 We'll never know if he's an Italian Greyhound (as his papers claim) or a Xoloitzcuintle (as ~100 Mexicans have declared). Those categories are social constructs and rather useless, anyway. We know he loves forehead snuggles, snacks, sleeping under the covers, warm weather and company.
 
 [![](/images/max_cuddles_.jpg){:width="60%"}](/images/max_cuddles.jpg)
-
-max_pillow
-max_stick

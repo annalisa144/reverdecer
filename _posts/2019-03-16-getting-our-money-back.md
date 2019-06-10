@@ -1,5 +1,5 @@
 ---
-title: Getting our money back, episode 1
+title: Getting our money back, chapter 1
 date: '2019-03-18 06:00:00'
 image: bubbles_plaza_.jpg
 tags: mexico mexican government devolucion bureaucracy red tape tourist visa border
@@ -31,4 +31,4 @@ We couldn't get our money back until we finished the process and got our cards. 
 
 Confusion, suspicion, fast Spanish, armed guards, finally we were in a room full of young people and computers, with no idea what to ask for. A half hour later we had an address of where we needed to go to get our money back. We pulled up Maps and started typing. *En Ciudad Mexico, en D.F.* Oh. Mexico City, four hours away, a place we're probably not allowed to drive the van (complex driving laws due to pollution and overcrowding).
 
-How would this work? One of us go at a time, by bus, while the other [stays with the dogs](https://reverdecer.annalisagross.com/2019/03/28/vanlife-and-re-wombing/)? Though we're legally married, we have separate paperwork for all of this (changing our names might have helped with that, though we can't tell) and making separate trips seemed like the best option. Find out in episode 2!
+How would this work? One of us go at a time, by bus, while the other [stays with the dogs](https://reverdecer.annalisagross.com/2019/03/28/vanlife-and-re-wombing/)? Though we're legally married, we have separate paperwork for all of this (changing our names might have helped with that, though we can't tell) and making separate trips seemed like the best option. [Find out in chapter 2!](https://reverdecer.annalisagross.com/2019/05/09/getting-our-money-back-chapter-2/)

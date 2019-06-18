@@ -12,7 +12,7 @@ Explore Mexico City with coins you dig out of your sofa.
 
 Seriously; it's 5 pesos/ticket, which is less than $.25. Transfer trains all day if you feel like it - on the same ticket if you stay on the platforms. While the stations are beautiful, you'll want to get above ground eventually. And look at all the places you'll go!
 
-[![](/images/metro_mapa_.png){:width="60%"}](/images/metro_mapa.png)
+[![](/images/metro_mapa.png)
 
 Each route has a color and also a number. 
 
@@ -26,7 +26,7 @@ Use the paper ticket to get through the turnstyle, then find your platform.
 
 Instructions for waiting at the platform are painted on the floor. This is useful! People will line up and charge the train as soon as they see an opportunity because the doors don't stay open line. Don't be offended if you're from one of the places where people leave a lot of personal space. Just get on the train.
 
-[![](/images/baby_cdmx_.jpg){:width="60%"}](/images/baby_cdmx.jpg)
+[![](/images/baby_cdmx3_.jpg){:width="60%"}](/images/baby_cdmx3.jpg)
 
 Public transit is its own sightseeing. Enjoy more eye-contact and smiles with strangers than a typical US city.
 

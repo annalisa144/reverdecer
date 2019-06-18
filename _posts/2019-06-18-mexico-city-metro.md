@@ -12,7 +12,7 @@ Explore Mexico City with coins you dig out of your sofa.
 
 Seriously; it's 5 pesos/ticket, which is less than $.25. Transfer trains all day if you feel like it - on the same ticket if you stay on the platforms. While the stations are beautiful, you'll want to get above ground eventually. And look at all the places you'll go!
 
-[![](/images/metro_mapa.png)
+[![](/images/metro_mapa_.jpg){:width="60%"}](/images/metro_mapa.jpg)
 
 Each route has a color and also a number. 
 

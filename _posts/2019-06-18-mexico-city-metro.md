@@ -24,7 +24,7 @@ Bring your bike on board!
 
 Use the paper ticket to get through the turnstyle, then find your platform. 
 
-Instructions for waiting at the platform are painted on the floor. This is useful! People will line up and charge the train as soon as they see an opportunity because the doors don't stay open line. Don't be offended if you're from one of the places where people leave a lot of personal space. Just get on the train.
+Instructions for waiting at the platform are painted on the floor. This is useful! Riders might charge the train because the doors don't stay open long. Don't be offended if you're from one of the places where people leave a lot of personal space. Just get on the train.
 
 [![](/images/baby_cdmx3_.jpg){:width="60%"}](/images/baby_cdmx3.jpg)
 

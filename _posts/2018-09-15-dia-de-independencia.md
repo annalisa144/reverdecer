@@ -53,11 +53,12 @@ On 15 September 2016, a month after the president appeared to be humiliated by U
 Now that EPN will soon be replaced by the (more popular) [AMLO](https://reverdecer.annalisagross.com/2018/07/02/leaving-mexico/), I imagine he might not want to face the crowds tomorrow.
 
 ![](https://pbs.twimg.com/media/DnBLznjWwAA4FJt.jpg)
+[![](/images/marcha_del_silencio2_.jpg)](/images/marcha_del_silencio2.jpg)
 
 The Zócalo is all warmed up for civic engagement; two days ago was the 50th anniversary of the Marcha del Silencio (Silence March) when students and workers held a wholy silent march. Why? Well, think about 1968 - so much upheaval! [The Mexican Movement of 1968](https://en.wikipedia.org/wiki/Mexican_Movement_of_1968) was for human rights, an end to police violence, release of political prisoners, etc. Police violently surpressed this movement and continually blamed the activists for "rioting." Sound familiar? So the activists had a wholy silent march, demonstrating their civility! Just a couple weeks later, a [peaceful demonstration became a massacre.](https://en.wikipedia.org/wiki/Tlatelolco_massacre) Government cleaned the streets quickly, since ten days later [the Olympics were in Mexico City and US activists won medals.](http://www.annalisagross.com/home/archives/08-2016)
 
 On the 50th anniversary of the Marcha del Silencio, students were on the streets!
-![](https://img.buzzfeed.com/buzzfeed-static/static/2018-09/13/20/asset/buzzfeed-prod-web-05/sub-buzz-10085-1536886623-1.jpg?downsize=715:*&output-format=auto&output-quality=auto)
+![](/images/marcha_del_silencio.webp)
 
 
 "Being a student in Mexico is more dangerous than being a criminal."
